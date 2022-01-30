@@ -1,0 +1,166 @@
+TY  - JOUR
+TI  - Advantages of Task-Specific Multi-Objective Optimisation in Evolutionary Robotics
+AU  - Trianni, Vito
+AU  - López-Ibáñez, Manuel
+T2  - PLOS ONE
+AB  - The application of multi-objective optimisation to evolutionary robotics is receiving increasing attention. A survey of the literature reveals the different possibilities it offers to improve the automatic design of efficient and adaptive robotic systems, and points to the successful demonstrations available for both task-specific and task-agnostic approaches (i.e., with or without reference to the specific design problem to be tackled). However, the advantages of multi-objective approaches over single-objective ones have not been clearly spelled out and experimentally demonstrated. This paper fills this gap for task-specific approaches: starting from well-known results in multi-objective optimisation, we discuss how to tackle commonly recognised problems in evolutionary robotics. In particular, we show that multi-objective optimisation (i) allows evolving a more varied set of behaviours by exploring multiple trade-offs of the objectives to optimise, (ii) supports the evolution of the desired behaviour through the introduction of objectives as proxies, (iii) avoids the premature convergence to local optima possibly introduced by multi-component fitness functions, and (iv) solves the bootstrap problem exploiting ancillary objectives to guide evolution in the early phases. We present an experimental demonstration of these benefits in three different case studies: maze navigation in a single robot domain, flocking in a swarm robotics context, and a strictly collaborative task in collective robotics.
+DA  - 2015///
+PY  - 2015
+DO  - 10.1371/journal.pone.0136406
+VL  - 10
+IS  - 8
+SP  - e0136406
+J2  - PLOS ONE
+UR  - https://app.dimensions.ai/details/publication/pub.1045649287
+AN  - pub.1045649287
+Y2  - 2022/01/14/
+L2  - https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0136406&type=printable
+ER  - 
+
+TY  - CONF
+TI  - Swarm Intelligence, a Blackboard Architecture and Local Decision Making for Spacecraft Command
+AU  - Straub, Jeremy
+AB  - Control of a multi-spacecraft constellation is a topic of significant inquiry, at present. This paper presents and evaluates a command architecture for a multi-spacecraft mission. It combines swarm techniques with a decentralized / local decision making architecture (which uses a set of shared blackboards for coordination) and demonstrates the efficacy of this approach. Under this approach, the Blackboard software architecture is used to facilitate data sharing between craft as part of a resilient hierarchy and the swarm techniques are used to coordinate activity. The paper begins with an overview of prior work on the precursor command technologies and then presents five command architectures for comparison purposes. Then, it presents a qualitative analysis of these techniques, followed by a quantitative analysis which characterizes the constellation's performance across a variety of prospective scenarios including normal operations, several mission scenarios which limit communications, operations in an intentionally communications-denied environment and operations across a variety of craft failure scenarios. From performance analysis, the utility of the techniques is analyzed.
+C3  - 2015 IEEE Aerospace Conference
+DA  - 2015///
+PY  - 2015
+DO  - 10.1109/aero.2015.7119165
+SP  - 1
+EP  - 7
+UR  - https://app.dimensions.ai/details/publication/pub.1094354671
+AN  - pub.1094354671
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - CONF
+TI  - Territorial Security: Architectures, Methodologies and Integrated Systems for the Information Management in Multi-risk Scenarios
+AU  - Mugavero, Roberto
+AU  - Sabato, Valentina
+AU  - Stall, Cosimo
+AB  - In the world, the territorial risk is increasingly characterized by joint presence of multiple risks, both natural and anthropogenic. Natural hazards include: earthquakes, volcanic eruptions, tsunamis, floods, landslides, coastal erosion, subsidence, water shortages and avalanches. The major anthropic risks are: terrorism, CBRN risk, big event and urban crisis, the industrial-technological risk, the interface and forest fire risk, the environmental risk and also health risk. Today, the modern society are formed by a great complexity of networks and systems. Continuous supply of essential services (i.e. electricity, transport, health care, emergency, banking and financial system) is increasingly a fundamental and concrete need. In all industrialized countries, this complexity has been shown to have a significant effects on the welfare of citizens, social organization, economy and territorial security. In fact, a partial or total detriment of the networks and systems' capacity can have a debilitating impact on society, on defense and security both locally and nationally for the Domino effect. Obviously, if the cities are densely populated this problem is amplified. Finally, the interdependence between networks and urban system is made possible by the rapid growth and integration of infrastructure and telecommunications. If this has improved the lives of citizens, has also made the entire system more delicate and vulnerable. To mitigate this risk profile and optimizing the prevention and mitigation actions and to counteract the consequences of such events, there are some key elements: i) monitoring and control of infrastructures and territory, ii) the adoption of appropriate emergency and contingency plans, iii) the increasing the resilience, iv) the implementation of security policies for public/private partnership but overall, v) the proper management of information. This is important to achieve a holistic, integrated, comprehensive and multidimensional approach during crisis or e emergencies. To achieve this new way to deal with the crisis/emergency event, we must take both a technological and organizational change and evolution of the general architecture of the system. So we can built an homogenous and collaborative environment that allow us to create an institutional, geographical, technical and operational connectivity and the concretization of a rational, consistent and interoperable response. Therefore, we need to built a integrated chain of acquisition, organization and management of data and information coming from the entire territory passing through the use of an integration strategy among space, airborne and ground data acquisition systems. In this way, we can achieve a high level of detail. This is allowed because the data, the information and images of the event, may not only be manipulated, analyzed and displayed, but also converted and used as data input to system such as Geographic Information System (GIS) and Common Operational Picture (COP). So, the decision makers can get an overview of operational framework of the event and may also share this vision with different institutions, structures and organizations. They can be supported in the characterization and management of crisis or emergency and also in collaborative planning.
+C3  - 2012 IEEE First AESS European Conference on Satellite Telecommunications (ESTEL)
+DA  - 2012///
+PY  - 2012
+DO  - 10.1109/estel.2012.6400186
+SP  - 1
+EP  - 5
+UR  - https://app.dimensions.ai/details/publication/pub.1094148533
+AN  - pub.1094148533
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - CONF
+TI  - A Testbed to Simulate and Analyze Resilient Cyber-Physical Systems
+AU  - Kumar, Pranav Srinivas
+AU  - Emfinger, William
+AU  - Karsai, Gabor
+AB  - This paper describes a testbed for development, deployment, testing, and analysis of Cyber-Physical Systems (CPS) applications. The testbed incorporates smart network hardware, allowing high-fidelity emulation of CPS network characteristics, and CPS simulation environments to enable high-frequency sensor reading, actuator control and physical environmental changes. We discuss the architecture of this testbed and present the types of experiments and applications which can be run to study hardware and software fault tolerance, software reconfiguration, and system stability characteristics in distributed real-time embedded systems. We also describe the scalability, limitations, and potential extensions to this testbed.
+C3  - 2015 International Symposium on Rapid System Prototyping (RSP)
+DA  - 2015///
+PY  - 2015
+DO  - 10.1109/rsp.2015.7416553
+SP  - 97
+EP  - 103
+UR  - https://app.dimensions.ai/details/publication/pub.1094076053
+AN  - pub.1094076053
+Y2  - 2022/01/14/
+L2  - http://www.isis.vanderbilt.edu/sites/default/files/2015--RSP--A%20Testbed%20to%20Simulate%20and%20Analyze%20Resilient%20Cyber-Physical%20Systems.pdf
+ER  - 
+
+TY  - JOUR
+TI  - A Blackboard-style decision-making system for multi-tier craft control and its evaluation
+AU  - Straub, Jeremy
+AU  - Reza, Hassan
+T2  - Journal of Experimental & Theoretical Artificial Intelligence
+AB  - This article presents an approach for decision-making in support of the control of an autonomous system of multiple tiers of robots (e.g., satellite, aerial and ground) based on the Blackboard architectural style. Under the proposed approach, the system evaluates prospective approaches for goal satisfaction (identified by user selected final rules), identifies the lowest-cost solution and determines the best path to achieving the goal, via the analysis of the Blackboard rule and action set. Two different approaches to this rule and action path generation are discussed. This article presents the proposed Blackboard-style architecture for autonomous multi-tier control and describes its implementation. The benefits and drawbacks of the Blackboard-style approach are analysed, its extrapolation to the control of multiple heterogeneous craft is presented and the tradeoffs between the two approaches to rule-path generation are assessed.
+DA  - 2015///
+PY  - 2015
+DO  - 10.1080/0952813x.2015.1020569
+VL  - 27
+IS  - 6
+SP  - 763
+EP  - 777
+J2  - Journal of Experimental & Theoretical Artificial Intelligence
+UR  - https://app.dimensions.ai/details/publication/pub.1024853146
+AN  - pub.1024853146
+Y2  - 2022/01/14/
+L2  - https://commons.und.edu/cgi/viewcontent.cgi?article=1009&context=cs-fac
+ER  - 
+
+TY  - JOUR
+TI  - Editors’ Introduction to the Special Issue on Improving Human-Robot Interaction in Complex Operational Environments
+AU  - McDermott, Patricia L.
+AU  - Riley, Jennifer M.
+AU  - Gillan, Douglas J.
+AU  - Cuevas, Haydee M.
+T2  - Journal of Cognitive Engineering and Decision Making
+AB  - The past decade has seen a proliferation in the use of robots in a broad range of complex domains, such as urban search and rescue, military operations (including explosive ordnance disposal and intelligence, surveillance, and reconnaissance), scientific exploration in underwater and space expeditions, law enforcement (e.g., bomb squads), manufacturing, and health care (e.g., telerobotic surgery). Remotely controlled ground, aerial, sea-surface, and underwater robotic vehicles are serving as tools to safely extend the sensory and psychomotor capabilities of humans to remote environments while keeping humans safe. More importantly, with the ever-increasing technological sophistication in their design and capabilities, robots are becoming more than mere tools. They now can be seen as quasi–team members whose tasks and behaviors must be integrated with the task requirements and expectations of their human teammates. Yet without the necessary research base to inform design, sizeable investments will likely be made into developing robotic systems that are ineffective or, at best, not optimal. Toward this end, the goal of this two-part special issue is to present examples of the latest research on human-robot interaction that demonstrate how theories and empirical findings can be translated into practical, useful guidance for improving human-robot team performance across various domains.
+DA  - 2011///
+PY  - 2011
+DO  - 10.1177/1555343411399075
+VL  - 5
+IS  - 1
+SP  - 3
+EP  - 9
+J2  - Journal of Cognitive Engineering and Decision Making
+UR  - https://app.dimensions.ai/details/publication/pub.1019251529
+AN  - pub.1019251529
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - CONF
+TI  - Design of Small, Safe and Robust Quadrotor Swarms
+AU  - Mulgaonkar, Yash
+AU  - Cross, Gareth
+AU  - Kumar, Vijay
+AB  - Scaling down the size and mass of micro aerial vehicles (MAVs) increases their agility and their ability to operate in tight formations. In addition, smaller robots are safer and, as we will show in this paper, more robust to collisions. This paper addresses the development of a pico quadrotor measuring 11 cm from tip to tip, with a mass of 25g. To increase the robustness of the robot to collisions, the vehicle is equipped with a 2 gram carbon fiber cage that protects it from impact velocities in excess of $4\,\, m/s$ and also permits recovery after collisions. We present the design of the electrical, mechanical and computational elements, as well as experimental results demonstrating trajectory following with feedback from an external motion camera system, recovery from collisions with walls and other robots, and formation flight.
+C3  - 2015 IEEE International Conference on Robotics and Automation (ICRA)
+DA  - 2015///
+PY  - 2015
+DO  - 10.1109/icra.2015.7139491
+SP  - 2208
+EP  - 2215
+UR  - https://app.dimensions.ai/details/publication/pub.1094530095
+AN  - pub.1094530095
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - CONF
+TI  - Programming micro-aerial vehicle swarms with karma
+AU  - Dantu, Karthik
+AU  - Kate, Bryan
+AU  - Waterman, Jason
+AU  - Bailis, Peter
+AU  - Welsh, Matt
+AB  - Research in micro-aerial vehicle (MAV) construction, control, and high-density power sources is enabling swarms of MAVs as a new class of mobile sensing systems. For efficient operation, such systems must adapt to dynamic environments, cope with uncertainty in sensing and control, and operate with limited resources. We propose a novel system architecture based on a hive-drone model that simplifies the functionality of an individual MAV to a sequence of sensing and actuation commands with no in-field communication. This decision simplifies the hardware and software complexity of individual MAVs and moves the complexity of coordination entirely to a central hive computer. We present Karma, a system for programming and managing MAV swarms. Through simulation and testbed experiments we demonstrate how applications in Karma can run on limited resources, are robust to individual MAV failure, and adapt to changes in the environment.
+C3  - Proceedings of the 9th ACM Conference on Embedded Networked Sensor Systems - SenSys '11
+DA  - 2011///
+PY  - 2011
+DO  - 10.1145/2070942.2070956
+SP  - 121
+EP  - 134
+UR  - https://app.dimensions.ai/details/publication/pub.1012714965
+AN  - pub.1012714965
+Y2  - 2022/01/14/
+L2  - http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/pubs/archive/37262.pdf
+ER  - 
+
+TY  - CONF
+TI  - A comparison of OLSR and OSPF-MDR for large-scale airborne mobile ad-hoc networks
+AU  - Kuperman, Greg
+AU  - Veytser, Lenny
+AU  - Cheng, Bow-Nan
+AU  - Moore, Scott
+AU  - Narula-Tam, Aradhana
+AB  - In this paper, we compare the proactive MANET routing schemes of OLSR and OSPF-MDR via high-fidelity simulation, and consider their suitability for large-scale airborne networks. A successful MANET routing scheme must be bandwidth efficient and robust to frequent topology changes. To assess the two protocols, we simulate them in networks with up to 400 mobile nodes, under a variety of network densities. We evaluate them on the basis of the amount of routing overhead generated, the rate of successful packet delivery, and the time it takes until all of the routing tables converge. We find that OLSR requires up to an order magnitude higher router overhead than OSPF-MDR, while providing only a marginal benefit in packet delivery success rates. The largest difference between the two protocols is the time it takes for their routing tables to converge in the presence of packet loss. OLSR has consistent convergence times for networks of all sizes, while the convergence time of OSPF-MDR increases with network size.
+C3  - Proceedings of the third ACM workshop on Airborne networks and communications - AIRBORNE '14
+DA  - 2014///
+PY  - 2014
+DO  - 10.1145/2636582.2637347
+SP  - 17
+EP  - 22
+UR  - https://app.dimensions.ai/details/publication/pub.1036689660
+AN  - pub.1036689660
+Y2  - 2022/01/14/
+ER  - 
+
