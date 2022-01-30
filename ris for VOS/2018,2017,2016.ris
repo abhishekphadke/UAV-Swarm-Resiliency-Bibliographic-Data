@@ -1,0 +1,419 @@
+TY  - JOUR
+TI  - Distributed Drone Base Station Positioning for Emergency Cellular Networks Using Reinforcement Learning
+AU  - Klaine, Paulo V.
+AU  - Nadas, João P. B.
+AU  - Souza, Richard D.
+AU  - Imran, Muhammad A.
+T2  - Cognitive Computation
+AB  - Due to the unpredictability of natural disasters, whenever a catastrophe happens, it is vital that not only emergency rescue teams are prepared, but also that there is a functional communication network infrastructure. Hence, in order to prevent additional losses of human lives, it is crucial that network operators are able to deploy an emergency infrastructure as fast as possible. In this sense, the deployment of an intelligent, mobile, and adaptable network, through the usage of drones-unmanned aerial vehicles-is being considered as one possible alternative for emergency situations. In this paper, an intelligent solution based on reinforcement learning is proposed in order to find the best position of multiple drone small cells (DSCs) in an emergency scenario. The proposed solution's main goal is to maximize the amount of users covered by the system, while drones are limited by both backhaul and radio access network constraints. Results show that the proposed <i>Q</i>-learning solution largely outperforms all other approaches with respect to all metrics considered. Hence, intelligent DSCs are considered a good alternative in order to enable the rapid and efficient deployment of an emergency communication network.
+DA  - 2018///
+PY  - 2018
+DO  - 10.1007/s12559-018-9559-8
+VL  - 10
+IS  - 5
+SP  - 790
+EP  - 804
+J2  - Cognitive Computation
+UR  - https://app.dimensions.ai/details/publication/pub.1104141825
+AN  - pub.1104141825
+Y2  - 2022/01/14/
+L2  - https://link.springer.com/content/pdf/10.1007/s12559-018-9559-8.pdf
+ER  - 
+
+TY  - CONF
+TI  - Formal's Analysis of $k$ –Resiliency for Collaborative UAVs
+AU  - Jakaria, A H M
+AU  - Rahman, Mohammad Ashiqur
+AB  - Unmanned aerial vehicles (UAVs) are growingly used in different aspects of our lives. As the cost of UAVs is decreasing with novel technologies, their popularity is increasing rapidly in surveillance, disaster management, agriculture, military operations, etc. The recent trend of collaborative operations of a network of UAVs to achieve a common objective has attracted the researchers as well as commercial vendors. It has revolutionized the means of data collection to maximize mission performances. However, the collaborative UAVs, with respect to the mission objective, need to be resilient to the unavailability of one or more UAVs that can be caused due to cyberattacks or technical failures. As UAVs can easily be targeted by adversaries, these devices need to maintain safe communication with each other while avoiding fuel outage and mid-air collisions, thus reducing the possibilities of being hacked but remain undetected. In this work, we present a formal framework that takes different UAV parameters in a UAV network, resiliency requirements, and resource constraints as the input, and verifies for the resiliency threats. Each threat specifies if $k$ or less number of UAVs fail, whether the rest of the network still can maintain successful communication. We illustrate the execution of this framework with an example case study. We evaluate the proposed framework to demonstrate the relationships between different parameters of a network and its resiliency. We also evaluate the framework in terms of the resiliency analysis performance and scalability.
+C3  - 2018 IEEE 42nd Annual Computer Software and Applications Conference (COMPSAC)
+DA  - 2018///
+PY  - 2018
+DO  - 10.1109/compsac.2018.00089
+SP  - 583
+EP  - 592
+UR  - https://app.dimensions.ai/details/publication/pub.1105073352
+AN  - pub.1105073352
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - JOUR
+TI  - Extending Formal Modeling for Resilient Systems Design
+AU  - Madni, Azad M.
+AU  - Sievers, Michael
+AU  - Madni, Ayesha
+AU  - Ordoukhanian, Edwin
+AU  - Pouya, Parisa
+T2  - Insight
+AB  - Resilience is a much‐needed characteristic in systems that are expected to operate in uncertain environments for extended periods with a high likelihood of disruptive events. Resilience approaches today employ ad hoc methods and piece‐meal solutions that are difficult to verify and test, and do not scale. Furthermore, it is difficult to assess the long‐term impact of such ad hoc “resilience solutions.” This paper presents a flexible contract‐based approach that employs a combination of formal methods for verification and testing and flexible assertions and probabilistic modelling to handle uncertainty during mission execution. A flexible contract (FC) is a hybrid modelling construct that facilitates system verification and testing while offering the requisite flexibility to cope with non‐determinism. This paper illustrates the use of FCs for multi‐UAV swarm control in, partially observable, dynamic environments. However, the approach is sufficiently general for use in other domains such as self‐driving vehicle and adaptive power/energy grids.
+DA  - 2018///
+PY  - 2018
+DO  - 10.1002/inst.12210
+VL  - 21
+IS  - 3
+SP  - 34
+EP  - 41
+J2  - Insight
+UR  - https://app.dimensions.ai/details/publication/pub.1109901403
+AN  - pub.1109901403
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - CONF
+TI  - BS-on-Air: Optimum UAV Localization for Resilient Ultra Dense Networks
+AU  - Bozkaya, Elif
+AU  - Canberk, Berk
+AB  - The deployment of multiple small cells with low-power and low-cost Base Stations (BSs) offers new opportunities for increased traffic demands in Ultra Dense Networks (UDN). However, an instant increase in traffic flows, and subsequent problems with communications caused by the huge demand of users, cannot be met by the existing infrastructure since the users consume all of the network resources in unexpected turn of events (e.g. in the aftermath of large disasters). Hence, this paper aims to design a resilient UDN in order to provide an acceptable Quality of Service (QoS) in the face of unusual traffic challenge. First, by considering this extreme communication environment, we propose a queuing-based approach to model BSs and then define a resilience parameter to guarantee desired QoS. Second, we investigate the deployment of Unmanned Aerial Vehicles (UAVs) to serve as flying BSs. Here, we determine the required number of UAVs and optimal locations for delivering coverage. Our numerical results show that the proposed model has increased the resiliency by 27%, thus constituting a more resilient UDN.
+C3  - IEEE INFOCOM 2018 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
+DA  - 2018///
+PY  - 2018
+DO  - 10.1109/infcomw.2018.8406903
+SP  - 877
+EP  - 881
+UR  - https://app.dimensions.ai/details/publication/pub.1105441696
+AN  - pub.1105441696
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - CONF
+TI  - Poster Abstract: Safety Analysis for UAV Networks
+AU  - Jakaria, A H M
+AU  - Rahman, Mohammad Ashiqur
+AB  - The recent trend of collaborative operations of a network of Unmanned Aerial Vehicles (UAVs) to achieve a common objective has attracted the researchers, as well as commercial vendors. It has revolutionized the means of data collection to maximize mission performances. However, the collaborative UAV s need to be safe from cyberattacks to prevent catastrophe. They need to be able to collaborate with each other to avoid potential failure of a mission. As these smart devices are always targets of adversaries, they need to maintain safe communication with each other while avoiding fuel outage and mid-air collisions, as well as reducing the possibilities of being hacked. In this work, we present the idea of a formal verification tool that takes different UAV parameters, safety requirements, and resource constraints as input and verifies the network's safety.
+C3  - 2018 IEEE/ACM Third International Conference on Internet-of-Things Design and Implementation (IoTDI)
+DA  - 2018///
+PY  - 2018
+DO  - 10.1109/iotdi.2018.00046
+SP  - 294
+EP  - 295
+UR  - https://app.dimensions.ai/details/publication/pub.1104273982
+AN  - pub.1104273982
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - CONF
+TI  - Secure and Decentralized Swarm Behavior with Autonomous Agents for Smart Cities
+AU  - Cooley, Rafer
+AU  - Wolf, Shaya
+AU  - Borowczak, Mike
+AB  - Unmanned Aerial Vehicles (UAVs), referenced as drones, have advanced to consumer adoption for hobby and business use. Due to this increased availability in drone technology other sectors of the economy such as infrastructure technology, security mechanisms, and resource deliveries have begun to implement drones in their own operations. Following the consumer and private sectors demand for better iterations of the product, increasingly more complex tasks will become possible due to the advances in hardware. These tasks increase the potential impacts that drones will have on applications such as smart cities, modern cities which have fully adopted technology in order to enhance daily operations as well as the welfare of its citizens. These cities are being designed to consist of mostly static mesh networks of sensors, but can contain dynamic aspects as well, including both ground and air-based autonomous vehicles. When devising networked computation devices for use in a smart city, safety should be of paramount concern. In an attempt to meet these high standards of security, services and devices should be implemented with security protocols in mind during every stage of development. Given the large number of sensors, autonomous vehicles, and other advancements, a smart city necessitates this level of security. The SHARKS protocol (Secure, Heterogeneous, Autonomous, and Rotational Knowledge for Swarms) ensures this kind of security by allowing for new applications for UAV swarm technology. Enabling drones to circle a target without centralized control or selecting lead agents, the SHARKS protocol performs organized movement among agents without creating a central point of vulnerability. Through comparisons on the stability of the protocol in different settings, experiments demonstrate the efficiency and capacity of the SHARKS protocol as a potential solution for future smart cities.
+C3  - 2018 IEEE International Smart Cities Conference (ISC2)
+DA  - 2018///
+PY  - 2018
+DO  - 10.1109/isc2.2018.8656939
+SP  - 1
+EP  - 8
+UR  - https://app.dimensions.ai/details/publication/pub.1112523429
+AN  - pub.1112523429
+Y2  - 2022/01/14/
+L2  - http://arxiv.org/pdf/1806.02496
+ER  - 
+
+TY  - CONF
+TI  - Toward Development of Resilient Multi-UAV System-of-Systems
+AU  - Ordoukhanian, Edwin
+AU  - Madni, Azad M.
+C3  - AIAA SPACE 2016
+DA  - 2016///
+PY  - 2016
+DO  - 10.2514/6.2016-5414
+UR  - https://app.dimensions.ai/details/publication/pub.1040401444
+AN  - pub.1040401444
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - CONF
+TI  - The Methodology of Synthesis of Synergetic Intelligent Control of UAV Formations
+AU  - Pavlova, S.
+AU  - Chepizhenko, V.
+AB  - A methodology has been proposed that is aimed at the development and improvement of modern methods, models and algorithms for synergetic intelligent control of unmanned aerial vehicle formations.
+C3  - 2017 IEEE 4th International Conference Actual Problems of Unmanned Aerial Vehicles Developments (APUAVD)
+DA  - 2017///
+PY  - 2017
+DO  - 10.1109/apuavd.2017.8308813
+SP  - 215
+EP  - 217
+UR  - https://app.dimensions.ai/details/publication/pub.1101394404
+AN  - pub.1101394404
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - CONF
+TI  - Formal Methods for Intelligent Systems Design and Control
+AU  - Madni, Azad M.
+C3  - 2018 AIAA Information Systems-AIAA Infotech @ Aerospace
+DA  - 2018///
+PY  - 2018
+DO  - 10.2514/6.2018-1368
+UR  - https://app.dimensions.ai/details/publication/pub.1100241707
+AN  - pub.1100241707
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - JOUR
+TI  - Resilient Design and Operation of Cyber Physical Systems with Emphasis on Unmanned Autonomous Systems
+AU  - Vachtsevanos, George
+AU  - Lee, Benjamin
+AU  - Oh, Sehwan
+AU  - Balchanos, Michael
+T2  - Journal of Intelligent & Robotic Systems
+AB  - Autonomy and autonomous systems are occupying central stage in the research community, as autonomous vehicles are proliferating and their utility in all aspects of the military and civilian domains are increasing exponentially from one year to the next. The development and application of resiliency and safety technologies to autonomous systems is, unfortunately, not keeping pace with their growth rate. Several factors impede the deployment and adoption of autonomous systems. Among them is the absence of an adequately high level of autonomy that can be relied upon, significant challenges in the area of human-machine interface requiring significant human intervention to operate and interpret sensor data, the need for emerging machine learning technologies and, most importantly, the resilient design and operation of complex systems to assure their safety, reliability and availability when executing missions in unstructured and cluttered environments. Recent advances in resiliency and safety of complex engineered systems have focused on methods/tools to tradeoff system performance for increased time to failure aiming at mission completion or trial and error methods to arrive at a suboptimal policy for system self-organization in the presence of a failure mode. This paper introduces a novel framework for the resilient design and operation of such complex systems via self-organization and control reconfiguration strategies that avoid empirical trial and error techniques and may be implemented and perform in real time on-platform. The main theme is summarized as: “a healthy and resilient system is a safe system”. To accomplish this objective, we introduce an integrated and rigorous approach to resilient design while safety considerations ascertain that the targeted system is contained within a safe envelope. A resilient system is robustly and flexibly monitoring its internal and external environment, it can detect and anticipate disturbances that may affect its operational integrity and take appropriate action to compensate for the disturbance. Resilience enhances safety while improving risk factors and assures that vehicles subjected to extreme disturbances remain within their safe envelope. The enabling technologies begin with graph spectral and epidemic spreading modeling tools to represent the system behaviors under normal and faulty conditions; a Markov Decision Process is the basic self-organization module. We are introducing a novel approach to fault-tolerance by considering the impacts of severe fault modes on system performance as inputs to a Reinforcement Learning (RL) strategy that trades off system performance with control activity in order to extend the Remaining Useful Life (RUL) of the unmanned system. Performance metrics are defined and assist in the algorithmic developments and their validation. We pursue an integrated and verifiable methodology to safety assurance that enables the evaluation of the effectiveness of risk management strategies. Several unmanned autonomous systems are used for demonstration purposes.
+DA  - 2018///
+PY  - 2018
+DO  - 10.1007/s10846-018-0881-x
+VL  - 91
+IS  - 1
+SP  - 59
+EP  - 83
+J2  - Journal of Intelligent & Robotic Systems
+UR  - https://app.dimensions.ai/details/publication/pub.1104553714
+AN  - pub.1104553714
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - JOUR
+TI  - SwarmSim: a framework for modeling swarming unmanned aerial vehicles using Hardware-in-the-Loop
+AU  - Worth, Derek B
+AU  - Woolley, Brian G
+AU  - Hodson, Douglas D
+T2  - The Journal of Defense Modeling and Simulation Applications Methodology Technology
+AB  - Unmanned Aerial Vehicle (UAV) swarm applications, algorithms, and control strategies have experienced steady growth and development over the past 15 years. Yet, to date, most swarm development efforts have gone untested and unimplemented. The major inhibitors to successful swarm implementation seem to include the cost of aircraft systems, government imposed airspace restrictions, and the lack of adequate modeling and simulation tools. This paper examines how the open-source OpenEaagles simulation framework was leveraged to bridge this gap to create Hardware-in-the-Loop (HIL) simulations. Leveraging OpenEaagles through software extension to create HIL simulations provides developers with a functional capability with which to develop and test the behaviors of scalable and modular swarms of autonomous UAVs. Using HIL-based simulations in this capacity provides assurance that defined behaviors will propagate to live flight tests in the real world. The demonstrations in the work show how the framework enhances and simplifies swarm development through encapsulation, possesses high modularity, provides realistic aircraft modeling, and is capable of simultaneously accommodating multiple hardware-piloted and purely simulated swarming UAVs during simulation.
+DA  - 2021///
+PY  - 2021
+DO  - 10.1177/1548512917715154
+VL  - 18
+IS  - 2
+SP  - 105
+EP  - 124
+J2  - The Journal of Defense Modeling and Simulation Applications Methodology Technology
+UR  - https://app.dimensions.ai/details/publication/pub.1091008896
+AN  - pub.1091008896
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - CONF
+TI  - An integrated swarm intelligence simulation for resilient autonomous systems
+AU  - Clifford, Jayson
+AU  - Neighbors, Jake
+AU  - Towhidnejad, Massood
+AB  - Embry-Riddle Aeronautical University is working on an ongoing project, Resilient Autonomous Systems (RAS), supported by the Air Force Research Lab (AFRL). The objective of this project is to develop autonomous vehicle command and control (C2) technologies that demonstrate increased resilience in Anti-Access Area Denial (A2/AD) environments. Current automated solutions that offer little autonomous re-planning capability can be inflexible in handling dynamic scenarios in these environments. In this case, increased resiliency is defined as the ability of the system to better operate at or above an acceptable level of performance even in unfavorable environments, such as when encountering intelligent adversaries using Electronic Warfare (EW) and Integrated Air Defenses (IAD). The ERAU team has outlined a number of scenarios that set two teams, red and blue, against each other in a shared simulated environment. In general, the objectives for each team are as follows: The blue team assets must navigate through hostile enemy environments, collecting intelligence and reporting back to base, while minimizing the losses. The red team assets must minimize the loss of intelligence to the blue team while maximizing blue team expenditure in fuel and assets. Scenarios range from an area of 25 km2 with 10 agents on each team, to 4000 km2 and >300 agents on each team.
+C3  - Disruptive Technologies in Information Sciences
+DA  - 2018///
+PY  - 2018
+DO  - 10.1117/12.2306919
+SP  - 1065212
+UR  - https://app.dimensions.ai/details/publication/pub.1103909094
+AN  - pub.1103909094
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - CONF
+TI  - Resilient Communication, Object Classification and Data Fusion in Unmanned Aerial Systems
+AU  - Allison, Jacob A.
+AU  - Ptucha, Raymond
+AU  - Lyshevski, Sergey E.
+AB  - This paper researches robust data fusion, descriptive reality and control solutions. Cognitive autonomy, vehicle-to-vehicle and vehicle-to-ground communication, as well as wireless hybrid mobile mesh networks are considered. In dynamic and contested environments, the nodes and autonomous swarms must transmit and assess states, evaluate shared data, adapt to dynamic countermeasures, reconfigure, and, ensure secure communication. Robust algorithms and protocols must accomplish data management, perform vulnerability analysis, support data trustworthiness assessment, support physical-virtual reality, and evaluate functionality. Reliability of information sources and communication should be guaranteed despite adversary electronic warfare and disruptive actions. We examine science and technology of communication and data management in distributed processing, control and autonomy applications typifying adversarial environments. Our results ensure sufficient throughput, low latency, robustness, connectivity and secure communication. Topics on target recognition, object classification and dynamic tracking are researched with experimental substantiations.
+C3  - 2018 International Conference on Unmanned Aircraft Systems (ICUAS)
+DA  - 2018///
+PY  - 2018
+DO  - 10.1109/icuas.2018.8453309
+SP  - 779
+EP  - 787
+UR  - https://app.dimensions.ai/details/publication/pub.1106749390
+AN  - pub.1106749390
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - JOUR
+TI  - On the dynamics and breakup of quadcopters using a discrete element method framework
+AU  - Zohdi, T.I.
+T2  - Computer Methods in Applied Mechanics and Engineering
+AB  - Unmanned Aerial Vehicles (UAVs), in particular quadcopters, have become extremely prevalent, driven by their low cost and ease of control. Unfortunately, privacy concerns related to the ubiquity of UAVs have prompted substantial citizen interest in the shooting down of UAVs that trespass onto their property, although the legality thereof is unclear. In this work, the dynamical response of a quadcopter to a series of randomly external impulses, which could be generated by objects launched toward the UAV, such shotgun pellets, etc., is formulated. A Discrete Element Method (DEM) is developed to describe the breakup of the quadcopter, in conjunction with a staggered implicit time-stepping scheme. The use of DEM allows for fragmentation of the quadcopter and also to compute the trajectories and distribution of the resulting debris field.
+DA  - 2017///
+PY  - 2017
+DO  - 10.1016/j.cma.2017.07.009
+VL  - 327
+SP  - 503
+EP  - 521
+J2  - Computer Methods in Applied Mechanics and Engineering
+UR  - https://app.dimensions.ai/details/publication/pub.1090834028
+AN  - pub.1090834028
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - CONF
+TI  - A Methodology to Evaluate Tradeoffs between Individual Architecture Development and Numerality to Achieve Group Performance in Robotics Swarms
+AU  - Durand, Jean-Guillaume
+AU  - Burgaud, Frederic
+AU  - Cooksey, K. D.
+AU  - Mavris, Dimitri N.
+C3  - 17th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference
+DA  - 2016///
+PY  - 2016
+DO  - 10.2514/6.2016-3665
+UR  - https://app.dimensions.ai/details/publication/pub.1019738150
+AN  - pub.1019738150
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - CONF
+TI  - Highly Flexible Swarm Intelligence Algorithm for Resilient Autonomous Systems
+AU  - Clifford, J.
+AU  - Towhidnejad, M.
+AU  - Neighbors, J.
+AU  - Verenich, E.
+AU  - Staskevich, G.
+AB  - This paper provides an update to our ongoing Resilient Autonomous Systems (RAS) project that is being conducted at Embry-Riddle Aeronautical University and is supported by the Air Force Research Lab (AFRL). The objective of the RAS project is to develop a distributed multi-layer autonomous UAS planning and control technology for gathering intelligence in Anti-Access Area Denial (A2/AD) environments populated by intelligent adaptive adversaries. These resilient autonomous systems are able to navigate through hostile environments while collecting intelligence and minimizing the loss of assets. Our approach incorporates artificial life concepts, with the high-level architecture divided into three biologically inspired meta-layers: cyber-physical, reactive, and deliberative. Each meta-layer is a combination of N layers, each representing simple behavior, and collectively having a dynamic level of influence over the behavior of the agent. Algorithms within each layer act on a combination of perceptions, memory, and intents. Perceptions represent a filtered view of reality, abstracted in the layer immediately below, modified in the current layer, and passed to the next highest layer. Intents represent a recommended action output from the layer above, modified in the current layer, and passed to the next lowest layer. Each cycle, perceptions and intents are cleared. Memory permeates each layer, and allows the layers to retain some knowledge from previous cycles. Fast-reactive control systems in low meta-layers ensure a stable environment supporting cognitive function on higher meta-layers. The key concepts of our approach are: A layered architecture of intelligence on a spectrum from reactive to deliberative; the use of artificial life algorithms providing robust, complex behavior from a set of simple rules; communication of information between agents via observation; the use of a genetic algorithm (GA) to assist the team in selecting and adapting the best solutions for each layer. This distributed cooperative system of intelligent assets will provide adaptable, scalable performance to accomplish mission goals in challenging environments.
+C3  - 2018 IEEE/AIAA 37th Digital Avionics Systems Conference (DASC)
+DA  - 2018///
+PY  - 2018
+DO  - 10.1109/dasc.2018.8569720
+SP  - 1
+EP  - 6
+UR  - https://app.dimensions.ai/details/publication/pub.1110514518
+AN  - pub.1110514518
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - CONF
+TI  - Resilient Multi-UAV Operation: Key Concepts and Challenges
+AU  - Ordoukhanian, Edwin
+AU  - Madni, Azad M.
+C3  - 54th AIAA Aerospace Sciences Meeting
+DA  - 2016///
+PY  - 2016
+DO  - 10.2514/6.2016-0475
+UR  - https://app.dimensions.ai/details/publication/pub.1011686034
+AN  - pub.1011686034
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - CONF
+TI  - Modeling Trust in Self-Organizing Systems With Heterogeneity
+AU  - Ji, Hao
+AU  - Jin, Yan
+AB  - Self-organizing systems (SOS) possess the potential of performing complex tasks in uncertain situations with adaptability. Despite the benefits of self-organizing, it is also subject to the influence of unpredictable behavior of individual agents and environment noises. In hostile situations for example, individual performance of self-organizing agents may deteriorate and this can lead to system malfunction, posing great challenge for the design of SOS. In this paper, we propose a trust based model as a design approach to SOS in consideration of the capability heterogeneity of the agents. A box-pushing task was presented and studied. Trust is measured using beta probability distribution, which takes into account both the positive and negative interactions between the agents. The simulation results have shown that our trust model ensures favorable interactions among agents and leads to increased system effectiveness and conditional system efficiency improvement in comparison to SOS without using a trust model.Copyright © 2018 by ASME
+C3  - Volume 7: 30th International Conference on Design Theory and Methodology
+DA  - 2018///
+PY  - 2018
+DO  - 10.1115/detc2018-86006
+SP  - v007t06a023
+EP  - v007t06a023
+UR  - https://app.dimensions.ai/details/publication/pub.1107993500
+AN  - pub.1107993500
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - JOUR
+TI  - Multi-model cooperative task assignment and path planning of multiple UCAV formation
+AU  - Huang, Hanqiao
+AU  - Zhuo, Tao
+T2  - Multimedia Tools and Applications
+AB  - Multi-model techniques have shown an outstanding effectiveness in the cooperative task assignment and path planning of the unmanned combat aerial vehicle(UCAV) formation. With cooperative decision making and control, the cooperative combat of the UCAV formation are described and the mathematical model of the UCAV formation is built. Then, the task assignment model of the UCAV formation is developed according to flight characteristics of the UCAV formation and constraints in battlefield. The cooperative task assignment problem is solved using the improved particle swarm optimization(IPSO), ant colony algorithm(ACA) and genetic algorithm(GA) respectively. The comparative analysis is conducted in the aspects of the precision and the search speed. The path planning model of the UCAV formation is constructed considering the oil cost, threat cost, crash cost and time cost. The cooperative path planning problem is solved based on the evolution algorithm(EA), in which unique coding scheme of chromosomes is designed, and the crossover operator and mutation operator are redefined. Simulation results demonstrate that the UCAV formation can choose the best algorithm according to the real battlefield environment, which can solve the cooperative task assignment and path planning problems quickly and effectively to meet the demand of the cooperative combat.
+DA  - 2019///
+PY  - 2019
+DO  - 10.1007/s11042-017-4956-7
+VL  - 78
+IS  - 1
+SP  - 415
+EP  - 436
+J2  - Multimedia Tools and Applications
+UR  - https://app.dimensions.ai/details/publication/pub.1090285835
+AN  - pub.1090285835
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - JOUR
+TI  - Jamming-Resilient Multipath Routing Protocol for Flying Ad Hoc Networks
+AU  - Pu, Cong
+T2  - IEEE Access
+AB  - As a result of the rapid technological advances on electronic, sensors and communication technologies, and increasingly popular multi-sized unmanned aerial vehicles, also referred to as drones, flying ad hoc networks (FANETs) are rapidly proliferating and leading the emergence of Internet of Drones and its applications. Because of the versatility, flexibility, easy installation, and relatively small operating expenses of drones, FANETs have enormous potential in the public and civil domains. However, due to unique characteristics of FANETs, routing demands of FANETs go beyond the needs of mobile ad hoc networks and vehicular ad hoc networks. In this paper, we propose a jamming-resilient multipath routing protocol, also called JarmRout, so that intentional jamming and disruption or isolated and localized failures do not interrupt the overall network performance of FANETs. To achieve this goal, the JarmRout relies on a combination of three major schemes that are link quality scheme, traffic load scheme, and spatial distance scheme. We present a simple analytical model and its numerical result in terms of RREP packet reception rate of source node. We also evaluate the proposed routing protocol through extensive simulation experiments using the OMNeT++ and compare its performance with three representative routing protocols that are dynamic source routing, optimized link state routing, and split multipath routing. Simulation results show that the JarmRout can not only improve packet delivery ratio and packet delivery latency but also can reduce end-to-end communication outage rate without introducing extra communication overhead, indicating a viable approach to improve network resiliency in the presence of malicious jammers in FANETs.
+DA  - 2018///
+PY  - 2018
+DO  - 10.1109/access.2018.2879758
+VL  - 6
+SP  - 68472
+EP  - 68486
+J2  - IEEE Access
+UR  - https://app.dimensions.ai/details/publication/pub.1108045832
+AN  - pub.1108045832
+Y2  - 2022/01/14/
+L2  - https://doi.org/10.1109/access.2018.2879758
+ER  - 
+
+TY  - CONF
+TI  - PADS: Practical Attestation for Highly Dynamic Swarm Topologies
+AU  - Ambrosin, Moreno
+AU  - Conti, Mauro
+AU  - Lazzeretti, Riccardo
+AU  - Rabbani, Masoom
+AU  - Ranise, Silvio
+AB  - Remote attestation protocols are widely used to detect device configuration (e.g., software and/or data) compromise in Internet of Things (IoT) scenarios. Unfortunately, the performances of such protocols are unsatisfactory when dealing with thousands of smart devices. Recently, researchers are focusing on addressing this limitation. The approach is to run attestation in a collective way, with the goal of reducing computation and communication. Despite these advances, current solutions for attestation are still unsatisfactory because of their complex management and strict assumptions concerning the topology (e.g., being time invariant or maintaining a fixed topology). In this paper, we propose PADS, a secure, efficient, and practical protocol for attesting potentially large networks of smart devices with unstructured or dynamic topologies. PADS builds upon the recent concept of non-interactive attestation, by reducing the collective attestation problem into a minimum consensus one. We compare PADS with a state-of-the art collective attestation protocol and validate it by using realistic simulations that show practicality and efficiency. The results confirm the suitability of PADS for low-end devices, and highly unstructured networks.
+C3  - 2018 International Workshop on Secure Internet of Things (SIoT)
+DA  - 2018///
+PY  - 2018
+DO  - 10.1109/siot.2018.00009
+SP  - 18
+EP  - 27
+UR  - https://app.dimensions.ai/details/publication/pub.1122782198
+AN  - pub.1122782198
+Y2  - 2022/01/14/
+L2  - http://arxiv.org/pdf/1806.05766
+ER  - 
+
+TY  - JOUR
+TI  - Multicore Resource Isolation for Deterministic, Resilient and Secure Concurrent Execution of Safety-Critical Applications
+AU  - Omar, Hamza
+AU  - Dogan, Halit
+AU  - Kahne, Brian
+AU  - Khan, Omer
+T2  - IEEE Computer Architecture Letters
+AB  - Multicores increasingly deploy spatial execution of safety-critical applications that demand a deterministic, resilient, and secure environment to meet the safety standards. However, multicores aggressively share hardware resources that leads to non-deterministic performance due to destructive interference from concurrent applications. Resource sharing not only hinders efficient resilient execution, but also introduces security vulnerabilities due to information leakage on side-channels. This work proposes a novel multicore framework that constructs isolated clusters of cores for each concurrent application. It guarantees concurrent applications with deterministic performance, as well as an efficient execution environment for resiliency and security. Moreover, the framework allows dynamic re-sizing of cluster sizes for load balanced execution of concurrent applications. However, it leads to diminished isolation between clusters, which opens various performanceresilience and performancesecurity tradeoffs.
+DA  - 2018///
+PY  - 2018
+DO  - 10.1109/lca.2018.2874216
+VL  - 17
+IS  - 2
+SP  - 230
+EP  - 234
+J2  - IEEE Computer Architecture Letters
+UR  - https://app.dimensions.ai/details/publication/pub.1107456884
+AN  - pub.1107456884
+Y2  - 2022/01/14/
+L2  - https://doi.org/10.1109/lca.2018.2874216
+ER  - 
+
+TY  - CONF
+TI  - Revolutionary Affordable Architecture Generation & Evaluation - Application to a System of Attritable UAVs
+AU  - Pagan, James E.
+AU  - Huynh, Dat
+AU  - Schafer, Steven R.
+AU  - Pinon-Fischer, Olivia J.
+AU  - Mavris, Dimitri N.
+C3  - 2018 AIAA Aerospace Sciences Meeting
+DA  - 2018///
+PY  - 2018
+DO  - 10.2514/6.2018-1743
+UR  - https://app.dimensions.ai/details/publication/pub.1100241238
+AN  - pub.1100241238
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - CONF
+TI  - Preparing for the Unexpected: Diversity Improves Planning Resilience in Evolutionary Algorithms
+AU  - Gabor, Thomas
+AU  - Belzner, Lenz
+AU  - Phan, Thomy
+AU  - Schmid, Kyrill
+AB  - As automatic optimization techniques find their way into industrial applications, the behavior of many complex systems is determined by some form of planner picking the right actions to optimize a given objective function. In many cases, the mapping of plans to objective reward may change due to unforeseen events or circumstances in the real world. In those cases, the planner usually needs some additional effort to adjust to the changed situation and reach its previous level of performance. Whenever we still need to continue polling the planner even during re-planning, it oftentimes exhibits severely lacking performance. In order to improve the planner's resilience to unforeseen change, we argue that maintaining a certain level of diversity amongst the considered plans at all times should be added to the planner's objective. Effectively, we encourage the planner to keep alternative plans to its currently best solution. As an example case, we implement a diversity-aware genetic algorithm using two different metrics for diversity (differing in their generality) and show that the blow in performance due to unexpected change can be severely lessened in the average case. We also analyze the parameter settings necessary for these techniques in order to gain an intuition how they can be incorporated into larger frameworks or process models for software and systems engineering.
+C3  - 2018 IEEE International Conference on Autonomic Computing (ICAC)
+DA  - 2018///
+PY  - 2018
+DO  - 10.1109/icac.2018.00023
+SP  - 131
+EP  - 140
+UR  - https://app.dimensions.ai/details/publication/pub.1107773355
+AN  - pub.1107773355
+Y2  - 2022/01/14/
+L2  - http://arxiv.org/pdf/1810.12483
+ER  - 
+
