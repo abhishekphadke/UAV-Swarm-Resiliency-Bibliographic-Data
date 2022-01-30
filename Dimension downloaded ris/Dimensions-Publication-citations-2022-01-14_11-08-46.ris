@@ -1,0 +1,1594 @@
+
+TY  - JOUR
+AN  - pub.1045649287
+TI  - Advantages of Task-Specific Multi-Objective Optimisation in Evolutionary Robotics
+AU  - Trianni, Vito
+AU  - López-Ibáñez, Manuel
+PY  - 2015
+JO  - PLOS ONE
+VL  - 10
+IS  - 8
+SP  - e0136406
+DO  - 10.1371/journal.pone.0136406
+UR  - https://app.dimensions.ai/details/publication/pub.1045649287
+L2  - https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0136406&type=printable
+U1  - 26295151 [PMID]
+U1  - PMC4546428 [PMCID]
+Y2  - 2022/01/14
+AB  - The application of multi-objective optimisation to evolutionary robotics is receiving increasing attention. A survey of the literature reveals the different possibilities it offers to improve the automatic design of efficient and adaptive robotic systems, and points to the successful demonstrations available for both task-specific and task-agnostic approaches (i.e., with or without reference to the specific design problem to be tackled). However, the advantages of multi-objective approaches over single-objective ones have not been clearly spelled out and experimentally demonstrated. This paper fills this gap for task-specific approaches: starting from well-known results in multi-objective optimisation, we discuss how to tackle commonly recognised problems in evolutionary robotics. In particular, we show that multi-objective optimisation (i) allows evolving a more varied set of behaviours by exploring multiple trade-offs of the objectives to optimise, (ii) supports the evolution of the desired behaviour through the introduction of objectives as proxies, (iii) avoids the premature convergence to local optima possibly introduced by multi-component fitness functions, and (iv) solves the bootstrap problem exploiting ancillary objectives to guide evolution in the early phases. We present an experimental demonstration of these benefits in three different case studies: maze navigation in a single robot domain, flocking in a swarm robotics context, and a strictly collaborative task in collective robotics. 
+ER  - 
+TY  - CONF
+AN  - pub.1094354671
+TI  - Swarm Intelligence, a Blackboard Architecture and Local Decision Making for Spacecraft Command
+AU  - Straub, Jeremy
+PY  - 2015
+BT  - 2015 IEEE Aerospace Conference
+SP  - 1
+EP  - 7
+DO  - 10.1109/aero.2015.7119165
+UR  - https://app.dimensions.ai/details/publication/pub.1094354671
+Y2  - 2022/01/14
+AB  - Control of a multi-spacecraft constellation is a topic of significant inquiry, at present. This paper presents and evaluates a command architecture for a multi-spacecraft mission. It combines swarm techniques with a decentralized / local decision making architecture (which uses a set of shared blackboards for coordination) and demonstrates the efficacy of this approach. Under this approach, the Blackboard software architecture is used to facilitate data sharing between craft as part of a resilient hierarchy and the swarm techniques are used to coordinate activity. The paper begins with an overview of prior work on the precursor command technologies and then presents five command architectures for comparison purposes. Then, it presents a qualitative analysis of these techniques, followed by a quantitative analysis which characterizes the constellation's performance across a variety of prospective scenarios including normal operations, several mission scenarios which limit communications, operations in an intentionally communications-denied environment and operations across a variety of craft failure scenarios. From performance analysis, the utility of the techniques is analyzed.
+ER  - 
+TY  - CONF
+AN  - pub.1011301055
+TI  - High Assurance for Distributed Cyber Physical Systems
+AU  - Hissam, Scott A.
+AU  - Chaki, Sagar
+AU  - Moreno, Gabriel A.
+PY  - 2015
+BT  - Proceedings of the 2015 European Conference on Software Architecture Workshops
+SP  - 1
+EP  - 4
+DO  - 10.1145/2797433.2797439
+UR  - https://app.dimensions.ai/details/publication/pub.1011301055
+Y2  - 2022/01/14
+AB  - Distributed Adaptive Real-Time (DART) systems are interconnected and collaborating systems that continuously must satisfy guaranteed and highly critical requirements (e.g., collision avoidance), while at the same time adapt, smartly, to achieve best-effort and low-critical application requirements (e.g., protection coverage) when operating in dynamic and uncertain environments. This short paper introduces our architecture and approach to engineering a DART system so that we achieve high assurance in its runtime behavior against a set of formally specified requirements. It describes our technique to: (i) ensure asymmetric timing protection between high- and low-critical threads on each node in the DART system, and (ii) verify that the self-adaptation within, and coordination between, the nodes and their interaction with the physical environment do not violate high and low criticality requirements. We present our ongoing research to integrate advances in model-based engineering with compositional analysis techniques to formally verify safety-critical properties demanded in safety-conscious domains such as aviation and automotive; and introduce our DART model problem to demonstrate of our engineering approach.
+ER  - 
+TY  - JOUR
+AN  - pub.1091759202
+TI  - RT 128: New Project Incubator
+AU  - Wade, Jon
+AU  - Avnet, Mark S
+AU  - Huang, LiGuo
+AU  - Madni, Azad
+AU  - Sullivan, Kevin
+AU  - Witus, Gary
+PY  - 2015
+DO  - 10.21236/ada631782
+UR  - https://app.dimensions.ai/details/publication/pub.1091759202
+L2  - https://apps.dtic.mil/dtic/tr/fulltext/u2/a631782.pdf
+Y2  - 2022/01/14
+AB  - Under SERC, there is a need to support new ideas to support critical research and emerging challenges. This incubation capability will be supported by an annual open call to the SERC research collaborating universities through the Incubator Project. This report contains the strategy and results for the project during the 2014-2015 period, and white papers with presentations of each selected project: Multilevel Framework of System Safety, Technical Debt in Software Systems, Formal Methods in Resilient Systems Using Flexible Contracts, Foundations of Systems Engineering, and Model-Centric Government-Industry Collaborative Environments.
+ER  - 
+TY  - CONF
+AN  - pub.1094148533
+TI  - Territorial Security: Architectures, Methodologies and Integrated Systems for the Information Management in Multi-risk Scenarios
+AU  - Mugavero, Roberto
+AU  - Sabato, Valentina
+AU  - Stall, Cosimo
+PY  - 2012
+BT  - 2012 IEEE First AESS European Conference on Satellite Telecommunications (ESTEL)
+SP  - 1
+EP  - 5
+DO  - 10.1109/estel.2012.6400186
+UR  - https://app.dimensions.ai/details/publication/pub.1094148533
+Y2  - 2022/01/14
+AB  - In the world, the territorial risk is increasingly characterized by joint presence of multiple risks, both natural and anthropogenic. Natural hazards include: earthquakes, volcanic eruptions, tsunamis, floods, landslides, coastal erosion, subsidence, water shortages and avalanches. The major anthropic risks are: terrorism, CBRN risk, big event and urban crisis, the industrial-technological risk, the interface and forest fire risk, the environmental risk and also health risk. Today, the modern society are formed by a great complexity of networks and systems. Continuous supply of essential services (i.e. electricity, transport, health care, emergency, banking and financial system) is increasingly a fundamental and concrete need. In all industrialized countries, this complexity has been shown to have a significant effects on the welfare of citizens, social organization, economy and territorial security. In fact, a partial or total detriment of the networks and systems' capacity can have a debilitating impact on society, on defense and security both locally and nationally for the Domino effect. Obviously, if the cities are densely populated this problem is amplified. Finally, the interdependence between networks and urban system is made possible by the rapid growth and integration of infrastructure and telecommunications. If this has improved the lives of citizens, has also made the entire system more delicate and vulnerable. To mitigate this risk profile and optimizing the prevention and mitigation actions and to counteract the consequences of such events, there are some key elements: i) monitoring and control of infrastructures and territory, ii) the adoption of appropriate emergency and contingency plans, iii) the increasing the resilience, iv) the implementation of security policies for public/private partnership but overall, v) the proper management of information. This is important to achieve a holistic, integrated, comprehensive and multidimensional approach during crisis or e emergencies. To achieve this new way to deal with the crisis/emergency event, we must take both a technological and organizational change and evolution of the general architecture of the system. So we can built an homogenous and collaborative environment that allow us to create an institutional, geographical, technical and operational connectivity and the concretization of a rational, consistent and interoperable response. Therefore, we need to built a integrated chain of acquisition, organization and management of data and information coming from the entire territory passing through the use of an integration strategy among space, airborne and ground data acquisition systems. In this way, we can achieve a high level of detail. This is allowed because the data, the information and images of the event, may not only be manipulated, analyzed and displayed, but also converted and used as data input to system such as Geographic Information System (GIS) and Common Operational Picture (COP). So, the decision makers can get an overview of operational framework of the event and may also share this vision with different institutions, structures and organizations. They can be supported in the characterization and management of crisis or emergency and also in collaborative planning.
+ER  - 
+TY  - CONF
+AN  - pub.1002872574
+TI  - Front Matter: Volume 9119
+AU  - Proceedings of SPIE
+PY  - 2014
+BT  - Machine Intelligence and Bio-inspired Computation: Theory and Applications VIII
+SP  - 911901
+EP  - 911901
+DO  - 10.1117/12.2072212
+UR  - https://app.dimensions.ai/details/publication/pub.1002872574
+L2  - https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9119/911901/Front-Matter-Volume-9119/10.1117/12.2072212.pdf
+Y2  - 2022/01/14
+ER  - 
+TY  - CONF
+AN  - pub.1094076053
+TI  - A Testbed to Simulate and Analyze Resilient Cyber-Physical Systems
+AU  - Kumar, Pranav Srinivas
+AU  - Emfinger, William
+AU  - Karsai, Gabor
+PY  - 2015
+BT  - 2015 International Symposium on Rapid System Prototyping (RSP)
+SP  - 97
+EP  - 103
+DO  - 10.1109/rsp.2015.7416553
+UR  - https://app.dimensions.ai/details/publication/pub.1094076053
+L2  - http://www.isis.vanderbilt.edu/sites/default/files/2015--RSP--A%20Testbed%20to%20Simulate%20and%20Analyze%20Resilient%20Cyber-Physical%20Systems.pdf
+Y2  - 2022/01/14
+AB  - This paper describes a testbed for development, deployment, testing, and analysis of Cyber-Physical Systems (CPS) applications. The testbed incorporates smart network hardware, allowing high-fidelity emulation of CPS network characteristics, and CPS simulation environments to enable high-frequency sensor reading, actuator control and physical environmental changes. We discuss the architecture of this testbed and present the types of experiments and applications which can be run to study hardware and software fault tolerance, software reconfiguration, and system stability characteristics in distributed real-time embedded systems. We also describe the scalability, limitations, and potential extensions to this testbed.
+ER  - 
+TY  - JOUR
+AN  - pub.1024853146
+TI  - A Blackboard-style decision-making system for multi-tier craft control and its evaluation
+AU  - Straub, Jeremy
+AU  - Reza, Hassan
+PY  - 2015
+JO  - Journal of Experimental & Theoretical Artificial Intelligence
+VL  - 27
+IS  - 6
+SP  - 763
+EP  - 777
+DO  - 10.1080/0952813x.2015.1020569
+UR  - https://app.dimensions.ai/details/publication/pub.1024853146
+L2  - https://commons.und.edu/cgi/viewcontent.cgi?article=1009&context=cs-fac
+Y2  - 2022/01/14
+AB  - This article presents an approach for decision-making in support of the control of an autonomous system of multiple tiers of robots (e.g., satellite, aerial and ground) based on the Blackboard architectural style. Under the proposed approach, the system evaluates prospective approaches for goal satisfaction (identified by user selected final rules), identifies the lowest-cost solution and determines the best path to achieving the goal, via the analysis of the Blackboard rule and action set. Two different approaches to this rule and action path generation are discussed. This article presents the proposed Blackboard-style architecture for autonomous multi-tier control and describes its implementation. The benefits and drawbacks of the Blackboard-style approach are analysed, its extrapolation to the control of multiple heterogeneous craft is presented and the tradeoffs between the two approaches to rule-path generation are assessed.
+ER  - 
+TY  - JOUR
+AN  - pub.1019251529
+TI  - Editors’ Introduction to the Special Issue on Improving Human-Robot Interaction in Complex Operational Environments
+AU  - McDermott, Patricia L.
+AU  - Riley, Jennifer M.
+AU  - Gillan, Douglas J.
+AU  - Cuevas, Haydee M.
+PY  - 2011
+JO  - Journal of Cognitive Engineering and Decision Making
+VL  - 5
+IS  - 1
+SP  - 3
+EP  - 9
+DO  - 10.1177/1555343411399075
+UR  - https://app.dimensions.ai/details/publication/pub.1019251529
+Y2  - 2022/01/14
+AB  - The past decade has seen a proliferation in the use of robots in a broad range of complex domains, such as urban search and rescue, military operations (including explosive ordnance disposal and intelligence, surveillance, and reconnaissance), scientific exploration in underwater and space expeditions, law enforcement (e.g., bomb squads), manufacturing, and health care (e.g., telerobotic surgery). Remotely controlled ground, aerial, sea-surface, and underwater robotic vehicles are serving as tools to safely extend the sensory and psychomotor capabilities of humans to remote environments while keeping humans safe. More importantly, with the ever-increasing technological sophistication in their design and capabilities, robots are becoming more than mere tools. They now can be seen as quasi–team members whose tasks and behaviors must be integrated with the task requirements and expectations of their human teammates. Yet without the necessary research base to inform design, sizeable investments will likely be made into developing robotic systems that are ineffective or, at best, not optimal. Toward this end, the goal of this two-part special issue is to present examples of the latest research on human-robot interaction that demonstrate how theories and empirical findings can be translated into practical, useful guidance for improving human-robot team performance across various domains.
+ER  - 
+TY  - CONF
+AN  - pub.1093547357
+TI  - Activate distributed energy resources&#x27; services: Hierarchical voltage controller as an application
+AU  - Han, Xue
+AU  - Kosek, Anna Magdalena
+AU  - Gehrke, Oliver
+AU  - Bindner, Henrik W.
+AU  - Kullmann, Daniel
+PY  - 2014
+BT  - 2014 IEEE PES T&D Conference and Exposition
+SP  - 1
+EP  - 5
+DO  - 10.1109/tdc.2014.6863539
+UR  - https://app.dimensions.ai/details/publication/pub.1093547357
+L2  - https://backend.orbit.dtu.dk/ws/files/98831235/IEEETnDpaper.pdf
+Y2  - 2022/01/14
+AB  - The flexibilities from controllable distributed energy resources (DERs) offer the opportunities to mitigate some of the operation problems in the power distribution grid. The provision of system services requires the aggregation and coordination of their flexibilities, in order to obtain the flexible capacity of large scale. In this paper, a hierarchical controller is presented to activate the aggregation, and tries to obtain a global optimum of the grid operation. A distribution grid with large penetration of highly varying generation or load is under the risk that the voltage quality delivered to the end users is very poor. Hence, a coordinated voltage control function is investigated given such control hierarchy utilizing the flexibilities from the DER units to obtain an optimal voltage profile along the distribution feeder. The results are two folded: the controller enables the efficient aggregation and dispatch, and it simplifies the optimization complexity; the involvement of DER flexibilities in voltage services can significantly improve the voltage quality and reduce the grid power loss without additional regulating devices.
+ER  - 
+TY  - BOOK
+AN  - pub.1038274080
+TI  - Handbook of Unmanned Aerial Vehicles
+PY  - 2015
+A3  - Kimon P. Valavanis
+A3  - George J. Vachtsevanos
+DO  - 10.1007/978-90-481-9707-1
+UR  - https://app.dimensions.ai/details/publication/pub.1038274080
+Y2  - 2022/01/14
+AB  - The Handbook of Unmanned Aerial Vehicles is a reference text for the academic and research communities, industry, manufacturers, users, practitioners, Federal Government, Federal and State Agencies, the private sector, as well as all organizations that are and will be using unmanned aircraft in a wide spectrum of applications. The Handbook covers all aspects of UAVs, from design to logistics and ethical issues. It is also targeting the young investigator, the future inventor and entrepreneur by providing an overview and detailed information of the state-of-the-art as well as useful new concepts that may lead to innovative research. The contents of the Handbook include material that addresses the needs and ‘know how’ of all of the above sectors targeting a very diverse audience. The Handbook offers a unique and comprehensive treatise of everything one needs to know about unmanned aircrafts, from conception to operation, from technologies to business activities, users, OEMs, reference sources, conferences, publications, professional societies, etc. It should serve as a Thesaurus, an indispensable part of the library for everyone involved in this area. For the first time, contributions by the world’s top experts from academia, industry, government and the private sector, are brought together to provide unique perspectives on the current state-of-the-art in UAV, as well as future directions. The Handbook is intended for the expert/practitioner who seeks specific technical/business information, for the technically-oriented scientists and engineers, but also for the novice who wants to learn more about the status of UAV and UAV-related technologies. The Handbook is arranged in a user-friendly format, divided into main parts referring to: UAV Design Principles; UAV Fundamentals; UAV Sensors and Sensing Strategies; UAV Propulsion; UAV Control; UAV Communication Issues; UAV Architectures; UAV Health Management Issues; UAV Modeling, Simulation, Estimation and Identification; MAVs and Bio-Inspired UAVs; UAV Mission and Path Planning; UAV Autonomy; UAV Sense, Detect and Avoid Systems; Networked UAVs and UAV Swarms; UAV Integration into the National Airspace; UAV-Human Interfaces and Decision Support Systems; Human Factors and Training; UAV Logistics Support; UAV Applications; Social and Ethical Implications; The Future of UAVs. Each part is written by internationally renowned authors who are authorities in their respective fields. The contents of the Handbook supports its unique character as a thorough and comprehensive reference book directed to a diverse audience of technologists, businesses, users and potential users, managers and decision makers, novices and experts, who seek a holistic volume of information that is not only a technical treatise but also a source for answers to several questions on UAV manufacturers, users, major players in UAV research, costs, training required and logistics issues.
+ER  - 
+TY  - CONF
+AN  - pub.1094530095
+TI  - Design of Small, Safe and Robust Quadrotor Swarms
+AU  - Mulgaonkar, Yash
+AU  - Cross, Gareth
+AU  - Kumar, Vijay
+PY  - 2015
+BT  - 2015 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 2208
+EP  - 2215
+DO  - 10.1109/icra.2015.7139491
+UR  - https://app.dimensions.ai/details/publication/pub.1094530095
+Y2  - 2022/01/14
+AB  - Scaling down the size and mass of micro aerial vehicles (MAVs) increases their agility and their ability to operate in tight formations. In addition, smaller robots are safer and, as we will show in this paper, more robust to collisions. This paper addresses the development of a pico quadrotor measuring 11 cm from tip to tip, with a mass of 25g. To increase the robustness of the robot to collisions, the vehicle is equipped with a 2 gram carbon fiber cage that protects it from impact velocities in excess of $4\,\, m/s$ and also permits recovery after collisions. We present the design of the electrical, mechanical and computational elements, as well as experimental results demonstrating trajectory following with feedback from an external motion camera system, recovery from collisions with walls and other robots, and formation flight.
+ER  - 
+TY  - CONF
+AN  - pub.1094527232
+TI  - Future Space-Based Communications Infrastructures Based on High Throughput Satellites and Software Defined Networking
+AU  - Rossi, T.
+AU  - De Sanctis, M.
+AU  - Cianca, E.
+AU  - Fragale, C.
+AU  - Ruggieri, M.
+AU  - Fenech, H.
+PY  - 2015
+BT  - 2015 IEEE International Symposium on Systems Engineering (ISSE)
+SP  - 332
+EP  - 337
+DO  - 10.1109/syseng.2015.7302778
+UR  - https://app.dimensions.ai/details/publication/pub.1094527232
+Y2  - 2022/01/14
+AB  - Terrestrial networks are currently embracing new paradigms as Software Defined Networking (SDN) and Network Functions Virtualization (NFV); these technologies can provide great opportunities also to broadband satellite networks architectures, bringing flexibility, scalability, customization and cost reduction. Moreover, new user-tailored services could be provided. In this paper, the use of SDN and NFV in a broadband satellite access scenario will be analyzed and some selected applications will be examied to identify possible benefits provided by these paradigms.
+ER  - 
+TY  - BOOK
+AN  - pub.1033276040
+TI  - Applications of Mathematics and Informatics in Science and Engineering
+PY  - 2014
+A3  - Nicholas J. Daras
+DO  - 10.1007/978-3-319-04720-1
+UR  - https://app.dimensions.ai/details/publication/pub.1033276040
+Y2  - 2022/01/14
+AB  - Analysis, assessment, and data management are core competencies for operation research analysts. This volume addresses a number of issues and developed methods for improving those skills. It is an outgrowth of a conference held in April 2013 at the Hellenic Military Academy, and brings together a broad variety of mathematical methods and theories with several applications. It discusses directions and pursuits of scientists that pertain to engineering sciences. It is also presents the theoretical background required for algorithms and techniques applied to a large variety of concrete problems. A number of open questions as well as new future areas are also highlighted. This book will appeal to operations research analysts, engineers, community decision makers, academics, the military community, practitioners sharing the current “state-of-the-art,” and analysts from coalition partners. Topics covered include Operations Research, Games and Control Theory, Computational Number Theory and Information Security, Scientific Computing and Applications, Statistical Modeling and Applications, Systems of Monitoring and Spatial Analysis.
+ER  - 
+TY  - CONF
+AN  - pub.1012714965
+TI  - Programming micro-aerial vehicle swarms with karma
+AU  - Dantu, Karthik
+AU  - Kate, Bryan
+AU  - Waterman, Jason
+AU  - Bailis, Peter
+AU  - Welsh, Matt
+PY  - 2011
+BT  - Proceedings of the 9th ACM Conference on Embedded Networked Sensor Systems - SenSys '11
+SP  - 121
+EP  - 134
+DO  - 10.1145/2070942.2070956
+UR  - https://app.dimensions.ai/details/publication/pub.1012714965
+L2  - http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/pubs/archive/37262.pdf
+Y2  - 2022/01/14
+AB  - Research in micro-aerial vehicle (MAV) construction, control, and high-density power sources is enabling swarms of MAVs as a new class of mobile sensing systems. For efficient operation, such systems must adapt to dynamic environments, cope with uncertainty in sensing and control, and operate with limited resources. We propose a novel system architecture based on a hive-drone model that simplifies the functionality of an individual MAV to a sequence of sensing and actuation commands with no in-field communication. This decision simplifies the hardware and software complexity of individual MAVs and moves the complexity of coordination entirely to a central hive computer. We present Karma, a system for programming and managing MAV swarms. Through simulation and testbed experiments we demonstrate how applications in Karma can run on limited resources, are robust to individual MAV failure, and adapt to changes in the environment.
+ER  - 
+TY  - CONF
+AN  - pub.1036689660
+TI  - A comparison of OLSR and OSPF-MDR for large-scale airborne mobile ad-hoc networks
+AU  - Kuperman, Greg
+AU  - Veytser, Lenny
+AU  - Cheng, Bow-Nan
+AU  - Moore, Scott
+AU  - Narula-Tam, Aradhana
+PY  - 2014
+BT  - Proceedings of the third ACM workshop on Airborne networks and communications - AIRBORNE '14
+SP  - 17
+EP  - 22
+DO  - 10.1145/2636582.2637347
+UR  - https://app.dimensions.ai/details/publication/pub.1036689660
+Y2  - 2022/01/14
+AB  - In this paper, we compare the proactive MANET routing schemes of OLSR and OSPF-MDR via high-fidelity simulation, and consider their suitability for large-scale airborne networks. A successful MANET routing scheme must be bandwidth efficient and robust to frequent topology changes. To assess the two protocols, we simulate them in networks with up to 400 mobile nodes, under a variety of network densities. We evaluate them on the basis of the amount of routing overhead generated, the rate of successful packet delivery, and the time it takes until all of the routing tables converge. We find that OLSR requires up to an order magnitude higher router overhead than OSPF-MDR, while providing only a marginal benefit in packet delivery success rates. The largest difference between the two protocols is the time it takes for their routing tables to converge in the presence of packet loss. OLSR has consistent convergence times for networks of all sizes, while the convergence time of OSPF-MDR increases with network size.
+ER  - 
+TY  - CHAP
+AN  - pub.1052885892
+TI  - Chapter 6 Usability in Defense Systems Examples from Aviation
+AU  - Maybury, Mark T.
+PY  - 2012
+BT  - Usability in Government Systems
+SP  - 95
+EP  - 106
+DO  - 10.1016/b978-0-12-391063-9.00038-9
+UR  - https://app.dimensions.ai/details/publication/pub.1052885892
+Y2  - 2022/01/14
+AB  - Defense systems provide a rich, challenging, and critical environment for usability. Complexity, severity, and life-critical importance place them necessarily on the cutting edge of usability. This chapter describes the broad range of defense missions, operators, and operating environments and relates these to key dimensions of usability. It illustrates this concretely with two case examples: ground control stations for remotely piloted aircraft and air traffic management systems. The chapter explores how, in both these cases, advances in machine autonomy and human control promise to enhance operator situational awareness and control, but not without challenges. The chapter next provides guidelines for effective usability engineering. These include: 1) require usability as a key performance parameter, 2) architect and design systems and operations that incorporate affordances and fault tolerance, 3) employ standards to increase learnability and interoperability, 4) instrument environments to tailor usability, and 5) assess effects. The chapter concludes by identifying the remaining challenges.Keywords: defense systems, usability, remotely piloted aircraft, air traffic management, autonomy, aviation, human control, situational awareness, cognitive overload, control
+ER  - 
+TY  - JOUR
+AN  - pub.1091575670
+TI  - Defense Science Board Task Force Report: The Role of Autonomy in DoD Systems
+PY  - 2012
+DO  - 10.21236/ada566864
+UR  - https://app.dimensions.ai/details/publication/pub.1091575670
+Y2  - 2022/01/14
+AB  - Unmanned systems are proving to have a significant impact on warfare worldwide. The true value of these systems is not to provide a direct human replacement, but rather to extend and complement human capability in a number of ways. These systems extend human reach by providing potentially unlimited persistent capabilities without degradation due to fatigue or lack of attention. Unmanned systems offer the warfighter more options and flexibility to access hazardous environments, work at small scales, or react at speeds and scales beyond human capability. With proper design of bounded autonomous capabilities, unmanned systems can also reduce the high cognitive load currently placed on operators/supervisors. Moreover, increased autonomy can enable humans to delegate those tasks that are more effectively done by computer, including synchronizing activities between multiple unmanned systems, software agents and warfighters thus freeing humans to focus on more complex decision making.
+ER  - 
+TY  - JOUR
+AN  - pub.1006981055
+TI  - Bridging the gap between complex networks and smart grids
+AU  - Yu, Wenwu
+AU  - Wen, Guanghui
+AU  - Yu, Xinghuo
+AU  - Wu, Zaijun
+AU  - Lü, Jinhu
+PY  - 2014
+JO  - Journal of Control and Decision
+VL  - 1
+IS  - 1
+SP  - 102
+EP  - 114
+DO  - 10.1080/23307706.2014.885293
+UR  - https://app.dimensions.ai/details/publication/pub.1006981055
+Y2  - 2022/01/14
+AB  - It is well known that many real-world systems can be described by complex networks with the nodes and the edges representing the individuals and their communications, respectively. Based on recent advances in complex networks, this paper aims to provide some new methodologies to study some fundamental problems in smart grids. In particular, it summarises some results for networks properties, distributed control and optimisation, and pinning control in complex networks and tries to reveal how these new technologies can be applied in smart grids.
+ER  - 
+TY  - CONF
+AN  - pub.1093611512
+TI  - High-Speed Vision-Based Autonomous Indoor Navigation of a Quadcopter
+AU  - Garcia, Adriano
+AU  - Mattison, Edward
+AU  - Ghose, Kanad
+PY  - 2015
+BT  - 2015 International Conference on Unmanned Aircraft Systems (ICUAS)
+SP  - 338
+EP  - 347
+DO  - 10.1109/icuas.2015.7152308
+UR  - https://app.dimensions.ai/details/publication/pub.1093611512
+Y2  - 2022/01/14
+AB  - A monocular vision-based approach to indoor autonomous navigation for an off-the-shelf, low-cost Micro Air Vehicle (MAV) quadcopter is presented. Our approach is fully automated and relies on the extraction and analysis of the visual contours of the surrounding physical environment to successfully steer the MAV in hallways and to turn at intersections. All image analysis and processing necessary for deriving and controlling the flight trajectory take place off-board on a system external to the MAV. This permits the use of sophisticated multithreaded real-time algorithms that do not limit the speed of the drone. Furthermore, due to the elimination of on-board processing and possibly the use of additional sensors for realizing such autonomy, stock drones can be used and flight times realized on a single charge remain unaffected. We describe a prototype implementation on a Parrot AR.Drone quadcopter and initial results for autonomous navigation in a structured indoor environment that establishes the viability of the approach.
+ER  - 
+TY  - CONF
+AN  - pub.1095733506
+TI  - Technical program for Wednesday June 4, 2014
+PY  - 2014
+BT  - 2014 American Control Conference
+SP  - 1
+EP  - 135
+DO  - 10.1109/acc.2014.6858573
+UR  - https://app.dimensions.ai/details/publication/pub.1095733506
+Y2  - 2022/01/14
+AB  - The following topics are dealt with: adaptive systems; optimal control; state observer; nonlinear systems; flight control; decentralized control; power systems; robust control; manufacturing systems; process control; automotive; engine; variable-structure control; uncertain systems; robotics; distributed parameter systems; mechatronics; and MIMO systems.
+ER  - 
+TY  - JOUR
+AN  - pub.1091569591
+TI  - What Are We Missing A Call for Red Teaming Within the Domestic Maritime Domain for Anti-Terrorism Programs
+AU  - List, Timothy J
+PY  - 2015
+DO  - 10.21236/ad1009148
+UR  - https://app.dimensions.ai/details/publication/pub.1091569591
+Y2  - 2022/01/14
+AB  - As a component of the Department of Homeland Security and the departments lead for maritime security, the Coast Guard is charged with executing the United States domestic maritime anti-terrorism program. It is critical that Coast Guard policy, plans, and tactics maintain pace with the ever-changing risks associated with terrorism. This thesis examines alternative analysis red teaming and its potential value to the Coast Guard. Specifically, it seeks to answer how red teaming can be leveraged to enhance the value of domestic maritime anti-terrorism activities. The research reviews elements of the maritime domain and principles of red teaming, and proposes and provides implementation recommendations for a terrorism red teaming program for the domestic maritime domain. The study revealed that a red team program would be value added to the Coast Guard for domestic maritime anti-terrorism programs. Leveraging the concept of a minimal viable program, the thesis proposes a red team program and strategy to implement the program within the U.S. Coast Guard. The suggested program would be comprised of three elements: physical red teaming, identification of future attack scenarios, and policy red teaming. The thesis further provides insight into the implementation of these programs and suggests a minimal viable program approach to establishing a terrorism red teaming program for the domestic maritime domain.
+ER  - 
+TY  - JOUR
+AN  - pub.1061338917
+TI  - Persistent Net-AMI for Microgrid Infrastructure Using Cognitive Radio on Cloud Data Centers
+AU  - Nagothu, Kranthimanoj
+AU  - Kelley, Brian
+AU  - Jamshidi, Mo
+AU  - Rajaee, Amir
+PY  - 2012
+JO  - IEEE Systems Journal
+VL  - 6
+IS  - 1
+SP  - 4
+EP  - 15
+DO  - 10.1109/jsyst.2011.2162794
+UR  - https://app.dimensions.ai/details/publication/pub.1061338917
+Y2  - 2022/01/14
+AB  - We address the potential for a truly universal set of integrated wireless communication services, energy management, and control services for a next-generation of National Institute of Standards and Technology microgrid standards. Our approach uses cloud computing data center as the central communication and optimization infrastructure supporting a cognitive radio network of AMI meters which we label netbook advance metering infrastructure (Net-AMI). The Net-AMI is a novel low cost infrastructure of AMI meters that operate akin to netbooks with wireless transceiver that access to cloud data center energy services, cognitive radio services, and wireless communication services. Access occurs via cognitive radios channels. We claim that this solution solves the important problem in smart grid systems of how to develop an extensible, persistent, smart grid information network with a lifespan equivalent to that of most power systems (20–30 years). By persistence, we imply always operable, entirely software upgradeable, and independent of cellular networks. Our system is extensible and can easily handle thousands of variations in power systems, communication protocols, control, and energy optimization protocols. We formulate necessary link analysis and optimum scheduling of downlink and uplink Net-AMI packets in a multiuser cognitive radio environment.
+ER  - 
+TY  - CONF
+AN  - pub.1006450607
+TI  - Multi-Tier Planetary Exploration: A New Autonomous Control Paradigm
+AU  - Straub, Jeremy
+AU  - Fevig, Ronald
+PY  - 2012
+BT  - AIAA SPACE 2012 Conference & Exposition
+DO  - 10.2514/6.2012-5117
+UR  - https://app.dimensions.ai/details/publication/pub.1006450607
+Y2  - 2022/01/14
+ER  - 
+TY  - BOOK
+AN  - pub.1029979557
+TI  - Robot Intelligence Technology and Applications 2012, An Edition of the Presented Papers from the 1st International Conference on Robot Intelligence Technology and Applications
+PY  - 2013
+A3  - Jong-Hwan Kim
+A3  - Eric T. Matson
+A3  - Hyun Myung
+A3  - Peter Xu
+DO  - 10.1007/978-3-642-37374-9
+UR  - https://app.dimensions.ai/details/publication/pub.1029979557
+Y2  - 2022/01/14
+AB  - In recent years, robots have been built based on cognitive architecture which has been developed to model human cognitive ability. The cognitive architecture can be a basis for intelligence technology to generate robot intelligence. In this edited book the robot intelligence is classified into six categories: cognitive intelligence, social intelligence, behavioral intelligence, ambient intelligence, collective intelligence and genetic intelligence. This classification categorizes the intelligence of robots based on the different aspects of awareness and the ability to act deliberately as a result of such awareness. This book aims at serving researchers and practitioners with a timely dissemination of the recent progress on robot intelligence technology and its applications, based on a collection of papers presented at the 1st International Conference on Robot Intelligence Technology and Applications (RiTA), held in Gwangju, Korea, December 16-18, 2012. For a better readability, this edition has the total 101 papers grouped into 3 chapters: Chapter I: Cognitive Intelligence, Social Intelligence and Behavioral Intelligence, Chapter II: Ambient Intelligence, Collective Intelligence and Genetic Intelligence, Chapter III: Intelligent Robot Technologies and Applications.
+ER  - 
+TY  - CONF
+AN  - pub.1095342193
+TI  - Program
+PY  - 2011
+BT  - 2011 - MILCOM 2011 Military Communications Conference
+SP  - ii
+EP  - lv
+DO  - 10.1109/milcom.2011.6127812
+UR  - https://app.dimensions.ai/details/publication/pub.1095342193
+Y2  - 2022/01/14
+ER  - 
+TY  - CHAP
+AN  - pub.1050176476
+TI  - Robots
+AU  - Sleasman, Michael
+PY  - 2015
+BT  - Encyclopedia of Global Bioethics
+SP  - 1
+EP  - 14
+DO  - 10.1007/978-3-319-05544-2_389-1
+UR  - https://app.dimensions.ai/details/publication/pub.1050176476
+Y2  - 2022/01/14
+AB  - The expansion of human capability through emerging technologies resulting from converging developments in advanced robotics, information technology, and the cognitive sciences has served as a point of fascination for literature and the box office alike, but it also is transforming the landscape of contemporary medicine, science, and technology. Developments in robotics over the past few decades in manufacturing, shipping, and military applications have already begun to profoundly reshape these industries. Similarly, the healthcare, service industries, and the transportation sector are poised to join this robotic revolution through the increasing sophistication of surgical robots and other robotic caregivers. Given the vast potential of this form of emerging technologies, this entry explores the field of robotic technology across a wide range of industries and the subsequent discourse of robot ethics to consider if there are inherent concerns or dangers in the utilization of these emerging technologies. Additional attention is given to ethical considerations and social implications of these technologies, as well as to legal and other policy questions raised with respect to regulating robotics for the public good.
+ER  - 
+TY  - BOOK
+AN  - pub.1042196522
+TI  - Communication Technologies for Vehicles, 8th International Workshop, Nets4Cars/Nets4Trains/Nets4Aircraft 2015, Sousse, Tunisia, May 6-8, 2015. Proceedings
+PY  - 2015
+A3  - Mohamed Kassab
+A3  - Marion Berbineau
+A3  - Alexey Vinel
+A3  - Magnus Jonsson
+A3  - Fabien Garcia
+A3  - José Soler
+DO  - 10.1007/978-3-319-17765-6
+UR  - https://app.dimensions.ai/details/publication/pub.1042196522
+L2  - https://backend.orbit.dtu.dk/ws/files/110721176/productFlyer_978_3_319_17764_9.pdf
+Y2  - 2022/01/14
+AB  - This book constitutes the proceedings of the 8th International Workshop on Communication Technologies for Vehicles, Nets4Cars/Nets4Trains/Nets4Aircraft 2015, held in Sousse, Tunisia, in May 2015. The 20 papers presented in this volume were carefully reviewed and selected from 27 submissions. The contributions are organized in topical sections named: road; rail; and air.
+ER  - 
+TY  - BOOK
+AN  - pub.1025159603
+TI  - Software Engineering for Resilient Systems, 6th International Workshop, SERENE 2014, Budapest, Hungary, October 15-16, 2014. Proceedings
+PY  - 2014
+A3  - István Majzik
+A3  - Marco Vieira
+DO  - 10.1007/978-3-319-12241-0
+UR  - https://app.dimensions.ai/details/publication/pub.1025159603
+Y2  - 2022/01/14
+AB  - This book constitutes the refereed proceedings of the 6th International Workshop on Software Engineering for Resilient Systems, SERENE 2014, held in Budapest, Hungary, in October 2014. The 11 revised technical papers presented together with one project paper and one invited talk were carefully reviewed and selected from 22 submissions. The papers are organized in topical sections on design of resilient systems; analysis of resilience; verification and validation; and monitoring.
+ER  - 
+TY  - CONF
+AN  - pub.1095727826
+TI  - Outcome report
+PY  - 2014
+BT  - Proceedings of the 2014 Zone 1 Conference of the American Society for Engineering Education
+SP  - 1
+EP  - 42
+DO  - 10.1109/aseezone1.2014.6820625
+UR  - https://app.dimensions.ai/details/publication/pub.1095727826
+Y2  - 2022/01/14
+AB  - An overview and summary is presented of the American Society for Engineering Education (ASEE) Zone 1 conference at the University of Bridgeport, Bridgeport, Connecticut, USA (April 3-5, 2014).
+ER  - 
+TY  - BOOK
+AN  - pub.1018946549
+TI  - Software Engineering for Resilient Systems, 5th International Workshop, SERENE 2013, Kiev, Ukraine, October 3-4, 2013. Proceedings
+PY  - 2013
+A3  - Anatoliy Gorbenko
+A3  - Alexander Romanovsky
+A3  - Vyacheslav Kharchenko
+DO  - 10.1007/978-3-642-40894-6
+UR  - https://app.dimensions.ai/details/publication/pub.1018946549
+Y2  - 2022/01/14
+AB  - This book constitutes the refereed proceedings of the 5th International Workshop on Software Engineering for Resilient Systems, SERENE 2013, held in Kiev, Ukraine, in October 2013. The 13 revised full papers were carefully reviewed and selected from 21 submissions. The papers are organized in topical sections on resilient software and design, rigorous reasoning, applications, concepts, and analysis.
+ER  - 
+TY  - JOUR
+AN  - pub.1033305119
+TI  - Disaggregated Space System Concept Optimization: Model‐Based Conceptual Design Methods
+AU  - Thompson, Robert E.
+AU  - Colombi, John M.
+AU  - Black, Jonathan
+AU  - Ayres, Bradley J.
+PY  - 2015
+JO  - Systems Engineering
+VL  - 18
+IS  - 6
+SP  - 549
+EP  - 567
+DO  - 10.1002/sys.21310
+UR  - https://app.dimensions.ai/details/publication/pub.1033305119
+Y2  - 2022/01/14
+AB  - Optimal design techniques have proven to be an effective systems engineering tool. Using systems architecture as the foundation, this paper explores the use of mixed variable optimization models for synthesizing and evaluating disaggregated space system concepts. Model-based conceptual design (MBCD) techniques are used to identify and assess system architectures based upon estimated system cost and performance trades. The Disaggregated Integral System Concept Optimization (DISCO) methodology is introduced, and then applied to a space-based, fire detection mission. Several results are obtained that indicate potential cost effectiveness gains from the concept design optimization of a fire detection mission. The general methodology has broad applicability for MBCD of systems, but is particularly useful for dynamic, nonlinear disaggregated space systems.
+ER  - 
+TY  - CHAP
+AN  - pub.1013134824
+TI  - 4 From DMO to D2D
+AU  - Pons-Masbernat, Xavier
+AU  - Georgeaux, Eric
+AU  - Gruet, Christophe
+AU  - Montaigne, François
+AU  - Schiel, Jean-Christophe
+AU  - Philippe, Guy
+AU  - Naviner, Lirida
+PY  - 2015
+BT  - Wireless Public Safety Networks 1
+SP  - 95
+EP  - 125
+DO  - 10.1016/b978-1-78548-022-5.50004-2
+UR  - https://app.dimensions.ai/details/publication/pub.1013134824
+Y2  - 2022/01/14
+AB  - Direct communications have been used for long time in PSNs. Today, due to the expectations of the transmitted traffic through the network and the popularity of proximity services, direct communications may also be present in the future generation of public cellular networks.
+ER  - 
+TY  - BOOK
+AN  - pub.1037537954
+TI  - Computer Safety, Reliability, and Security, 33rd International Conference, SAFECOMP 2014, Florence, Italy, September 10-12, 2014. Proceedings
+PY  - 2014
+A3  - Andrea Bondavalli
+A3  - Felicita Di Giandomenico
+DO  - 10.1007/978-3-319-10506-2
+UR  - https://app.dimensions.ai/details/publication/pub.1037537954
+Y2  - 2022/01/14
+AB  - This book constitutes the refereed proceedings of the 33nd International Conference on Computer Safety, Reliability, and Security, SAFECOMP 2014, held in Florence, Italy, in September 2014. The 20 revised full papers presented together with 3 practical experience reports were carefully reviewed and selected from 85 submissions. The papers are organized in topical sections on fault injection techniques, verification and validation techniques, automotive systems, coverage models and mitigation techniques, assurance cases and arguments, system analysis, security and trust, notations/languages for safety related aspects, safety and security.
+ER  - 
+TY  - JOUR
+AN  - pub.1043965108
+TI  - Association of Pacific Coast Geographers Annual Meeting: September 24–27, 2014 Tucson, Arizona: Abstracts for Oral Presentations and Posters
+PY  - 2015
+JO  - Yearbook of the Association of Pacific Coast Geographers
+VL  - 77
+IS  - 1
+SP  - 99
+EP  - 144
+DO  - 10.1353/pcg.2015.0000
+UR  - https://app.dimensions.ai/details/publication/pub.1043965108
+Y2  - 2022/01/14
+ER  - 
+TY  - JOUR
+AN  - pub.1091569019
+TI  - The U.S. Navy in the World (2001-2010): Context for U.S. Navy Capstone Strategies and Concepts
+AU  - Swartz, Peter M
+PY  - 2011
+DO  - 10.21236/ada564884
+UR  - https://app.dimensions.ai/details/publication/pub.1091569019
+Y2  - 2022/01/14
+ER  - 
+TY  - BOOK
+AN  - pub.1004848039
+TI  - Signal Processing and Information Technology, First International Joint Conference, SPIT 2011 and IPC 2011, Amsterdam, The Netherlands, December 1-2, 2011, Revised Selected Papers
+PY  - 2012
+A3  - Vinu V. Das
+A3  - Ezendu Ariwa
+A3  - Syarifah Bahiyah Rahayu
+DO  - 10.1007/978-3-642-32573-1
+UR  - https://app.dimensions.ai/details/publication/pub.1004848039
+Y2  - 2022/01/14
+AB  - This book constitutes the thoroughly refereed post-conference proceedings of the First International Joint Conference on Advances in Signal Processing and Information Technology (SPIT 2011) and Recent Trends in Information Processing and Computing (IPC 2011) held in Amsterdam, The Netherlands, in December 2011. The 50 revised full papers presented were carefully selected from 298 submissions. Conference papers promote research and development activities in computer science, information technology, computational engineering, image and signal processing, and communication.
+ER  - 
+TY  - BOOK
+AN  - pub.1017139980
+TI  - Modern Approaches in Applied Intelligence, 24th International Conference on Industrial Engineering and Other Applications of Applied Intelligent Systems, IEA/AIE 2011, Syracuse, NY, USA, June 28 – July 1, 2011, Proceedings, Part II
+PY  - 2011
+A3  - Kishan G. Mehrotra
+A3  - Chilukuri K. Mohan
+A3  - Jae C. Oh
+A3  - Pramod K. Varshney
+A3  - Moonis Ali
+DO  - 10.1007/978-3-642-21827-9
+UR  - https://app.dimensions.ai/details/publication/pub.1017139980
+Y2  - 2022/01/14
+AB  - The two volume set LNAI 6703 and LNAI 6704 constitutes the thoroughly refereed conference proceedings of the 24th International Conference on Industrial Engineering and Other Applications of Applied Intelligend Systems, IEA/AIE 2011, held in Syracuse, NY, USA, in June/July 2011. The total of 92 papers selected for the proceedings were carefully reviewed and selected from 206 submissions. The papers cover a wide number of topics including feature extraction, discretization, clustering, classification, diagnosis, data refinement, neural networks, genetic algorithms, learning classifier systems, Bayesian and probabilistic methods, image processing, robotics, navigation, optimization, scheduling, routing, game theory and agents, cognition, emotion, and beliefs.
+ER  - 
+TY  - BOOK
+AN  - pub.1006517111
+TI  - Proceedings of the International Conference on Soft Computing for Problem Solving (SocProS 2011) December 20-22, 2011, Volume 1
+PY  - 2012
+A3  - Kusum Deep
+A3  - Atulya Nagar
+A3  - Millie Pant
+A3  - Jagdish Chand Bansal
+DO  - 10.1007/978-81-322-0487-9
+UR  - https://app.dimensions.ai/details/publication/pub.1006517111
+Y2  - 2022/01/14
+AB  - The present book is based on the research papers presented in the International Conference on Soft Computing for Problem Solving (SocProS 2011), held at Roorkee, India. This book is divided into two volumes and covers a variety of topics, including mathematical modeling, image processing, optimization, swarm intelligence, evolutionary algorithms, fuzzy logic, neural networks, forecasting, data mining etc. Particular emphasis is laid on Soft Computing and its application to diverse fields. The prime objective of the book is to familiarize the reader with the latest scientific developments that are taking place in various fields and the latest sophisticated problem solving tools that are being developed to deal with the complex and intricate problems that are otherwise difficult to solve by the usual and traditional methods. The book is directed to the researchers and scientists engaged in various fields of Science and Technology.
+ER  - 
+TY  - CONF
+AN  - pub.1095446614
+TI  - Abstracts
+PY  - 2012
+BT  - 2012 American Control Conference (ACC)
+SP  - 1
+EP  - 186
+DO  - 10.1109/acc.2012.6314597
+UR  - https://app.dimensions.ai/details/publication/pub.1095446614
+Y2  - 2022/01/14
+AB  - Summary form only given. Brain-machine-brain interfaces dedicated for sensing and treatment applications are emerging technologies for studying the neural activity underlying various pathologies, understanding neurons interactions, detecting mind-driven decisions, locating onset seizures, and for addressing dysfunctions by both microstimulation and drug delivery. This talk covers signal processing algorithms used for onset seizure detection, and circuits and systems techniques applied for the design and integration of multichannel action potentials and neural signal recording and real time analysis and spike detection. Adaptive Thresholding techniques and automatic seizure detection will be presented. Such Microsystems are fully implantable, interconnected to intracortical neural tissues, and include wireless links used to power up and bidirectionally exchange data between implants and external base station. In addition, lab-on-chip based devices intended for neural cell manipulation and detection, through multisite large arrays of electrodes, will be summarized as case study of the intended treatments.
+ER  - 
+TY  - JOUR
+AN  - pub.1126180864
+TI  - Distributed Surface Force
+AU  - Buss, John
+AU  - Magbanua, Rico
+AU  - Thompson, Chrisman
+AU  - Goff, John
+AU  - Moss, Andrew
+AU  - Wall, Damien
+AU  - Jurgensen, Sean
+AU  - Moyer, Kyle
+AU  - Foo, Ceying
+AU  - Toh, Wei Q
+PY  - 2014
+DO  - 10.21236/ada607535
+UR  - https://app.dimensions.ai/details/publication/pub.1126180864
+Y2  - 2022/01/14
+AB  - Large naval surface combatants are potentially held at risk by adversarial anti-access aerial denial (A2AD) weapon systems. To mitigate that risk we propose a distributed surface force concept, which relies on a cost-effective small surface combatant (SSC) capable of augmenting current forces in the 2025 2030 timeframe. We show that dispensing offensive and defensive power onto numerous smaller platforms has several advantages, including a more resilient force structure, greater number of ships, and fiscal cost savings. After employing the systems engineering process tailored to the problem to understand requirements and alternatives, a single mission SSC adapted to anti-surface warfare (ASUW) emerged as the solution. The SSC is conceptually employed in an armada composed of existing naval forces, which provide a protective shield against a multi-threat enemy force. The Armada is nominally composed of Arleigh Burke-class destroyers, Littoral Combat Ships and SSCs. The SSC'As capabilities include eight anti-ship cruise missiles with a range of 90 nautical miles, speed greater than 25 knots, and organic detection and classification range of at least 60 nautical miles.
+ER  - 
+TY  - CONF
+AN  - pub.1094380409
+TI  - Welcome message from the conference chair
+AU  - Soibelman, Israel
+PY  - 2013
+BT  - 2013 IEEE International Conference on Technologies for Homeland Security (HST)
+SP  - v
+EP  - 322
+DO  - 10.1109/ths.2013.6698962
+UR  - https://app.dimensions.ai/details/publication/pub.1094380409
+Y2  - 2022/01/14
+AB  - On behalf of the Boston Section of the IEEE, welcome to the thirteenth Conference on Homeland Security Technologies. The conference Steering Committee has assembled a very relevant program that will provide perspective on the current state of the art and recent advances to address homeland security concerns. As the homeland security landscape evolves, the topics in this conference continue to address a wide range of important issues. With this year's conference, we continue to receive robust participation from researchers working to protect our homeland against land or maritime threats, to strengthen our biometrics and forensics capabilities, to improve our resilience to attacks and natural disasters, and to mitigate cyber security threats. In particular, participation from the cyber security field flourished in parallel with national and global trends.
+ER  - 
+TY  - BOOK
+AN  - pub.1053640266
+TI  - Human-in-the-Loop Simulations, Methods and Practice
+PY  - 2011
+A3  - Ling Rothrock
+A3  - S. Narayanan
+DO  - 10.1007/978-0-85729-883-6
+UR  - https://app.dimensions.ai/details/publication/pub.1053640266
+Y2  - 2022/01/14
+AB  - Human-in-the-Loop Simulations is a compilation of articles from experts in the design, development, and use of human-in-the-loop simulations. The first section of the handbook consists of papers on fundamental concepts in human-in-the-loop simulations, such as object-oriented simulation development, interface design and development, and performance measurement. The second section includes papers from researchers who utilized HITL simulations to inform models of cognitive processes to include decision making and metacognition. The last section describes human-in-the-loop processes for complex simulation models in trade space exploration and epidemiological analyses. Human-in-the-Loop Simulations is a useful tool for multiple audiences, including graduate students and researchers in engineering and computer science.
+ER  - 
+TY  - BOOK
+AN  - pub.1015252282
+TI  - Internet of Things, Smart Spaces, and Next Generation Networks and Systems, 14th International Conference, NEW2AN 2014 and 7th Conference, ruSMART 2014, St. Petersburg, Russia, August 27-29, 2014. Proceedings
+PY  - 2014
+A3  - Sergey Balandin
+A3  - Sergey Andreev
+A3  - Yevgeni Koucheryavy
+DO  - 10.1007/978-3-319-10353-2
+UR  - https://app.dimensions.ai/details/publication/pub.1015252282
+Y2  - 2022/01/14
+AB  - This book constitutes the joint refereed proceedings of the 14th International Conference on Next Generation Wired/Wireless Advanced Networks and Systems, NEW2AN 2014, and the 7th Conference on Internet of Things and Smart Spaces, ruSMART 2014, held in St. Petersburg, Russia, in August 2014. The total of 67 papers was carefully reviewed and selected for inclusion in this book. The 15 papers selected from ruSMART are organized in topical sections named: smart spaces core technologies, smart spaces for geo-location and e-tourism apps, smart space supporting technologies, and video solutions for smart spaces. The 52 papers from NEW2AN deal with the following topics: advances in wireless networking, ad hoc networks and enhanced services, sensor- and machine-type communication, networking architectures and their modeling, traffic analysis and prediction, analytical methods for performance evaluation, materials for future communications, generation and analysis of signals, business aspects of networking, progress on upper layers and implementations, modeling methods and tools, techniques, algorithms, and control problems, photonics and optics, and signals and their processing.
+ER  - 
+TY  - BOOK
+AN  - pub.1025765651
+TI  - Wireless and Satellite Systems, 7th International Conference, WiSATS 2015, Bradford, UK, July 6-7, 2015. Revised Selected Papers
+PY  - 2015
+A3  - Prashant Pillai
+A3  - Yim Fun Hu
+A3  - Ifiok Otung
+A3  - Giovanni Giambene
+DO  - 10.1007/978-3-319-25479-1
+UR  - https://app.dimensions.ai/details/publication/pub.1025765651
+Y2  - 2022/01/14
+AB  - This book constitutes the proceedings of the 7th International Conference on Wireless and Satellite Services, WiSATS 2015, held in Bradford, UK, in July 2015. The conference was formerly known as the International Conference on Personal Satellite Services (PSATS) mainly covering topics in the satellite domain. As the scope of the conference widened to include wireless systems, the conference was renamed to WiSATS. The 29 revised papers were presented at the conference in three technical sessions and one special session on “Network Coding for Satellites”. WiSATS 2015 also hosted two workshops along with the main conference: The first workshop, Communication Applications in Smart Grid (CASG 2015), focused on the merging area of using communication technology within the electricity power grid for smart monitoring and control. The second workshop, Advanced Next-Generation Broadband Satellite Systems (BSS 2015), focused on the use of satellite systems for providing next-generation broadband services.
+ER  - 
+TY  - BOOK
+AN  - pub.1028293876
+TI  - Digital Information Processing and Communications, International Conference , ICDIPC 2011, Ostrava, Czech Republic, July 7-9, 2011, Proceedings, Part I
+PY  - 2011
+A3  - Vaclav Snasel
+A3  - Jan Platos
+A3  - Eyas El-Qawasmeh
+DO  - 10.1007/978-3-642-22389-1
+UR  - https://app.dimensions.ai/details/publication/pub.1028293876
+Y2  - 2022/01/14
+AB  - This two-volume-set (CCIS 188 and CCIS 189) constitutes the refereed proceedings of the International Conference on Digital Information Processing and Communications, ICDIPC 2011, held in Ostrava, Czech Republic, in July 2011. The 91 revised full papers of both volumes presented together with 4 invited talks were carefully reviewed and selected from 235 submissions. The papers are organized in topical sections on network security; Web applications; data mining; neural networks; distributed and parallel processing; biometrics technologies; e-learning; information ethics; image processing; information and data management; software engineering; data compression; networks; computer security; hardware and systems; multimedia; ad hoc network; artificial intelligence; signal processing; cloud computing; forensics; security; software and systems; mobile networking; and some miscellaneous topics in digital information and communications.
+ER  - 
+TY  - BOOK
+AN  - pub.1008907558
+TI  - Complex Systems Design &amp; Management Asia, Designing Smart Cities: Proceedings of the First Asia - Pacific Conference on Complex Systems Design &amp; Management, CSD&amp;M Asia 2014
+PY  - 2015
+A3  - Michel-Alexandre Cardin
+A3  - Daniel Krob
+A3  - Pao Chuen Lui
+A3  - Yang How Tan
+A3  - Kristin Wood
+DO  - 10.1007/978-3-319-12544-2
+UR  - https://app.dimensions.ai/details/publication/pub.1008907558
+L2  - https://ink.library.smu.edu.sg/sis_research/2947
+Y2  - 2022/01/14
+AB  - This book contains all refereed papers that were accepted to the first edition of the Asia-Pacific conference on « Complex Systems Design & Management » (CSD&M Asia 2014) that took place in Singapore from December 10 to December 12, 2014 (Website: http://www.2014.csdm-asia.net/). These proceedings cover the most recent trends in the emerging field of Complex Systems, both from an academic and a professional perspective. A special focus is put on Designing Smart cities. The CSD&M Asia 2014 conference is organized under the guidance of the Center of Excellence on Systems Architecture, Management, Economy and Strategy, CESAMES, non-profit organization, address: CESAMES, 8 rue de Hanovre, 75002 Paris, France ( Website : http://www.cesames.net/en).
+ER  - 
+TY  - BOOK
+AN  - pub.1107027217
+TI  - Contemporary Issues in Systems Science and Engineering
+PY  - 2015
+A3  - Mengchu Zhou
+A3  - Han-Xiong Li
+A3  - Margot Weijnen
+DO  - 10.1002/9781119036821
+UR  - https://app.dimensions.ai/details/publication/pub.1107027217
+Y2  - 2022/01/14
+ER  - 
+TY  - BOOK
+AN  - pub.1039822785
+TI  - Highlights in Practical Applications of Agents and Multiagent Systems, 9th International Conference on Practical Applications of Agents and Multiagent Systems
+PY  - 2011
+A3  - Javier Bajo Pérez
+A3  - Juan M. Corchado
+A3  - María N. Moreno
+A3  - Vicente Julián
+A3  - Philippe Mathieu
+A3  - Joaquin Canada-Bago
+A3  - Alfonso Ortega
+A3  - Antonio Fernández Caballero
+DO  - 10.1007/978-3-642-19917-2
+UR  - https://app.dimensions.ai/details/publication/pub.1039822785
+L2  - https://gredos.usal.es/bitstream/10366/135194/1/bfm_978-3-642-38061-7_1.pdf
+Y2  - 2022/01/14
+AB  - PAAMS, the International Conference on Practical Applications of Agents and Multi-Agent Systems is an evolution of the International Workshop on Practical Applications of Agents and Multi-Agent Systems. PAAMS is an international yearly tribune to present, to discuss, and to disseminate the latest developments and the most important outcomes related to real-world applications. It provides a unique opportunity to bring multi-disciplinary experts, academics and practitioners together to exchange their experience in the development of Agents and Multi-Agent Systems.   This volume presents the papers that have been accepted for the 2011 edition in the special sessions: Special Session on Agents Behaviours for Artificial Markets, Special Session on Multi-Agent Systems for safety and securit, Special Session on Web Mining and Recommender Systems, Special Session on Adaptative Multi-Agent System, Special Session on Integration of Artificial Intelligence Technologies in Resource-Constrained Devices, Special Session on Bio-Inspired and Multi-Agents Systems: Applications to Languages and Special Session on Agents for smart mobility.
+ER  - 
+TY  - JOUR
+AN  - pub.1091767279
+TI  - Air &amp; Space Power Journal. Volume 29, Number 5, September-October 2015
+AU  - C, Allen G Peck Bradley
+AU  - Grassey, Thomas B
+PY  - 2015
+DO  - 10.21236/ada627376
+UR  - https://app.dimensions.ai/details/publication/pub.1091767279
+Y2  - 2022/01/14
+ER  - 
+TY  - BOOK
+AN  - pub.1014288989
+TI  - Proceedings of the International Conference on Soft Computing for Problem Solving (SocProS 2011) December 20-22, 2011, Volume 2
+PY  - 2012
+A3  - Kusum Deep
+A3  - Atulya Nagar
+A3  - Millie Pant
+A3  - Jagdish Chand Bansal
+DO  - 10.1007/978-81-322-0491-6
+UR  - https://app.dimensions.ai/details/publication/pub.1014288989
+Y2  - 2022/01/14
+AB  - The present book is based on the research papers presented in the International Conference on Soft Computing for Problem Solving (SocProS 2011), held at Roorkee, India. This book is divided into two volumes and covers a variety of topics, including mathematical modeling, image processing, optimization, swarm intelligence, evolutionary algorithms, fuzzy logic, neural networks, forecasting, data mining etc. Particular emphasis is laid on Soft Computing and its application to diverse fields. The prime objective of the book is to familiarize the reader with the latest scientific developments that are taking place in various fields and the latest sophisticated problem solving tools that are being developed to deal with the complex and intricate problems that are otherwise difficult to solve by the usual and traditional methods. The book is directed to the researchers and scientists engaged in various fields of Science and Technology.
+ER  - 
+TY  - BOOK
+AN  - pub.1014680374
+TI  - Testbeds and Research Infrastructure: Development of Networks and Communities, 9th International ICST Conference, TridentCom 2014, Guangzhou, China, May 5-7, 2014, Revised Selected Papers
+PY  - 2014
+A3  - Victor C.M. Leung
+A3  - Min Chen
+A3  - Jiafu Wan
+A3  - Yin Zhang
+DO  - 10.1007/978-3-319-13326-3
+UR  - https://app.dimensions.ai/details/publication/pub.1014680374
+Y2  - 2022/01/14
+AB  - This book constitutes the proceedings of the 9th International Conference on Testbeds and Research Infrastructures for the Development of Networks and Communities, TridentCom 2014, held in Guangzhou, China, in May 2014. The 49 revised full papers presented were carefully selected out of 149 submissions. The conference consisted of 6 symposia covering topics such as testbed virtualization, Internet of Things, vehicular networks, SDN, NDN, large-scale testbed federation, mobile networks, wireless networks.
+ER  - 
+TY  - BOOK
+AN  - pub.1084674771
+TI  - Wired/Wireless Internet Communications, 13th International Conference, WWIC 2015, Malaga, Spain, May 25-27, 2015, Revised Selected Papers
+PY  - 2015
+A3  - Mari Carmen Aguayo-Torres
+A3  - Gerardo Gómez
+A3  - Javier Poncela
+DO  - 10.1007/978-3-319-22572-2
+UR  - https://app.dimensions.ai/details/publication/pub.1084674771
+L2  - https://hal.inria.fr/hal-01728798/file/IFIPLNCS9071DL_2015_BookFrontmatter.pdf
+Y2  - 2022/01/14
+AB  - This book constitutes the thoroughly refereed post-conference proceedings of the 13th International Conference on Wired/Wireless Internet Communications, WWIC 2015, held in Malaga, Spain, in May 2015. The 31 papers presented in this volume were carefully reviewed and selected from 43 submissions. They focus on the efficient integration of new network approaches with the traditional wired infrastructure. The topics addressed are: design and evaluation of protocols, dynamics of the integration, performance tradeoffs, and the need for new performance metrics and cross-layer interactions.
+ER  - 
+TY  - BOOK
+AN  - pub.1009922615
+TI  - Applications of Evolutionary Computation, EvoApplications 2012: EvoCOMNET, EvoCOMPLEX, EvoFIN, EvoGAMES, EvoHOT, EvoIASP, EvoNUM, EvoPAR, EvoRISK, EvoSTIM, and EvoSTOC, Málaga, Spain, April 11-13, 2012, Proceedings
+PY  - 2012
+A3  - Cecilia Di Chio
+A3  - Alexandros Agapitos
+A3  - Stefano Cagnoni
+A3  - Carlos Cotta
+A3  - Francisco Fernández de Vega
+A3  - Gianni A. Di Caro
+A3  - Rolf Drechsler
+A3  - Anikó Ekárt
+A3  - Anna I. Esparcia-Alcázar
+A3  - Muddassar Farooq
+A3  - William B. Langdon
+A3  - Juan J. Merelo-Guervós
+A3  - Mike Preuss
+A3  - Hendrik Richter
+A3  - Sara Silva
+A3  - Anabela Simões
+A3  - Giovanni Squillero
+A3  - Ernesto Tarantino
+A3  - Andrea G. B. Tettamanzi
+A3  - Julian Togelius
+A3  - Neil Urquhart
+A3  - A. Şima Uyar
+A3  - Georgios N. Yannakakis
+DO  - 10.1007/978-3-642-29178-4
+UR  - https://app.dimensions.ai/details/publication/pub.1009922615
+Y2  - 2022/01/14
+AB  - This book constitutes the refereed proceedings of the International Conference on the Applications of Evolutionary Computation, EvoApplications 2012, held in Málaga, Spain, in April 2012, colocated with the Evo* 2012 events EuroGP, EvoCOP, EvoBIO, and EvoMUSART. The 54 revised full papers presented were carefully reviewed and selected from 90 submissions. EvoApplications 2012 consisted of the following 11 tracks: EvoCOMNET (nature-inspired techniques for telecommunication networks and other parrallel and distributed systems), EvoCOMPLEX (algorithms and complex systems), EvoFIN (evolutionary and natural computation in finance and economics), EvoGAMES (bio-inspired algorithms in games), EvoHOT (bio-inspired heuristics for design automation), EvoIASP (evolutionary computation in image analysis and signal processing), EvoNUM (bio-inspired algorithms for continuous parameter optimization), EvoPAR (parallel implementation of evolutionary algorithms), EvoRISK (computational intelligence for risk management, security and defense applications), EvoSTIM (nature-inspired techniques in scheduling, planning, and timetabling), and EvoSTOC (evolutionary algorithms in stochastic and dynamic environments).
+ER  - 
+TY  - BOOK
+AN  - pub.1009730148
+TI  - The City as Target
+AU  - Clancey, Gregory
+AU  - Bishop, Ryan
+AU  - Phillips, John W.
+PY  - 2012
+A3  - Ryan Bishop
+A3  - Gregory Clancey
+A3  - John W. Phillips
+DO  - 10.4324/9780203154359
+UR  - https://app.dimensions.ai/details/publication/pub.1009730148
+Y2  - 2022/01/14
+AB  - Bringing together scholars from a diverse range of disciplines, The City as Target provides a sustained and critical response to the relationship between the concept of targeting (in its many forms) and notions of understanding, imagining and shaping the urban.
+ER  - 
+TY  - BOOK
+AN  - pub.1031026099
+TI  - Engineering Multi-Agent Systems, Third International Workshop, EMAS 2015, Istanbul, Turkey, May 5, 2015, Revised, Selected, and Invited Papers
+PY  - 2015
+A3  - Matteo Baldoni
+A3  - Luciano Baresi
+A3  - Mehdi Dastani
+DO  - 10.1007/978-3-319-26184-3
+UR  - https://app.dimensions.ai/details/publication/pub.1031026099
+L2  - http://www.cs.dal.ca/~sraza/papers/MIE2003-agents.PDF
+Y2  - 2022/01/14
+AB  - This book constitutes the refereed proceedings of the Third International Workshop on Engineering Multi-Agent Systems, EMAS 2015, held in Istanbul, Turkey, in May 2015.  The 10 full papers, presented with two invited talks, were carefully reviewed and selected from 19 submissions. The focus of the papers is on the topics such as: programming frameworks, languages, models and abstractions for MAS; formal methods and declarative technologies for specification, verification and engineering of MAS; MAS software engineering methodologies and techniques, and development concerns; interoperability and integration; tools and testbeds; MAS techniques; and empirical studies and (industrial) experience reports.
+ER  - 
+TY  - BOOK
+AN  - pub.1050309373
+TI  - Disaster Management: Enabling Resilience
+PY  - 2015
+A3  - Anthony Masys
+DO  - 10.1007/978-3-319-08819-8
+UR  - https://app.dimensions.ai/details/publication/pub.1050309373
+Y2  - 2022/01/14
+AB  - The present work will discuss relevant theoretical frameworks and applications pertaining to enabling resilience within the risk, crisis and disaster management domain. The contributions to this book focus on resilience thinking along 4 broad themes: Urban Domain; Cyber Domain; Organizational/Social domain; and Socio-ecological domain. This book would serve as a valuable reference for courses on risk, crisis and disaster management, international development, social innovation and resilience. This will be of particular interest to those working in the risk, crisis and disaster management domain as it will provide valuable insights into enabling resilience. This book will be well positioned to inform disaster management professionals, policy makers and academics on strategies and perspectives regarding disaster resilience.
+ER  - 
+TY  - BOOK
+AN  - pub.1003397797
+TI  - Proceedings of the 4th International Conference on Computer Engineering and Networks, CENet2014
+PY  - 2015
+A3  - W. Eric Wong
+DO  - 10.1007/978-3-319-11104-9
+UR  - https://app.dimensions.ai/details/publication/pub.1003397797
+Y2  - 2022/01/14
+AB  - This book aims to examine innovation in the fields of computer engineering and networking. The book covers important emerging topics in computer engineering and networking, and it will help researchers and engineers improve their knowledge of state-of-art in related areas. The book presents papers from the 4th International Conference on Computer Engineering and Networks (CENet2014) held July 19-20, 2014 in Shanghai, China.  ·       Covers emerging topics for computer engineering and networking ·       Discusses how to improve productivity by using the latest advanced technologies ·       Examines innovation in the fields of computer engineering and networking
+ER  - 
+TY  - BOOK
+AN  - pub.1001204969
+TI  - Cloud Connectivity and Embedded Sensory Systems
+AU  - Spaanenburg, Lambert
+AU  - Spaanenburg, Hendrik
+PY  - 2011
+DO  - 10.1007/978-1-4419-7545-4
+UR  - https://app.dimensions.ai/details/publication/pub.1001204969
+Y2  - 2022/01/14
+AB  - Cloud Connectivity and Embedded Sensory Systems by: Lambert Spaanenburg Hendrik Spaanenburg Sensory systems are meant to create awareness in space and time. They may be measuring the presence of an object or a condition, characterizing an object stream or a situational pattern, or even detect abnormalities that are to occur. This book provides new theory on the design of wireless sensor networks, based on concepts developed for large-scale, distributed computing environments known as “clouds.” It provides a single-source entry into the world of intelligent sensory systems, with a step-by-step discussion of building case studies that capture the requirements, taking into account practical limitations of creating ambient intelligence. The reader will not only achieve a better understanding of sensory clouds, but is also guided by examples of how to design such networks, taking the typical characteristics of diverse application areas into account. •Offers readers a single-source entry into the world of cloud-centric, embedded intelligent sensory systems; •Presents sensory networks in the context of “cloud computing”; •Promotes the notion of migrating software on virtualized hardware; •Emphasizes the role of redundant network communication and computation to optimize safety and security; •Distinguishes between cloud, swarm and flock computing, in order to make the extended network more intelligent and therefore less dependent on the quality of the individual sensors.
+ER  - 
+TY  - BOOK
+AN  - pub.1050613640
+TI  - Autonomous Sensor Networks, Collective Sensing Strategies for Analytical Purposes
+PY  - 2013
+A3  - Daniel Filippini
+DO  - 10.1007/978-3-642-34648-4
+UR  - https://app.dimensions.ai/details/publication/pub.1050613640
+Y2  - 2022/01/14
+AB  - This volume surveys recent research on autonomous sensor networks from the perspective of enabling technologies that support medical, environmental and military applications. State of the art, as well as emerging concepts in wireless sensor networks, body area networks and ambient assisted living introduce the reader to the field, while subsequent chapters deal in depth with established and related technologies, which render their implementation possible. These range from smart textiles and printed electronic devices to implanted devices and specialized packaging, including the most relevant technological features. The last four chapters are devoted to customization, implementation difficulties and outlook for these technologies in specific applications.
+ER  - 
+TY  - BOOK
+AN  - pub.1017561113
+TI  - Technological Innovation for Cloud-Based Engineering Systems, 6th IFIP WG 5.5/SOCOLNET Doctoral Conference on Computing, Electrical and Industrial Systems, DoCEIS 2015, Costa de Caparica, Portugal, April 13-15, 2015, Proceedings
+PY  - 2015
+A3  - Luis M. Camarinha-Matos
+A3  - Thais A. Baldissera
+A3  - Giovanni Di Orio
+A3  - Francisco Marques
+DO  - 10.1007/978-3-319-16766-4
+UR  - https://app.dimensions.ai/details/publication/pub.1017561113
+L2  - https://hal.inria.fr/hal-01343537/file/BookFrontmatter.pdf
+Y2  - 2022/01/14
+AB  - This book constitutes the refereed proceedings of the 6th IFIP WG 5.5/SOCOLNET Doctoral Conference on Computing, Electrical and Industrial Systems, DoCEIS 2015, held in Costa de Caparica, Portugal, in April 2015. The 54 revised full papers were carefully reviewed and selected from 119 submissions. The papers present selected results produced in engineering doctoral programs and focus on development and application of cloud-based engineering systems. Research results and ongoing work are presented, illustrated and discussed in the following areas: collaborative networks; cloud-based manufacturing; reconfigurable manufacturing; distributed computing and embedded systems; perception and signal processing; healthcare; smart monitoring systems; and renewable energy and energy-related management, decision support, simulation and power conversion.
+ER  - 
+TY  - BOOK
+AN  - pub.1007457316
+TI  - Mobile, Ubiquitous, and Intelligent Computing, MUSIC 2013
+PY  - 2014
+A3  - James J. (Jong Hyuk) Park
+A3  - Hojjat Adeli
+A3  - Namje Park
+A3  - Isaac Woungang
+DO  - 10.1007/978-3-642-40675-1
+UR  - https://app.dimensions.ai/details/publication/pub.1007457316
+L2  - https://archive.org/download/MOBILEUBIQUITOUSANDINTELLIGENTCOMPUTING/MOBILE_UBIQUITOUS_AND_INTELLIGENT_COMPUTING.pdf
+Y2  - 2022/01/14
+AB  - MUSIC 2013 will be the most comprehensive text focused on the various aspects of Mobile, Ubiquitous and Intelligent computing. MUSIC 2013 provides an opportunity for academic and industry professionals to discuss the latest issues and progress in the area of intelligent technologies in mobile and ubiquitous computing environment. MUSIC 2013 is the next edition of the 3rd International Conference on Mobile, Ubiquitous, and Intelligent Computing (MUSIC-12, Vancouver, Canada, 2012) which was the next event in a series of highly successful International Workshop on Multimedia, Communication and Convergence technologies MCC-11 (Crete, Greece, June 2011), MCC-10 (Cebu, Philippines, August 2010).
+ER  - 
+TY  - BOOK
+AN  - pub.1107022671
+TI  - Securing Transportation Systems
+PY  - 2015
+A3  - Simon Hakim
+A3  - Gila Albert
+A3  - Yoram Shiftan
+DO  - 10.1002/9781119078203
+UR  - https://app.dimensions.ai/details/publication/pub.1107022671
+Y2  - 2022/01/14
+ER  - 
+TY  - BOOK
+AN  - pub.1036626296
+TI  - PRIMA 2015: Principles and Practice of Multi-Agent Systems, 18th International Conference, Bertinoro, Italy, October 26-30, 2015, Proceedings
+PY  - 2015
+A3  - Qingliang Chen
+A3  - Paolo Torroni
+A3  - Serena Villata
+A3  - Jane Hsu
+A3  - Andrea Omicini
+DO  - 10.1007/978-3-319-25524-8
+UR  - https://app.dimensions.ai/details/publication/pub.1036626296
+L2  - https://cronfa.swan.ac.uk/Record/cronfa43697/Download/0043697-05092018155423.pdf
+Y2  - 2022/01/14
+AB  - This book constitutes the proceedings of the 18th International Conference on Principles and Practice of Multi-Agent Systems, PRIMA 2015, held in Bertinoro, Italy, in October 2015. The 29 full papers and 24 short papers presented in this volume were carefully reviewed and selected from 94 submissions. The conference brings together active researchers, developers and practitioners from both academia and industry to showcase, share and promote research in several domains, ranging from foundations of agent theory and engineering aspects of agent systems, to emerging interdisciplinary areas of agent-based research.
+ER  - 
+TY  - BOOK
+AN  - pub.1043298532
+TI  - Revolutionizing Collaboration through e-Work, e-Business, and e-Service
+AU  - Nof, Shimon Y.
+AU  - Ceroni, Jose
+AU  - Jeong, Wootae
+AU  - Moghaddam, Mohsen
+PY  - 2015
+DO  - 10.1007/978-3-662-45777-1
+UR  - https://app.dimensions.ai/details/publication/pub.1043298532
+Y2  - 2022/01/14
+AB  - Collaboration in highly distributed organizations of people, robots, and autonomous systems is and must be revolutionized by engineering augmentation. The aim is to augment humans’ abilities at work and, through this augmentation, improve organizations’ abilities to accomplish their missions. This book establishes the theoretical foundations and design principles of collaborative e-Work, e-Business and e-Service, their models and applications, design and implementation techniques. The fundamental premise is that without effective e-Work and e-Services, the potential of emerging activities, such as e-Commerce, virtual manufacturing, tele-robotic medicine, automated construction, smart energy grid, cyber-supported agriculture, and intelligent transportation cannot be fully materialized. Typically, workers and managers of such value networks are frustrated with complex information systems, originally designed and built to simplify and improve performance. Even if the human-computer interface for such systems is well designed, the information and task overloads can be overwhelming. Effective delivery of expected outcomes may not occur. Challenges and emerging solutions in the context of the recently developed CCT, Collaborative Control Theory, are described, with emphasis on issues of computer-supported and communication-enabled integration, coordination and augmented collaboration. Research results and analyses of engineering design methods and complex systems management techniques are explained and illustrated.
+ER  - 
+TY  - BOOK
+AN  - pub.1106824465
+TI  - Modeling and Simulation Support for System of Systems Engineering Applications
+PY  - 2014
+A3  - Larry B. Rainey
+A3  - Andreas Tolk
+DO  - 10.1002/9781118501757
+UR  - https://app.dimensions.ai/details/publication/pub.1106824465
+Y2  - 2022/01/14
+ER  - 
+TY  - BOOK
+AN  - pub.1051753294
+TI  - Controls and Art, Inquiries at the Intersection of the Subjective and the Objective
+PY  - 2014
+A3  - Amy LaViers
+A3  - Magnus Egerstedt
+DO  - 10.1007/978-3-319-03904-6
+UR  - https://app.dimensions.ai/details/publication/pub.1051753294
+Y2  - 2022/01/14
+AB  - Dancing humanoids, robotic art installations, and music generated by mathematically precise methods are no longer science fiction; in fact they are the subject of this book.  This first-of-its-kind anthology assembles technical research that makes such creations possible.  In order to mechanize something as enigmatic and personal as dance, researchers must delve deeply into two distinct academic disciplines: control theory and art.  Broadly, this research uses techniques from the world of art to inspire methods in control, enables artistic endeavours using advanced control theory, and aids in the analysis of art using metrics devised by a systems theoretic approach.  To ensure that artistic influences are well represented, the individual chapters are focused so that they relate their contribution to the arts meaningfully and explicitly. Specially composed introductions set up the contributions either in terms of inspiration by artistic principles or their contribution to the arts through new analysis tools. To facilitate this, the majority of the chapters are authored jointly by experts in control theory and by artists, including dancers, choreographers, puppeteers, and painters. Connections between controls and art then permeate the text so that these important relationships play a central role in the book. Controls and Art surveys current projects in this area—including a disco dancing robot, a reactive museum exhibit, and otherworldly music—and illuminates open problems and topics for research in this emerging interdisciplinary field. It will draw attention both from experts in robotics and control interested in developing the artistic side of their creations and from academics studying dance, theater, music and the visual arts with an interest in avant-garde means of production.
+ER  - 
+TY  - BOOK
+AN  - pub.1050920347
+TI  - Future Security, 7th Security Research Conference, Future Security 2012, Bonn, Germany, September 4-6, 2012. Proceedings
+PY  - 2012
+A3  - Nils Aschenbruck
+A3  - Peter Martini
+A3  - Michael Meier
+A3  - Jens Tölle
+DO  - 10.1007/978-3-642-33161-9
+UR  - https://app.dimensions.ai/details/publication/pub.1050920347
+Y2  - 2022/01/14
+AB  - This book constitutes the refereed proceedings of the 7th Security Research Conference, Future Security 2012, held in Bonn, Germany, in September 2012. The 78 revised full papers presented were carefully reviewed and selected from 137 submissions. The papers are organized in topical sections on supply chain and critical infrastructure protection; security situational awareness; crisis management; security for critical infrastructure and urban areas; sensor technology; social, psychological and political aspects; cyber defense and information security; maritime and border security; detection of hazardous materials; food chain security; aviation security; ergonomic aspects.
+ER  - 
+TY  - BOOK
+AN  - pub.1007499504
+TI  - Foundations of Augmented Cognition. Directing the Future of Adaptive Systems, 6th International Conference, FAC 2011, Held as Part of HCI International 2011, Orlando, FL, USA, July 9-14, 2011. Proceedings
+PY  - 2011
+A3  - Dylan D. Schmorrow
+A3  - Cali M. Fidopiastis
+DO  - 10.1007/978-3-642-21852-1
+UR  - https://app.dimensions.ai/details/publication/pub.1007499504
+Y2  - 2022/01/14
+AB  - This book constitutes the refereed proceedings of the 6th International Conference on Augmented Cognition, FAC 2011, held in Orlando, FL, USA in July 2011, within the framework of the 14th International Conference on Human-Computer Interaction, HCII 2011, with 11 other thematically similar conferences. The 75 full papers presented were carefully reviewed and selected from numerous submissions. The papers are organized in topical parts on theories, models, and technologies for augmented cognition; neuroscience and brain monitoring; augmented cognition, social computing, and collaboration; augmented cognition for learning; augmented cognition and interaction; and augmented cognition in complex environments.
+ER  - 
+TY  - BOOK
+AN  - pub.1026701450
+TI  - Software Engineering and Computer Systems, Second International Conference, ICSECS 2011, Kuantan, Pahang, Malaysia, June 27-29, 2011, Proceedings, Part II
+PY  - 2011
+A3  - Jasni Mohamad Zain
+A3  - Wan Maseri bt Wan Mohd
+A3  - Eyas El-Qawasmeh
+DO  - 10.1007/978-3-642-22191-0
+UR  - https://app.dimensions.ai/details/publication/pub.1026701450
+Y2  - 2022/01/14
+AB  - This Three-Volume-Set constitutes the refereed proceedings of the Second International Conference on Software Engineering and Computer Systems, ICSECS 2011, held in Kuantan, Malaysia, in June 2011. The 190 revised full papers presented together with invited papers in the three volumes were carefully reviewed and selected from numerous submissions. The papers are organized in topical sections on software engineering; network; bioinformatics and e-health; biometrics technologies; Web engineering; neural network; parallel and distributed e-learning; ontology; image processing; information and data management; engineering; software security; graphics and multimedia; databases; algorithms; signal processing; software design/testing; e- technology; ad hoc networks; social networks; software process modeling; miscellaneous topics in software engineering and computer systems.
+ER  - 
+TY  - BOOK
+AN  - pub.1022012062
+TI  - Computing with New Resources, Essays Dedicated to Jozef Gruska on the Occasion of His 80th Birthday
+PY  - 2014
+A3  - Cristian S. Calude
+A3  - Rūsiņš Freivalds
+A3  - Iwama Kazuo
+DO  - 10.1007/978-3-319-13350-8
+UR  - https://app.dimensions.ai/details/publication/pub.1022012062
+Y2  - 2022/01/14
+AB  - Professor Jozef Gruska is a well known computer scientist for his many and broad results. He was the father of theoretical computer science research in Czechoslovakia and among the first Slovak programmers in the early 1960s. Jozef Gruska introduced the descriptional complexity of grammars, automata, and languages, and is one of the pioneers of parallel (systolic) automata. His other main research interests include parallel systems and automata, as well as quantum information processing, transmission, and cryptography. He is co-founder of four regular series of conferences in informatics and two in quantum information processing and the Founding Chair (1989-96) of the IFIP Specialist Group on Foundations of Computer Science.
+ER  - 
+TY  - BOOK
+AN  - pub.1000152460
+TI  - Handbook of Space Security, Policies, Applications and Programs
+PY  - 2015
+A3  - Kai-Uwe Schrogl
+A3  - Peter L. Hays
+A3  - Jana Robinson
+A3  - Denis Moura
+A3  - Christina Giannopapa
+DO  - 10.1007/978-1-4614-2029-3
+UR  - https://app.dimensions.ai/details/publication/pub.1000152460
+Y2  - 2022/01/14
+AB  - Space Security involves the use of space (in particular communication, navigation, earth observation, and electronic intelligence satellites) for military and security purposes on earth and also the maintenance of space (in particular the earth orbits) as safe and secure areas for conducting peaceful activities. The two aspects can be summarized as "space for security on earth" and “the safeguarding of space for peaceful endeavors.” The Handbook will provide a sophisticated, cutting-edge resource on the space security policy portfolio and the associated assets, assisting fellow members of the global space community and other interested policy-making and academic audiences in keeping abreast of the current and future directions of this vital dimension of international space policy. The debate on coordinated space security measures, including relevant 'Transparency and Confidence-Building Measures,' remains at a relatively early stage of development. The book offers a comprehensive description of the various components of space security and how these challenges are being addressed today. It will also provide a number of recommendations concerning how best to advance this space policy area, given the often competing objectives of the world's major space-faring nations. The critical role to be played by the United States and Europe as an intermediary and "middle diplomat" in promoting sustainable norms of behavior for space will likewise be highlighted. In providing a global and coherent analytical approach to space security today, the Handbook focuses on four areas that together define the entire space security area: policies, technologies, applications, and programs. This structure will assure the overall view of the subject from its political to its technical aspects. Internationally recognized experts in each of the above fields contribute, with their analytical synthesis assured by the section editors.
+ER  - 
+TY  - BOOK
+AN  - pub.1038674251
+TI  - Computational Science and Its Applications -- ICCSA 2015, 15th International Conference, Banff, AB, Canada, June 22-25, 2015, Proceedings, Part I
+PY  - 2015
+A3  - Osvaldo Gervasi
+A3  - Beniamino Murgante
+A3  - Sanjay Misra
+A3  - Marina L. Gavrilova
+A3  - Ana Maria Alves Coutinho Rocha
+A3  - Carmelo Torre
+A3  - David Taniar
+A3  - Bernady O. Apduhan
+DO  - 10.1007/978-3-319-21404-7
+UR  - https://app.dimensions.ai/details/publication/pub.1038674251
+Y2  - 2022/01/14
+AB  - The five-volume set LNCS 9155-9159 constitutes the refereed proceedings of the 15th International Conference on Computational Science and Its Applications, ICCSA 2015, held in Banff, AB, Canada, in June 2015. The 232 revised full papers presented in 22 workshops and a general track were carefully reviewed and selected from 780 initial submissions for inclusion in this volume. They cover various areas in computational science ranging from computational science technologies to specific areas of computational science such as computational geometry and security.
+ER  - 
+TY  - BOOK
+AN  - pub.1027033510
+TI  - Artificial Intelligence and Soft Computing, 11th International Conference, ICAISC 2012, Zakopane, Poland, April 29-May 3, 2012, Proceedings, Part I
+PY  - 2012
+A3  - Leszek Rutkowski
+A3  - Marcin Korytkowski
+A3  - Rafał Scherer
+A3  - Ryszard Tadeusiewicz
+A3  - Lotfi A. Zadeh
+A3  - Jacek M. Zurada
+DO  - 10.1007/978-3-642-29347-4
+UR  - https://app.dimensions.ai/details/publication/pub.1027033510
+Y2  - 2022/01/14
+AB  - The two-volume set LNAI 7267 and LNCS 7268 (together with LNCS 7269) constitutes the refereed proceedings of the 11th International Conference on Artificial Intelligence and Soft Computing, ICAISC 2012, held in Zakopane, Poland in April/May 2012. The 212 revised full papers presented were carefully reviewed and selected from 483 submissions. The papers are organized in topical sections on neural networks and their applications, computer vision, image and speech analysis, data mining, hardware implementation, bioinformatics, biometrics and medical applications, concurrent parallel processing, agent systems, robotics and control, artificial intelligence in modeling and simulation, various problems od artificial intelligence.
+ER  - 
+TY  - BOOK
+AN  - pub.1026585451
+TI  - Introduction to Computational Social Science, Principles and Applications
+AU  - Cioffi-Revilla, Claudio
+PY  - 2014
+DO  - 10.1007/978-1-4471-5661-1
+UR  - https://app.dimensions.ai/details/publication/pub.1026585451
+Y2  - 2022/01/14
+AB  - The emerging field of computational social science (CSS) is devoted to the pursuit of interdisciplinary social science research from an information processing perspective, through the medium of advanced computing and information technologies. This reader-friendly textbook/reference is the first work of its kind to provide a comprehensive and unified Introduction to Computational Social Science. Four distinct methodological approaches are examined in particular detail, namely automated social information extraction, social network analysis, social complexity theory, and social simulation modeling. The coverage of each of these approaches is supported by a discussion of the historical context and motivations, as well as by a list of recommended texts for further reading. Topics and features: Describes the scope and content of each area of CSS, covering topics on information extraction, social networks, complexity theory, and social simulations Highlights the main theories of the CSS paradigm as causal explanatory frameworks that shed new light on the nature of human and social dynamics Explains how to distinguish and analyze the different levels of analysis of social complexity using computational approaches Discusses a number of methodological tools, including extracting entities from text, computing social network indices, and building an agent-based model Presents the main classes of entities, objects, and relations common to the computational analysis of social complexity Examines the interdisciplinary integration of knowledge in the context of social phenomena This unique, clearly-written textbook is essential reading for graduate and advanced undergraduate students planning on embarking on a course on computational social science, or wishing to refresh their knowledge of the fundamental aspects of this exciting field.
+ER  - 
+TY  - BOOK
+AN  - pub.1021360689
+TI  - Computer Aided Systems Theory - EUROCAST 2013, 14th International Conference, Las Palmas de Gran Canaria, Spain, February 10-15, 2013. Revised Selected Papers, Part II
+PY  - 2013
+A3  - Roberto Moreno-Díaz
+A3  - Franz Pichler
+A3  - Alexis Quesada-Arencibia
+DO  - 10.1007/978-3-642-53862-9
+UR  - https://app.dimensions.ai/details/publication/pub.1021360689
+Y2  - 2022/01/14
+AB  - The two-volume set LNCS 8111 and LNCS 8112 constitute the papers presented at the 14th International Conference on Computer Aided Systems Theory, EUROCAST 2013, held in February 2013 in Las Palmas de Gran Canaria, Spain. The total of 131 papers presented were carefully reviewed and selected for inclusion in the books. The contributions are organized in topical sections on modelling biological systems; systems theory and applications; intelligent information processing; theory and applications of metaheuristic algorithms; model-based system design, verification and simulation; process modeling simulation and system optimization; mobile and autonomous transportation systems; computer vision, sensing, image processing and medical applications; computer-based methods and virtual reality for clinical and academic medicine; digital signal processing methods and applications; mechatronic systems, robotics and marine robots; mobile computing platforms and technologies; systems applications.
+ER  - 
+TY  - BOOK
+AN  - pub.1046530272
+TI  - Yearbook on Space Policy 2009/2010, Space for Society
+PY  - 2011
+A3  - Kai-Uwe Schrogl
+A3  - Spyros Pagkratis
+A3  - Blandina Baranes
+DO  - 10.1007/978-3-7091-0942-7
+UR  - https://app.dimensions.ai/details/publication/pub.1046530272
+Y2  - 2022/01/14
+AB  - The Yearbook on Space Policy is the reference publication analysing space policy developments. Each year it presents issues and trends in space policy and the space sector as a whole. Its scope is global and its perspective is European. The Yearbook also links space policy with other policy areas. It highlights specific events and issues, and provides useful insights, data and information on space activities. The Yearbook on Space Policy is edited by the European Space Policy Institute (ESPI) based in Vienna, Austria. It combines in-house research and contributions of members of the European Space Policy Research and Academic Network (ESPRAN), coordinated by ESPI. The Yearbook is designed for government decision-makers and agencies, industry professionals, as well as the service sectors, researchers and scientists and the interested public.
+ER  - 
+TY  - BOOK
+AN  - pub.1052144252
+TI  - Engineering Multi-Agent Systems, Second International Workshop, EMAS 2014, Paris, France, May 5-6, 2014, Revised Selected Papers
+PY  - 2014
+A3  - Fabiano Dalpiaz
+A3  - Jürgen Dix
+A3  - M. Birna van Riemsdijk
+DO  - 10.1007/978-3-319-14484-9
+UR  - https://app.dimensions.ai/details/publication/pub.1052144252
+L2  - https://iris.unito.it/bitstream/2318/151906/2/2014_EMASPostProc-_4aperto.pdf
+Y2  - 2022/01/14
+AB  - This book constitutes the refereed proceedings of the Second International Workshop on Engineering Multi-Agent Systems, EMAS 2014, held in Paris, France, in May 2014. The 22 full papers were carefully reviewed and selected from 41 submissions. The focus of the papers is on following topics: intelligent agents, multi-agent systems, software design engineering, model-driven software engineering, reasoning about belief and knowledge, cooperation and coordination, constraint and logic programming, software verification, design patterns.
+ER  - 
+TY  - BOOK
+AN  - pub.1020424670
+TI  - Ubiquitous Computing and Multimedia Applications, Second International Conference, UCMA 2011, Daejeon, Korea, April 13-15, 2011. Proceedings, Part I
+PY  - 2011
+A3  - Tai-hoon Kim
+A3  - Hojjat Adeli
+A3  - Rosslin John Robles
+A3  - Maricel Balitanas
+DO  - 10.1007/978-3-642-20975-8
+UR  - https://app.dimensions.ai/details/publication/pub.1020424670
+Y2  - 2022/01/14
+AB  - This two-volume set (CCIS 150 and CCIS 151) constitutes the refereed proceedings of the Second International Conference on Ubiquitous Computing and Multimedia Applications, UCMA 2011, held in Daejeon, Korea, in April 2011. The 86 revised full papers presented were carefully reviewed and selected from 570 submissions. Focusing on various aspects of advances in multimedia applications and ubiquitous computing with computational sciences, mathematics and information technology the papers present current research in the area of multimedia and ubiquitous environment including models and systems, new directions, novel applications associated with the utilization, and acceptance of ubiquitous computing devices and systems.
+ER  - 
+TY  - BOOK
+AN  - pub.1028933172
+TI  - Foundations of Augmented Cognition, 9th International Conference, AC 2015, Held as Part of HCI International 2015, Los Angeles, CA, USA, August 2–7, 2015, Proceedings
+PY  - 2015
+A3  - Dylan D. Schmorrow
+A3  - Cali M. Fidopiastis
+DO  - 10.1007/978-3-319-20816-9
+UR  - https://app.dimensions.ai/details/publication/pub.1028933172
+Y2  - 2022/01/14
+AB  - This book constitutes the proceedings of the 9th International Conference on the Foundations of Augmented Cognition, AC 2015, held as part of the 17th International Conference on Human-Computer Interaction, HCII 2015, which took place in Los Angeles, CA, USA, in August 2015. HCII 2015 received a total of 4843 submissions, of which 1462 papers and 246 posters were accepted for publication after a careful reviewing process. These papers address the latest research and development efforts and highlight the human aspects of design and use of computing systems. The papers thoroughly cover the entire field of Human-Computer Interaction, addressing major advances in knowledge and effective use of computers in a variety of application areas. The 78 papers presented in the AC 2015 proceedings address the following major topics: cognitive performance and work load, BCI and operational neuroscience, cognition, perception and emotion measurement, adaptive and tutoring training, applications of augmented cognition.
+ER  - 
+TY  - BOOK
+AN  - pub.1022854642
+TI  - Technological Innovation for Collective Awareness Systems, 5th IFIP WG 5.5/SOCOLNET Doctoral Conference on Computing, Electrical and Industrial Systems, DoCEIS 2014, Costa de Caparica, Portugal, April 7-9, 2014. Proceedings
+PY  - 2014
+A3  - Luis M. Camarinha-Matos
+A3  - Nuno S. Barrento
+A3  - Ricardo Mendonça
+DO  - 10.1007/978-3-642-54734-8
+UR  - https://app.dimensions.ai/details/publication/pub.1022854642
+L2  - https://hal.inria.fr/hal-01274907/file/978-3-642-54734-8_BookFrontmatter.pdf
+Y2  - 2022/01/14
+AB  - This book constitutes the refereed proceedings of the 5th IFIP WG 5.5/SOCOLNET Doctoral Conference on Computing, Electrical and Industrial Systems, DoCEIS 2014, held in Costa de Caparica, Portugal, in April 2014. The 68 revised full papers were carefully reviewed and selected from numerous submissions. They cover a wide spectrum of topics ranging from collaborative enterprise networks to microelectronics. The papers are organized in the following topical sections: collaborative networks; computational systems; self-organizing manufacturing systems; monitoring and supervision systems; advances in manufacturing; human-computer interfaces; robotics and mechatronics, Petri nets; multi-energy systems; monitoring and control in energy; modelling and simulation in energy; optimization issues in energy; operation issues in energy; power conversion; telecommunications; electronics: design; electronics: RF applications; and electronics: devices.
+ER  - 
+TY  - BOOK
+AN  - pub.1002985906
+TI  - India&#x27;s Naval Strategy and Asian Security
+AU  - Mukherjee, Anit
+AU  - Mohan, C. Raja
+PY  - 2015
+A3  - Anit Mukherjee
+DO  - 10.4324/9781315668512
+UR  - https://app.dimensions.ai/details/publication/pub.1002985906
+Y2  - 2022/01/14
+AB  - This book examines India’s naval strategy within the context of Asian regional security.
+ER  - 
+TY  - JOUR
+AN  - pub.1091558585
+TI  - Proceedings of the Annual Conference of the Prognostics and Health Management Society (PHM 2014) Held in Fort Worth, TX on September 29 - October 2, 2014. Invited Session on Corrosion Monitoring, Sensing, Detection and Prediction
+AU  - Reichard, Karl
+AU  - Byington, Carl
+PY  - 2014
+DO  - 10.21236/ada620390
+UR  - https://app.dimensions.ai/details/publication/pub.1091558585
+Y2  - 2022/01/14
+AB  - The Prognostics and Health Management (PHM) Society hosts an annual international conference which brings together the global community of PHM experts from industry, academia, and government in diverse application areas such as energy, aerospace, transportation, automotive, and industrial automation. The 2015 Conference featured a specific invited session on Corrosion Monitoring, Detection, and Prediction sponsored by ONR. A major differentiator for the PHM Society is its modern approach toward intellectual property rights. Authors retain copyright in their work while allowing the PHM Society to distribute their work through a Creative Commons License. As a result, all articles published by the PHM Society are available to the global PHM community via restrictions. A copy of the proceedings from the 2014 under this grant.
+ER  - 
+TY  - BOOK
+AN  - pub.1046559295
+TI  - Emerging ICT for Bridging the Future - Proceedings of the 49th Annual Convention of the Computer Society of India (CSI) Volume 1
+PY  - 2015
+A3  - Suresh Chandra Satapathy
+A3  - A. Govardhan
+A3  - K. Srujan Raju
+A3  - J. K. Mandal
+DO  - 10.1007/978-3-319-13728-5
+UR  - https://app.dimensions.ai/details/publication/pub.1046559295
+Y2  - 2022/01/14
+AB  - This volume contains 73 papers presented at CSI 2014: Emerging ICT for Bridging the Future: Proceedings of the 49th Annual Convention of Computer Society of India. The convention was held during 12-14, December, 2014 at Hyderabad, Telangana, India. This volume contains papers mainly focused on Fuzzy Systems, Image Processing, Software Engineering, Cyber Security and Digital Forensic, E-Commerce, Big Data, Cloud Computing and ICT applications.
+ER  - 
+TY  - BOOK
+AN  - pub.1015557485
+TI  - Routledge Handbook of Naval Strategy and Security
+AU  - Krause, Joachim
+AU  - Bruns, Sebastian
+PY  - 2016
+A3  - Joachim Krause
+A3  - Sebastian Bruns
+DO  - 10.4324/9781315732572
+UR  - https://app.dimensions.ai/details/publication/pub.1015557485
+Y2  - 2022/01/14
+AB  - This new handbook provides a comprehensive overview of the issues facing naval strategy and security in the twenty-first century. Featuring contributions from some of the world’s premier researchers and practitioners in the field of naval strategy and security, this handbook covers naval security issues in diverse regions of the world, from the Indian Ocean and the Mediterranean to the Arctic and the piracy-prone waters off East Africa’s coast. It outlines major policy challenges arising from competing claims, transnational organized crime and maritime terrorism, and details national and alliance reactions to these problems. While this volume provides detailed analyses on operational, judicial, and legislative consequences that contemporary maritime security threats pose, it also places a specific emphasis on naval strategy. With a public very much focused on the softer constabulary roles naval forces play (such as humanitarian assistance, disaster relief, naval diplomacy, maintenance of good order at sea), the overarching hard-power role of navies has been pushed into the background. In fact, navies and seapower have been notably absent from many recent academic discussions and deliberations of maritime security. This handbook provides a much-desired addition to the literature for researchers and analysts in the social sciences on the relationship between security policy and military means on, under, and from the sea. It comprehensively explains the state of naval security in this maritime century and the role of naval forces in it. This book will be of much interest to students of naval security and naval strategy, security studies and IR, as well as practitioners in the field. PART I: Context and Concepts 1. Introduction: The Changing Face of 21st Century Naval Strategy and Maritime Security, Sebastian Bruns and Joachim Krause 2. The Complex Nature of Today’s Maritime Security Issues: A View from the European Union perspective, Lutz Feldt 3. The Future of Naval Conflict, Tim Benbow PART II: Chokepoints and Strategic Areas 4. The Maritime Dispute in the East China Sea, Ralf Emmers 5. The Maritime Dispute in the South China Sea, Vasco Becker-Weinberg 6. Strategic Features of the Indian Ocean Region, James Holmes 7. The complex nature of Security in the Indian Ocean, Caitlyn Antrim 8. The Gulf: How dangerous is Iran for international maritime security?, Anthony Cordesman 9. Maritime Security in the Mediterranean, Carlo Masala, Konstantinos Tsetsos and Torsten Albrecht 10. Arctic Security: New Challenges in a Diverse Region, Helga Haftendorn PART III: Doctrinal and Technological Issues on the Naval Agenda 11. The Complex Nature of Today’s Maritime Security Issues: Why Whole-of-Government Frameworks Matter, Brian Wilson 12. The Changing Nature of Naval Conflicts in Shallow and Confined Waters, Stavros Karlatiras 13. Anti-Access/Area Denial – Operational Concepts of the U.S. Navy and the Chinese Navy in the Indo-Pacific, Nikolaus Scholik 14. Cyber and Naval Strategy, Alison Lawlor Russell 15. (No) Princes of the Sea: Reflections on Maritime Terrorism, Peter Lehr 16. Piracy off the Somali Coast: Is there light at the end of the tunnel?, Martin Murphy PART IV: Actor Perspectives and Policy Options 17. U.S. Naval Policy in the first decade of the 21st Century: Strategy, Plans and Operations, Peter M. Swartz 18. Options for US Naval Strategy, Randy Papadopoulos 19. Some Elements of 21st Century German naval strategy, Sebastian Bruns 20. UK naval strategy and international security, Eric Grove 21. The Russian Navy, Klaus Mommsen 22. Maritime Security in Asia: A View from India, Vijay Sakhuja 23. Major Maritime Powers and their Changing Relationship, Brahma Chellaney 24. A Perspective on China’s Maritime Security Strategy, Xu Hui and Cao Xianyu 25. Chinese Views of the U.S.-Led Maritime Order. Assessing the Skeptics, Toshi Yoshihara 26. Maritime Renaissance – Naval Power in NATO’s Future, Diego Ruiz Palmer 27. The European Union’s Approach to Maritime Security, Rudolf Roy
+ER  - 
+TY  - BOOK
+AN  - pub.1022446856
+TI  - Intelligent Robotics and Applications, 6th International Conference, ICIRA 2013, Busan, South Korea, September 25-28, 2013, Proceedings, Part II
+PY  - 2013
+A3  - Jangmyung Lee
+A3  - Min Cheol Lee
+A3  - Honghai Liu
+A3  - Jee-Hwan Ryu
+DO  - 10.1007/978-3-642-40849-6
+UR  - https://app.dimensions.ai/details/publication/pub.1022446856
+Y2  - 2022/01/14
+AB  - This two volume set LNAI 8102 and LNAI 8103 constitutes the refereed proceedings of the 6th International Conference on Intelligent Robotics and Applications, ICIRA 2013, held in Busan, South Korea, in September 2013. The 147 revised full papers presented were carefully reviewed and selected from 184 submissions. The papers discuss various topics from intelligent robotics, automation and mechatronics with particular emphasis on technical challenges associated with varied applications such as biomedical application, industrial automation, surveillance and sustainable mobility.
+ER  - 
+TY  - BOOK
+AN  - pub.1037205224
+TI  - Applications and Markets for Cooperating Objects
+AU  - Karnouskos, Stamatis
+AU  - Marrón, Pedro José
+AU  - Fortino, Giancarlo
+AU  - Mottola, Luca
+AU  - Martínez-de Dios, José Ramiro
+PY  - 2014
+DO  - 10.1007/978-3-642-45401-1
+UR  - https://app.dimensions.ai/details/publication/pub.1037205224
+L2  - http://cds.cern.ch/record/1646928/files/978-3-642-45401-1_BookTOC.pdf
+Y2  - 2022/01/14
+AB  - This book provides an overview and an insight in cooperative objects and defines the classification of topics into the different areas. A significant number of researchers and industrial partners were contacted in order to prepare the roadmap. The book prosents of the main results provided by the corresponding European project "CONET".
+ER  - 
+TY  - BOOK
+AN  - pub.1032563706
+TI  - Foundations of Augmented Cognition, 7th International Conference, AC 2013, Held as Part of HCI International 2013, Las Vegas, NV, USA, July 21-26, 2013. Proceedings
+PY  - 2013
+A3  - Dylan D. Schmorrow
+A3  - Cali M. Fidopiastis
+DO  - 10.1007/978-3-642-39454-6
+UR  - https://app.dimensions.ai/details/publication/pub.1032563706
+Y2  - 2022/01/14
+AB  - This book constitutes the refereed proceedings of the 5th International Conference on Augmented Cognition, AC 2013, held as part of the 15th International Conference on Human-Computer Interaction, HCII 2013, held in Las Vegas, USA in July 2013, jointly with 12 other thematically similar conferences. The total of 1666 papers and 303 posters presented at the HCII 2013 conferences was carefully reviewed and selected from 5210 submissions. These papers address the latest research and development efforts and highlight the human aspects of design and use of computing systems. The papers accepted for presentation thoroughly cover the entire field of human-computer interaction, addressing major advances in knowledge and effective use of computers in a variety of application areas. The total of 81 contributions was carefully reviewed and selected for inclusion in the AC proceedings. The papers are organized in the following topical sections: augmented cognition in training and education; team cognition; brain activity measurement; understanding and modeling cognition; cognitive load, stress and fatigue; applications of augmented cognition.
+ER  - 
+TY  - BOOK
+AN  - pub.1014658106
+TI  - Computer Safety, Reliability, and Security, SAFECOMP 2014 Workshops: ASCoMS, DECSoS, DEVVARTS, ISSE, ReSA4CI, SASSUR. Florence, Italy, September 8-9, 2014. Proceedings
+PY  - 2014
+A3  - Andrea Bondavalli
+A3  - Andrea Ceccarelli
+A3  - Frank Ortmeier
+DO  - 10.1007/978-3-319-10557-4
+UR  - https://app.dimensions.ai/details/publication/pub.1014658106
+Y2  - 2022/01/14
+AB  - This book constitutes the refereed proceedings of 6 workshops co-located with SAFECOMP 2014, the 33rd International Conference on Computer Safety, Reliability, and Security, held in Florence, Italy, in September 2014. The 32 revised full and 10 short papers presented were carefully reviewed and selected from 58 submissions. They are complemented with 6 introduction to each of the workshops: Architecting Safety in Collaborative Mobile Systems, ASCoMS'14; ERCIM/EWICS/ARTEMIS Workshop on Dependable Embedded and Cyberphysical Systems and Systems-of-Systems, DECSoS'14; DEvelopment, Verification and VAlidation of cRiTical Systems, DEVVARTS'14; Integration of Safety and Security Engineering, ISSE'14; Reliability and Security Aspects for Critical Infrastructure Protection, ReSA4CI'14; Next Generation of System Assurance Approaches for Safety-Critical Systems, SASSUR'14.
+ER  - 
+TY  - BOOK
+AN  - pub.1023830655
+TI  - Cyberspace and International Relations, Theory, Prospects and Challenges
+PY  - 2014
+A3  - Jan-Frederik Kremer
+A3  - Benedikt Müller
+DO  - 10.1007/978-3-642-37481-4
+UR  - https://app.dimensions.ai/details/publication/pub.1023830655
+Y2  - 2022/01/14
+AB  - Cyberspace is everywhere in today’s world and has significant implications not only for global economic activity, but also for international politics and transnational social relations.  This compilation addresses for the first time the “cyberization” of international relations - the growing dependence of actors in IR on the infrastructure and instruments of the internet, and the penetration of cyberspace into all fields of their activities. The volume approaches this topical issue in a comprehensive and interdisciplinary fashion, bringing together scholars from disciplines such as IR, security studies, ICT studies and philosophy as well as experts from  everyday cyber-practice. In the first part, concepts and theories are presented to shed light on the relationship between cyberspace and international relations, discussing implications for the discipline and presenting fresh and innovative theoretical approaches. Contributions in the second part  focus on specific empirical fields of activity (security, economy, diplomacy, cultural activity, transnational communication, critical infrastructure, cyber espionage, social media, and more) and address emerging challenges and prospects for international politics and relations.
+ER  - 
+TY  - BOOK
+AN  - pub.1030715473
+TI  - Encyclopedia of Natural Hazards
+PY  - 2013
+A3  - Peter T. Bobrowsky
+DO  - 10.1007/978-1-4020-4399-4
+UR  - https://app.dimensions.ai/details/publication/pub.1030715473
+L2  - https://link.springer.com/content/pdf/bfm%3A978-1-4020-4399-4%2F1.pdf
+Y2  - 2022/01/14
+AB  - Few subjects have caught the attention of the entire world as much as those dealing with natural hazards. The first decade of this new millennium provides a litany of tragic examples of various hazards that turned into disasters affecting millions of individuals around the globe. The human losses (some 225,000 people) associated with the 2004 Indian Ocean earthquake and tsunami, the economic costs (approximately 200 billion USD) of the 2011 Tohoku Japan earthquake, tsunami and reactor event, and the collective social impacts of human tragedies experienced during Hurricane Katrina in 2005 all provide repetitive reminders that we humans are temporary guests occupying a very active and angry planet. Any examples may have been cited here to stress the point that natural events on Earth may, and often do, lead to disasters and catastrophes when humans place themselves into situations of high risk. Few subjects share the true interdisciplinary dependency that characterizes the field of natural hazards. From geology and geophysics to engineering and emergency response to social psychology and economics, the study of natural hazards draws input from an impressive suite of unique and previously independent specializations. Natural hazards provide a common platform to reduce disciplinary boundaries and facilitate a beneficial synergy in the provision of timely and useful information and action on this critical subject matter. As social norms change regarding the concept of acceptable risk and human migration leads to an explosion in the number of megacities, coastal over-crowding and unmanaged habitation in precarious environments such as mountainous slopes, the vulnerability of people and their susceptibility to natural hazards increases dramatically. Coupled with the concerns of changing climates, escalating recovery costs, a growing divergence between more developed and less developed countries, the subject of natural hazards remains on the forefront of issues that affect all people, nations, and environments all the time. This treatise provides a compendium of critical, timely and very detailed information and essential facts regarding the basic attributes of natural hazards and concomitant disasters. The Encyclopedia of Natural Hazards effectively captures and integrates contributions from an international portfolio of almost 300 specialists whose range of expertise addresses over 330 topics pertinent to the field of natural hazards. Disciplinary barriers are overcome in this comprehensive treatment of the subject matter. Clear illustrations and numerous color images enhance the primary aim to communicate and educate. The inclusion of a series of unique “classic case study” events interspersed throughout the volume provides tangible examples linking concepts, issues, outcomes and solutions. These case studies illustrate different but notable recent, historic and prehistoric events that have shaped the world as we now know it. They provide excellent focal points linking the remaining terms in the volume to the primary field of study. This Encyclopedia of Natural Hazards will remain a standard reference of choice for many years.
+ER  - 
+TY  - BOOK
+AN  - pub.1084734391
+TI  - Advances in Computer Science and Ubiquitous Computing, CSA &amp; CUTE
+PY  - 2015
+A3  - Doo-Soon Park
+A3  - Han-Chieh Chao
+A3  - Young-Sik Jeong
+A3  - James J. (Jong Hyuk) Park
+DO  - 10.1007/978-981-10-0281-6
+UR  - https://app.dimensions.ai/details/publication/pub.1084734391
+Y2  - 2022/01/14
+AB  - This book presents the combined proceedings of the 7th International Conference on Computer Science and its Applications (CSA-15) and the International Conference on Ubiquitous Information Technologies and Applications (CUTE 2015), both held in Cebu, Philippines, December 15 - 17, 2015. The aim of these two meetings was to promote discussion and interaction among academics, researchers and professionals in the field of computer science covering topics including mobile computing, security and trust management, multimedia systems and devices, networks and communications, databases and data mining, and ubiquitous computing technologies such as ubiquitous communication and networking, ubiquitous software technology, ubiquitous systems and applications, security and privacy. These proceedings reflect the state-of-the-art in the development of computational methods, numerical simulations, error and uncertainty analysis and novel applications of new processing techniques in engineering, science, and other disciplines related to computer science.
+ER  - 
+TY  - BOOK
+AN  - pub.1035212532
+TI  - Obstructive Marketing
+AU  - Hyslop, Maitland
+PY  - 2016
+DO  - 10.4324/9781315598673
+UR  - https://app.dimensions.ai/details/publication/pub.1035212532
+Y2  - 2022/01/14
+AB  - In Obstructive Marketing, Maitland Hyslop deals with a very negative kind of activity which embraces activities, legal or otherwise, designed to prevent or restrict the distribution of a product or service, temporarily or permanently, against the wishes of the product manufacturer, service provider or customer. When the author defined this phenomenon as Obstructive Marketing and started to research it more than a decade ago, it was seen as a valid concept that was perhaps ahead of its time. The World has moved on and in the era of globalization a study of this negative aspect of marketing is now required. Obstructive Marketing is now seen as the business equivalent of asymmetric warfare, which is increasingly understood because the rise of the South and East at the expense of the North and West has brought some Obstructive Marketing stratagems into sharp focus. Using the author’s own research, this book explains what Obstructive Marketing is and why it is not called Anti-Marketing. The author explains who practises Obstructive Marketing, where, when and how; and why businesses are particularly vulnerable when entering new markets and engaging in change and innovation. Intriguing concepts such as cultural risk are illuminated along with formal links between Obstructive Marketing, asymmetric warfare and terrorism. This all leads to identification of the need for a strong Government/Business partnership to counter the effects of this darkest kind of marketing.
+ER  - 
+TY  - BOOK
+AN  - pub.1028733842
+TI  - Advances in Computer Science and its Applications, CSA 2013
+PY  - 2014
+A3  - Hwa Young Jeong
+A3  - Mohammad S. Obaidat
+A3  - Neil Y. Yen
+A3  - James J. (Jong Hyuk) Park
+DO  - 10.1007/978-3-642-41674-3
+UR  - https://app.dimensions.ai/details/publication/pub.1028733842
+Y2  - 2022/01/14
+AB  - The theme of CSA is focused on the various aspects of computer science and its applications for advances in computer science and its applications and provides an opportunity for academic and industry professionals to discuss the latest issues and progress in the area of computer science and its applications. This book includes various theories and practical applications of computer science.
+ER  - 
+TY  - BOOK
+AN  - pub.1050170254
+TI  - Convergence of Knowledge, Technology and Society, Beyond Convergence of Nano-Bio-Info-Cognitive Technologies
+PY  - 2013
+A3  - Mihail C. Roco
+A3  - William S. Bainbridge
+A3  - Bruce Tonn
+A3  - George Whitesides
+DO  - 10.1007/978-3-319-02204-8
+UR  - https://app.dimensions.ai/details/publication/pub.1050170254
+L2  - http://cds.cern.ch/record/1646919/files/978-3-319-02204-8_BookTOC.pdf
+Y2  - 2022/01/14
+AB  - Convergence of knowledge and technology for the benefit of society (CKTS) is the core opportunity for progress in the 21st century, based on five principles: (1) the interdependence of all components of nature and society, (2) enhancement of creativity and innovation through evolutionary processes of convergence that combine existing principles, and divergence that generates new ones, (3) decision analysis for research and development based on system-logic deduction, (4) higher-level cross-domain languages to generate new solutions and support transfer of new knowledge, and (5) vision-inspired basic research embodied in grand challenges. Solutions are outlined for key societal challenges, including creating new industries and jobs, improving lifelong wellness and human potential, achieving personalized and integrated healthcare and education, and securing a sustainable quality of life for all. This report provides a ten-year “NBIC2” vision within a longer-term framework for converging technology and human progress that began with a previous study on “NBIC” fields: nanotechnology, biotechnology, information technology, and cognitive science (Roco and Bainbridge, 2003).  This is truly an impressive body of work, which advances a transformative collection of concepts that could impact many areas of society and science. The ideas of this study are exciting.   Tinsley Oden, University of Texas, Austin (April 2013)   The CKTS study presents inspirational ideas behind the concept of convergence and identifies ground-breaking opportunities for human progress through such convergence.   Christos Tokamanis, Nanotechnology and Converging Technologies, EU, Brussels (May 2013)  The study provides a systematic and unified, internationally benchmarked framework for convergence that is relevant to policymakers, entrepreneurs, researchers, and the general public.   Jo-Won Lee, Hanyang University, Korea (June 2013)  I consider .. the first NBIC study in 2001.. as an historical landmark that has caused a new dynamic in the reflection on these new technologies within the broad scientific and governmental community.   Frank Theys, Co-producer for public broadcasters ZDF/ARTE, Germany & France (June 2013)
+ER  - 
+TY  - BOOK
+AN  - pub.1012147352
+TI  - AsiaSim 2012, Asia Simulation Conference 2012, Shanghai, China, October 27-30, 2012. Proceedings, Part II
+PY  - 2012
+A3  - Tianyuan Xiao
+A3  - Lin Zhang
+A3  - Minrui Fei
+DO  - 10.1007/978-3-642-34390-2
+UR  - https://app.dimensions.ai/details/publication/pub.1012147352
+Y2  - 2022/01/14
+AB  - The Three-Volume-Set CCIS 323, 324, 325 (AsiaSim 2012) together with the Two-Volume-Set CCIS 326, 327 (ICSC 2012) constitutes the refereed proceedings of the Asia Simulation Conference, AsiaSim 2012, and the International Conference on System Simulation, ICSC 2012, held in Shanghai, China, in October 2012. The 267 revised full papers presented were carefully reviewed and selected from 906 submissions. The papers are organized in topical sections on modeling theory and technology; modeling and simulation technology on synthesized environment and virtual reality environment; pervasive computing and simulation technology; embedded computing and simulation technology; verification, validation and accreditation technology; networked modeling and simulation technology; modeling and simulation technology of continuous system, discrete system, hybrid system, and intelligent system; high performance computing and simulation technology; cloud simulation technology; modeling and simulation technology of complex system and open, complex, huge system; simulation based acquisition and virtual prototyping engineering technology; simulator; simulation language and intelligent simulation system; parallel and distributed software; CAD, CAE, CAM, CIMS, VP, VM, and VR; visualization; computing and simulation applications in science and engineering; computing and simulation applications in management, society and economics; computing and simulation applications in life and biomedical engineering; computing and simulation applications in energy and environment; computing and simulation applications in education; computing and simulation applications in military field; computing and simulation applications in medical field.
+ER  - 
+TY  - BOOK
+AN  - pub.1012919363
+TI  - Internet and Distributed Computing Systems, 7th International Conference, IDCS 2014, Calabria, Italy, September 22-24, 2014. Proceedings
+PY  - 2014
+A3  - Giancarlo Fortino
+A3  - Giuseppe Di Fatta
+A3  - Wenfeng Li
+A3  - Sergio Ochoa
+A3  - Alfredo Cuzzocrea
+A3  - Mukaddim Pathan
+DO  - 10.1007/978-3-319-11692-1
+UR  - https://app.dimensions.ai/details/publication/pub.1012919363
+Y2  - 2022/01/14
+AB  - This book constitutes the refereed proceedings of the 7th International Conference on Internet and Distributed Computing Systems, IDCS 2014, held in Calabria, Italy, in September 2014. The 23 revised full and 15 revised short papers presented were carefully reviewed and selected from 50 submissions. The papers cover the following topics: ad-hoc and sensor networks; internet and Web technologies; network operations and management; multi-agent systems; cloud-based information infrastructures.
+ER  - 
+TY  - BOOK
+AN  - pub.1049496805
+TI  - Experimental Robotics, The 13th International Symposium on Experimental Robotics
+PY  - 2013
+A3  - Jaydev P. Desai
+A3  - Gregory Dudek
+A3  - Oussama Khatib
+A3  - Vijay Kumar
+DO  - 10.1007/978-3-319-00065-7
+UR  - https://app.dimensions.ai/details/publication/pub.1049496805
+Y2  - 2022/01/14
+AB  - The International Symposium on Experimental Robotics (ISER) is a series of bi-annual meetings which are organized in a rotating fashion around North America, Europe and Asia/Oceania. The goal of  ISER is to provide a forum for research in robotics that focuses on novelty of theoretical contributions validated by experimental results. The meetings are conceived to bring together, in a small group setting, researchers from around the world who are in the forefront of experimental robotics research. This unique reference presents the latest advances across the various fields of robotics, with ideas that are not only conceived conceptually but also explored experimentally. It collects robotics contributions on the current developments and new directions in the field of experimental robotics, which are based on the papers presented at the 13th ISER held held in Québec City, Canada, at the Fairmont Le Château Frontenac, on June 18-21, 2012. This present thirteenth edition of Experimental Robotics edited by Jaydev P. Desai, Gregory Dudek, Oussama Khatib, and Vijay Kumar  offers a collection of a broad range of topics in field and human-centered robotics.
+ER  - 
+TY  - BOOK
+AN  - pub.1037206004
+TI  - The Art of Wireless Sensor Networks, Volume 1: Fundamentals
+PY  - 2014
+A3  - Habib M. Ammari
+DO  - 10.1007/978-3-642-40009-4
+UR  - https://app.dimensions.ai/details/publication/pub.1037206004
+Y2  - 2022/01/14
+AB  - During the last one and a half decades, wireless sensor networks have witnessed significant growth and tremendous development in both academia and industry.   “The Art of Wireless Sensor Networks: Volume 1: Fundamentals” focuses on the fundamentals concepts in the design, analysis, and implementation of wireless sensor networks. It covers the various layers of the lifecycle of this type of network from the physical layer up to the application layer. Its rationale is that the first volume covers contemporary design issues, tools, and protocols for radio-based two-dimensional terrestrial sensor networks. All the book chapters in this volume include up-to-date research work spanning various classic facets of the physical properties and functional behavior of wireless sensor networks, including physical layer, medium access control, data routing, topology management, mobility management, localization, task management, data management, data gathering, security, middleware, sensor technology, standards, and operating systems. This book will be an excellent source of information for both senior undergraduate and graduate students majoring in computer science, computer engineering, electrical engineering, or any related discipline. In addition, computer scientists, researchers, and practitioners in both academia and industry will find this book useful and interesting.
+ER  - 
+TY  - BOOK
+AN  - pub.1027385889
+TI  - Software Architecture, 8th European Conference, ECSA 2014, Vienna, Austria, August 25-29, 2014. Proceedings
+PY  - 2014
+A3  - Paris Avgeriou
+A3  - Uwe Zdun
+DO  - 10.1007/978-3-319-09970-5
+UR  - https://app.dimensions.ai/details/publication/pub.1027385889
+L2  - http://repository.bilkent.edu.tr/bitstream/11693/27663/1/Safety%20perspective%20for%20supporting%20architectural%20design%20of%20safety-critical%20systems.pdf
+Y2  - 2022/01/14
+AB  - This book constitutes the proceedings of the 8th European Conference on Software Architecture, ECSA 2014, held in Vienna, Austria, in August 2014. The 16 full papers and 18 short papers presented in this volume were carefully reviewed and selected from 91 submissions. They are organized in topical sections named: architecture decisions and knowledge; architecture patterns and anti-patterns; reference architectures and metamodels; architecture description languages; enterprise architecture, SOA and cloud computing; components and connectors; quality attributes; and architecture analysis and verification.
+ER  - 
+TY  - BOOK
+AN  - pub.1019224097
+TI  - Strategic Studies
+AU  - Mahnken, Thomas
+AU  - Maiolo, Joseph
+PY  - 2014
+A3  - Thomas Mahnken
+A3  - Joseph Maiolo
+DO  - 10.4324/9781315814803
+UR  - https://app.dimensions.ai/details/publication/pub.1019224097
+Y2  - 2022/01/14
+AB  - The second edition of Strategic Studies: A Reader brings together key essays on strategic theory by some of the leading contributors to the field. This revised volume contains several new essays and updated introductions to each section.
+ER  - 
+TY  - BOOK
+AN  - pub.1107031036
+TI  - Software Defined Mobile Networks (SDMN)
+PY  - 2015
+A3  - Madhusanka Liyanage
+A3  - Andrei Gurtov
+A3  - Mika Ylianttila
+DO  - 10.1002/9781118900253
+UR  - https://app.dimensions.ai/details/publication/pub.1107031036
+Y2  - 2022/01/14
+ER  - 
+TY  - BOOK
+AN  - pub.1040238889
+TI  - Intelligent Monitoring, Control, and Security of Critical Infrastructure Systems
+PY  - 2015
+A3  - Elias Kyriakides
+A3  - Marios Polycarpou
+DO  - 10.1007/978-3-662-44160-2
+UR  - https://app.dimensions.ai/details/publication/pub.1040238889
+Y2  - 2022/01/14
+AB  - This book describes the challenges that critical infrastructure systems face, and presents state of the art solutions to address them. How can we design intelligent systems or intelligent agents that can make appropriate real-time decisions in the management of such large-scale, complex systems? What are the primary challenges for critical infrastructure systems? The book also provides readers with the relevant information to recognize how important infrastructures are, and their role in connection with a society’s economy, security and prosperity. It goes on to describe state-of-the-art solutions to address these points, including new methodologies and instrumentation tools (e.g. embedded software and intelligent algorithms) for transforming and optimizing target infrastructures. The book is the most comprehensive resource to date for professionals in both the private and public sectors, while also offering an essential guide for students and researchers in the areas of modeling and analysis of critical infrastructure systems, monitoring, control, risk/impact evaluation, fault diagnosis, fault-tolerant control, and infrastructure dependencies/interdependencies. The importance of the research presented in the book is reflected in the fact that currently, for the first time in human history, more people live in cities than in rural areas, and that, by 2050, roughly 70% of the world’s total population is expected to live in cities.
+ER  - 
+TY  - BOOK
+AN  - pub.1003593424
+TI  - Yearbook on Space Policy 2012/2013, Space in a Changing World
+PY  - 2015
+A3  - Cenan Al-Ekabi
+A3  - Blandina Baranes
+A3  - Peter Hulsroj
+A3  - Arne Lahcen
+DO  - 10.1007/978-3-7091-1827-6
+UR  - https://app.dimensions.ai/details/publication/pub.1003593424
+Y2  - 2022/01/14
+AB  - The Yearbook on Space Policy is the reference publication analyzing space policy developments. Each year it presents issues and trends in space policy and the space sector as a whole. Its scope is global and its perspective is European. The Yearbook also links space policy with other policy areas. It highlights specific events and issues, and provides useful insights, data and information on space activities. The Yearbook on Space Policy is edited by the European Space Policy Institute (ESPI) based in Vienna, Austria. It combines in-house research and contributions of members of the European Space Policy Research and Academic Network (ESPRAN), coordinated by ESPI. The Yearbook is designed for government decision-makers and agencies, industry professionals, as well as the service sectors, researchers and scientists and the interested public.
+ER  - 
+TY  - BOOK
+AN  - pub.1052987036
+TI  - SOFSEM 2015: Theory and Practice of Computer Science, 41st International Conference on Current Trends in Theory and Practice of Computer Science, Pec pod Sněžkou, Czech Republic, January 24-29, 2015. Proceedings
+PY  - 2015
+A3  - Giuseppe F. Italiano
+A3  - Tiziana Margaria-Steffen
+A3  - Jaroslav Pokorný
+A3  - Jean-Jacques Quisquater
+A3  - Roger Wattenhofer
+DO  - 10.1007/978-3-662-46078-8
+UR  - https://app.dimensions.ai/details/publication/pub.1052987036
+Y2  - 2022/01/14
+AB  - This book constitutes the proceedings of the 41st International Conference on Current Trends in Theory and Practice of Computer Science held in Pec pod Sněžkou, Czech Republic, during January 24-29, 2015. The book features 8 invited talks and 42 regular papers which were carefully reviewed and selected from 101 submissions. The papers are organized in topical sections named: foundations of computer science; software and Web engineering; data, information, and knowledge engineering; and cryptography, security, and verification.
+ER  - 
+TY  - BOOK
+AN  - pub.1024813171
+TI  - Contemporary Military Innovation
+AU  - Adamsky, Dima
+AU  - Bjerga, Kjell Inge
+PY  - 2012
+A3  - Dima Adamsky
+A3  - Kjell Inge Bjerga
+DO  - 10.4324/9780203112540
+UR  - https://app.dimensions.ai/details/publication/pub.1024813171
+Y2  - 2022/01/14
+AB  - This book explores contemporary military innovation, with a particular focus on the balance between anticipation and adaption.
+ER  - 
+TY  - BOOK
+AN  - pub.1023578917
+TI  - Distributed Computing and Networking, 12th International Conference, ICDCN 2011, Bangalore, India, January 2-5, 2011. Proceedings
+PY  - 2011
+A3  - Marcos K. Aguilera
+A3  - Haifeng Yu
+A3  - Nitin H. Vaidya
+A3  - Vikram Srinivasan
+A3  - Romit Roy Choudhury
+DO  - 10.1007/978-3-642-17679-1
+UR  - https://app.dimensions.ai/details/publication/pub.1023578917
+Y2  - 2022/01/14
+AB  - This book constitutes the refereed proceedings of the 12th International Conference on Distributed Computing and Networking, ICDCN 2011, held in Bangalore, India, during January 2-5, 2011. The 31 revised full papers and 3 revised short papers presented together with 3 invited lectures were carefully reviewed and selected from 140 submissions. The papers address all current issues in the field of distributed computing and networking. Being a leading forum for researchers and practitioners to exchange ideas and share best practices, ICDCN also serves as a forum for PhD students to share their research ideas and get quality feedback from the well-renowned experts in the field.
+ER  - 
+TY  - BOOK
+AN  - pub.1046263458
+TI  - Handbook of Satellite Applications
+PY  - 2013
+A3  - Joseph N. Pelton
+A3  - Scott Madry
+A3  - Sergio Camacho-Lara
+DO  - 10.1007/978-1-4419-7671-0
+UR  - https://app.dimensions.ai/details/publication/pub.1046263458
+Y2  - 2022/01/14
+AB  - Top space experts from around the world have collaborated to produce this comprehensive, authoritative, and clearly illustrated reference guide to the fast growing, multi-billion dollar field of satellite applications and space communications. This handbook, done under the auspices of the International Space University based in France, addresses not only system technologies but also examines market dynamics, technical standards and regulatory constraints. The handbook is a completely multi-disciplinary reference book that covers, in an in-depth fashion, the fields of satellite telecommunications, Earth observation, remote sensing, satellite navigation, geographical information systems, and geosynchronous meteorological systems. It covers current practices and designs as well as advanced concepts and future systems. It provides a comparative analysis of the common technologies and design elements for satellite application bus structures, thermal controls, power systems, stabilization techniques, telemetry, command and control (TTC), and orbital configurations. These common aspects are addressed in an integrated fashion to explain how all these space systems share similar design features, but also have quite specialized application packages to carry out their various missions. No other reference in print today provides such a comprehensive and in-depth guide to all forms of application satellites, including small sats as used by countries just beginning space application programs.
+ER  - 
+TY  - BOOK
+AN  - pub.1027222252
+TI  - New Contributions in Information Systems and Technologies, Volume 1
+PY  - 2015
+A3  - Alvaro Rocha
+A3  - Ana Maria Correia
+A3  - Sandra Costanzo
+A3  - Luis Paulo Reis
+DO  - 10.1007/978-3-319-16486-1
+UR  - https://app.dimensions.ai/details/publication/pub.1027222252
+L2  - https://bibliotecadigital.ipb.pt/bitstream/10198/15938/5/2015_wirelessgrids.pdf
+Y2  - 2022/01/14
+AB  - This book contains a selection of articles from The 2015 World Conference on Information Systems and Technologies (WorldCIST'15), held between the 1st and 3rd of April in Funchal, Madeira, Portugal, a global forum for researchers and practitioners to present and discuss recent results and innovations, current trends, professional experiences and challenges of modern Information Systems and Technologies research, technological development and applications. The main topics covered are: Information and Knowledge Management; Organizational Models and Information Systems; Intelligent and Decision Support Systems; Big Data Analytics and Applications; Software Systems, Architectures, Applications and Tools; Multimedia Systems and Applications; Computer Networks, Mobility and Pervasive Systems; Human-Computer Interaction; Health Informatics; Information Technologies in Education; Information Technologies in Radiocommunications.
+ER  - 
+TY  - BOOK
+AN  - pub.1009590367
+TI  - Virtual and Mixed Reality - Systems and Applications, International Conference, Virtual and Mixed Reality 2011, Held as Part of HCI International 2011, Orlando, FL, USA, July 9-14, 2011, Proceedings, Part II
+PY  - 2011
+A3  - Randall Shumaker
+DO  - 10.1007/978-3-642-22024-1
+UR  - https://app.dimensions.ai/details/publication/pub.1009590367
+Y2  - 2022/01/14
+AB  - The two-volume set LNCS 6773-6774 constitutes the refereed proceedings of the International Conference on Virtual and Mixed Reality 2011, held as Part of HCI International 2011, in Orlando, FL, USA, in July 2011, jointly with 10 other conferences addressing the latest research and development efforts and highlighting the human aspects of design and use of computing systems. The 47 revised papers included in the first volume were carefully reviewed and selected from numerous submissions. The papers are organized in the following topical sections: VR in education, training and health; VR for culture and entertainment; virtual humans and avatars; developing virtual and mixed environments.
+ER  - 
+TY  - BOOK
+AN  - pub.1038945035
+TI  - Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications, 17th Iberoamerican Congress, CIARP 2012, Buenos Aires, Argentina, September 3-6, 2012. Proceedings
+PY  - 2012
+A3  - Luis Alvarez
+A3  - Marta Mejail
+A3  - Luis Gomez
+A3  - Julio Jacobo
+DO  - 10.1007/978-3-642-33275-3
+UR  - https://app.dimensions.ai/details/publication/pub.1038945035
+L2  - https://accedacris.ulpgc.es/jspui/bitstream/10553/73229/1/preface_progress_pattern_recognition.pdf
+Y2  - 2022/01/14
+AB  - This book constitutes the refereed proceedings of the 17th Iberoamerican Congress on Pattern Recognition, CIARP 2012, held in Buenos Aires, Argentina, in September 2012. The 109 papers presented, among them two tutorials and four keynotes, were carefully reviewed and selected from various submissions. The papers are organized in topical sections on face and iris: detection and recognition; clustering; fuzzy methods; human actions and gestures; graphs; image processing and analysis; shape and texture; learning, mining and neural networks; medical images; robotics, stereo vision and real time; remote sensing; signal processing; speech and handwriting analysis; statistical pattern recognition; theoretical pattern recognition; and video analysis.
+ER  - 
+TY  - BOOK
+AN  - pub.1006460183
+TI  - Wireless Algorithms, Systems, and Applications, 7th International Conference, WASA 2012, Yellow Mountains, China, August 8-10, 2012. Proceedings
+PY  - 2012
+A3  - Xinbing Wang
+A3  - Rong Zheng
+A3  - Tao Jing
+A3  - Kai Xing
+DO  - 10.1007/978-3-642-31869-6
+UR  - https://app.dimensions.ai/details/publication/pub.1006460183
+Y2  - 2022/01/14
+AB  - This book constitutes the refereed proceedings of the 7th International Conference on Wireless Algorithms, Systems, and Applications, WASA 2012, held in Yellow Mountains, China, in August 2012. The 24 revised full papers presented together with 32 invited papers were carefully reviewed and selected from 116 submissions. The papers cover a wide range of topics such as cognitive radio networks, cyber-physical network systems, mobile handset networking systems, underwater and radar wireless networks, and wireless and mobile security.
+ER  - 
+TY  - BOOK
+AN  - pub.1045312100
+TI  - Theory and Engineering of Complex Systems and Dependability, Proceedings of the Tenth International Conference on Dependability and Complex Systems DepCoS-RELCOMEX, June 29 – July 3 2015, Brunów, Poland
+PY  - 2015
+A3  - Wojciech Zamojski
+A3  - Jacek Mazurkiewicz
+A3  - Jarosław Sugier
+A3  - Tomasz Walkowiak
+A3  - Janusz Kacprzyk
+DO  - 10.1007/978-3-319-19216-1
+UR  - https://app.dimensions.ai/details/publication/pub.1045312100
+Y2  - 2022/01/14
+AB  - Building upon a long tradition of scientifi c conferences dealing with problems of reliability in technical systems, in 2006 Department of Computer Engineering at Wrocław University of Technology established DepCoS-RELCOMEX series of events in order to promote a comprehensive approach to evaluation of system performability which is now commonly called dependability. Contemporary complex systems integrate variety of technical, information, soft ware and human (users, administrators and management) resources. Their complexity comes not only from involved technical and organizational structures but mainly from complexity of information processes that must be implemented in specific operational environment (data processing, monitoring, management, etc.). In such a case traditional methods of reliability evaluation focused mainly on technical levels are insufficient and more innovative, multidisciplinary methods of dependability analysis must be applied. Selection of submissions for these proceedings exemplify diversity of topics that must be included in such analyses: tools, methodologies and standards for modelling, design and simulation of the systems, security and confidentiality in information processing, specific issues of heterogeneous, today often wireless, computer networks, or management of transportation networks. In addition, this edition of the conference hosted the 5th CrISS-DESSERT Workshop devoted to the problems of security and safety in critical information systems.
+ER  - 
+TY  - BOOK
+AN  - pub.1033255104
+TI  - Embedded and Multimedia Computing Technology and Service, EMC 2012
+PY  - 2012
+A3  - James J. (Jong Hyuk) Park
+A3  - Young-Sik Jeong
+A3  - Sang Oh Park
+A3  - Hsing-Chung Chen
+DO  - 10.1007/978-94-007-5076-0
+UR  - https://app.dimensions.ai/details/publication/pub.1033255104
+Y2  - 2022/01/14
+AB  - The 7th International Conference on Embedded and Multimedia Computing (EMC-12), will be held in Gwangju, Korea on September 6 - 8, 2012. EMC-12 will be the most comprehensive conference focused on the various aspects of advances in Embedded and Multimedia (EM) Computing. EMC-12 will provide an opportunity for academic and industry professionals to discuss the latest issues and progress in the area of EM. In addition, the conference will publish high quality papers which are closely related to the various theories and practical applications in EM. Furthermore, we expect that the conference and its publications will be a trigger for further related research and technology improvements in this important subject. The EMC-12 is the next event, in a series of highly successful International Conference on Embedded and Multimedia Computing, previously held as EMC 2011 (China, Aug. 2011), EMC 2010 (Philippines, Aug. 2010), EM-Com 2009 (Korea, Dec. 2009), UMC-08 (Australia, Oct. 2008), ESO-08(China, Dec. 2008), UMS-08 (Korea, April, 2008), UMS-07(Singapore, Jan. 2007), ESO-07(Taiwan, Dec. 2007), ESO-06(Korea, Aug. 2006). This book was supported by Korea Sanhak Foundation(KSF), Korea
+ER  - 
+TY  - BOOK
+AN  - pub.1049737407
+TI  - Emerging Research in Computing, Information, Communication and Applications, ERCICA 2015, Volume 1
+PY  - 2015
+A3  - N. R. Shetty
+A3  - N.H. Prasad
+A3  - N. Nalini
+DO  - 10.1007/978-81-322-2550-8
+UR  - https://app.dimensions.ai/details/publication/pub.1049737407
+Y2  - 2022/01/14
+AB  - This proceedings volume covers the proceedings of ERCICA 2015. ERCICA provides an interdisciplinary forum for researchers, professional engineers and scientists, educators, and technologists to discuss, debate and promote research and technology in the upcoming areas of  Computing, Information, Communication and their Applications. The contents of this book cover emerging research areas in fields of Computing, Information, Communication and Applications. This will prove useful to both researchers and practicing engineers.
+ER  - 
+TY  - BOOK
+AN  - pub.1049220878
+TI  - Principles and Practice of Constraint Programming, 21st International Conference, CP 2015, Cork, Ireland, August 31 -- September 4, 2015, Proceedings
+PY  - 2015
+A3  - Gilles Pesant
+DO  - 10.1007/978-3-319-23219-5
+UR  - https://app.dimensions.ai/details/publication/pub.1049220878
+Y2  - 2022/01/14
+AB  - This book constitutes the refereed conference proceedings of the 21st International Conference on Principles and Practice of Constraint Programming, CP 2015, held in Cork, Ireland, in August/September 2015. This edition of the conference was part of George Boole 200, a celebration of the life and work of George Boole who was born in 1815 and worked at the University College of Cork. It was also co-located with the 31st International Conference on Logic Programming (ICLP 2015). The 48 revised papers presented together with 3 invited talks and 16 abstract papers were carefully selected from numerous submissions. The scope of CP 2014 includes all aspects of computing with constraints, including theory, algorithms, environments, languages, models, systems, and applications such as decision making, resource allocation, schedulling, configuration, and planning.
+ER  - 
+TY  - BOOK
+AN  - pub.1107021716
+TI  - Opportunistic Spectrum Sharing and White Space Access
+PY  - 2015
+A3  - Oliver Holland
+A3  - Hanna Bogucka
+A3  - Arturas Medeisis
+DO  - 10.1002/9781119057246
+UR  - https://app.dimensions.ai/details/publication/pub.1107021716
+L2  - https://repositorio.ipcb.pt/bitstream/10400.11/5486/1/ABSTRACT_TV%20white%20spaces_A.pdf
+Y2  - 2022/01/14
+ER  - 
+TY  - BOOK
+AN  - pub.1020303898
+TI  - Ad-hoc, Mobile, and Wireless Networks, 13th International Conference, ADHOC-NOW 2014, Benidorm, Spain, June 22-27, 2014 Proceedings
+PY  - 2014
+A3  - Song Guo
+A3  - Jaime Lloret
+A3  - Pietro Manzoni
+A3  - Stefan Ruehrup
+DO  - 10.1007/978-3-319-07425-2
+UR  - https://app.dimensions.ai/details/publication/pub.1020303898
+Y2  - 2022/01/14
+AB  - This book constitutes the refereed proceedings of the 13th International Conference on Ad-hoc, Mobile, and Wireless Networks, ADHOC-NOW 2014, held in Benidorm, Spain, in June 2014. The 33 revised full papers presented were carefully reviewed and selected from 78 submissions. The papers address such diverse topics as routing, cellular networks, MAC and physical layer, mobile ad hoc, sensor, and robot networks, localization and security, vehicular ad-hoc networks.
+ER  - 
+TY  - BOOK
+AN  - pub.1040513910
+TI  - Encyclopedia of Psychology and Religion
+PY  - 2014
+A3  - David A. Leeming
+DO  - 10.1007/978-1-4614-6086-2
+UR  - https://app.dimensions.ai/details/publication/pub.1040513910
+Y2  - 2022/01/14
+AB  - Encyclopedia of Psychology and Religion, 2nd edition, is a greatly expanded and updated reference work that builds on the foundation of the highly successful previous edition. The first to integrate psychology and religion in the context of modern social and behavioral sciences, Encyclopedia of Psychology and Religion continues to offer a rich contribution to the development of human self-understanding. A significant number of new entries and of updated original entries provide even more comprehensive coverage. This reference work provides a definitive and intellectually rigorous collection of psychological interpretations of the stories, rituals, motifs, symbols, doctrines, dogmas, and experiences of the world's religious and mythological traditions. A broad range of psychological approaches are used in order to help readers understand the form and content of religious experience as well as offer insight into the meanings of religious symbols and themes. It provides a technical and phenomenological vocabulary that will enable collaboration and dialogue among researchers in both fields. Easy to read and scrupulously edited, the encyclopedia draws from different religions, including modern world religions and older religious movements. It is of particular interest to researchers and professionals in psychology and religion. The Encyclopedia of Psychology and Religion is gathering new and revised entries toward its 3rd edition. Prospective authors are encouraged to contact Editor-in-Chief David Leeming for further details: daleeming@gmail.com .
+ER  - 
+TY  - BOOK
+AN  - pub.1024401871
+TI  - World Terrorism: An Encyclopedia of Political Violence from Ancient Times to the Post-9/11 Era
+PY  - 2015
+DO  - 10.4324/9781315697994
+UR  - https://app.dimensions.ai/details/publication/pub.1024401871
+Y2  - 2022/01/14
+AB  - First Published in 2015. Routledge is an imprint of Taylor & Francis, an Informa company.
+ER  - 
+TY  - BOOK
+AN  - pub.1029508909
+TI  - Encyclopedia of Sustainability Science and Technology
+PY  - 2012
+A3  - Robert A. Meyers
+DO  - 10.1007/978-1-4419-0851-3
+UR  - https://app.dimensions.ai/details/publication/pub.1029508909
+Y2  - 2022/01/14
+AB  - The Encyclopedia of Sustainability Science and Technology (ESST) addresses the grand challenge for science and engineering today. It provides unprecedented, peer-reviewed coverage in more than 550 separate entries comprising 38 topical sections. ESST establishes a foundation for the many sustainability and policy evaluations being performed in institutions worldwide. An indispensable resource for scientists and engineers in developing new technologies and for applying existing technologies to sustainability, the Encyclopedia of Sustainability Science and Technology is presented at the university and professional level needed for scientists, engineers, and their students to support real progress in sustainability science and technology. Although the emphasis is on science and technology rather than policy, the Encyclopedia of Sustainability Science and Technology is also a comprehensive and authoritative resource for policy makers who want to understand the scope of research and development and how these bottom-up innovations map on to the sustainability challenge.
+ER  - 
