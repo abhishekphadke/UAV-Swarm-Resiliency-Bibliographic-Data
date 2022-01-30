@@ -1,0 +1,886 @@
+TY  - JOUR
+TI  - A Survey on Machine-Learning Techniques for UAV-Based Communications
+AU  - Bithas, Petros S.
+AU  - Michailidis, Emmanouel T.
+AU  - Nomikos, Nikolaos
+AU  - Vouyioukas, Demosthenes
+AU  - Kanatas, Athanasios G.
+T2  - Sensors
+AB  - Unmanned aerial vehicles (UAVs) will be an integral part of the next generation wireless communication networks. Their adoption in various communication-based applications is expected to improve coverage and spectral efficiency, as compared to traditional ground-based solutions. However, this new degree of freedom that will be included in the network will also add new challenges. In this context, the machine-learning (ML) framework is expected to provide solutions for the various problems that have already been identified when UAVs are used for communication purposes. In this article, we provide a detailed survey of all relevant research works, in which ML techniques have been used on UAV-based communications for improving various design and functional aspects such as channel modeling, resource management, positioning, and security.
+DA  - 2019///
+PY  - 2019
+DO  - 10.3390/s19235170
+VL  - 19
+IS  - 23
+SP  - 5170
+J2  - Sensors
+UR  - https://app.dimensions.ai/details/publication/pub.1122936958
+AN  - pub.1122936958
+Y2  - 2022/01/14/
+L2  - https://www.mdpi.com/1424-8220/19/23/5170/pdf
+ER  - 
+
+TY  - JOUR
+TI  - Cluster-Based Control Plane Messages Management in Software-Defined Flying Ad-Hoc Network
+AU  - Cumino, Pedro
+AU  - Maciel, Kaled
+AU  - Tavares, Thaís
+AU  - Oliveira, Helder
+AU  - Rosário, Denis
+AU  - Cerqueira, Eduardo
+T2  - Sensors
+AB  - Collaboration between multiple Unmanned Aerial Vehicles (UAVs) to establish a Flying Ad-hoc Network (FANET) is a growing trend since future applications claim for more autonomous and rapidly deployable systems. In this context, Software-Defined Networking FANET (SDN-FANET ) separates the control and data plane and provides network programmability, which considers a centralized controller to perform all FANET control functions based on global UAV context information, such as UAV positions, movement trajectories, residual energy, and others. However, control message dissemination in an SDN-FANET with low overhead and high performance is not a trivial task due to FANET particular characteristics, i.e., high mobility, failures in UAV to UAV communication, and short communication range. With this in mind, it is essential to predict UAV information for control message dissemination as well as consider hierarchical network architecture, reducing bandwidth consumption and signaling overhead. In this article, we present a <b>C</b>luster-b<b>A</b>sed control <b>P</b>lane messages management in s<b>O</b>ftware-defined flying ad-hoc <b>NE</b>twork, called CAPONE. Based on UAV contextual information, the controller can predict UAV information without control message transmission. In addition, CAPONE divides the FANET into groups by computing the number of clusters using the Gap statistics method, which is input for a Fuzzy C-means method to determine the group leader and members. In this way, CAPONE reduces the bandwidth consumption and signaling overhead, while guaranteeing the control message delivering in FANET scenarios. Extensive simulations are used to show the gains of the CAPONE in terms of Packet Delivery Ratio, overhead, and energy compared to existing SDN-FANET architectures.
+DA  - 2019///
+PY  - 2019
+DO  - 10.3390/s20010067
+VL  - 20
+IS  - 1
+SP  - 67
+J2  - Sensors
+UR  - https://app.dimensions.ai/details/publication/pub.1123636383
+AN  - pub.1123636383
+Y2  - 2022/01/14/
+L2  - https://www.mdpi.com/1424-8220/20/1/67/pdf
+ER  - 
+
+TY  - JOUR
+TI  - Automated Trajectory Synthesis for UAV Swarms Based on Resilient Data Collection Objectives
+AU  - Jakaria, A H M
+AU  - Rahman, Mohammad Ashiqur
+AU  - Anderson, Matthew
+AU  - Drager, Steven
+T2  - arXiv
+AB  - The use of Unmanned Aerial Vehicles (UAVs) for collecting data from remotely
+located sensor systems is emerging. The data can be time-sensitive and require
+to be transmitted to a data processing center. However, planning the trajectory
+of a collaborative UAV swarm depends on multi-fold constraints, such as data
+collection requirements, UAV maneuvering capacity, and budget limitation. Since
+a UAV may fail or be compromised, it is important to provide necessary
+resilience to such contingencies, thus ensuring data security. It is important
+to provide the UAVs with efficient spatio-temporal trajectories so that they
+can efficiently cover necessary data sources. In this work, we present
+Synth4UAV, a formal approach for automated synthesis of efficient trajectories
+for a UAV swarm by logically modeling the aerial space and data point topology,
+UAV moves, and associated constraints in terms of the turning and climbing
+angle, fuel usage, data collection point coverage, data freshness, and
+resiliency properties. We use efficient, logical formulas to encode and solve
+the complex model. The solution to the model provides the routing and
+maneuvering plan for each UAV, including the time to visit the points on the
+paths and corresponding fuel usage such that the necessary data points are
+visited while satisfying the resiliency requirements. We evaluate the proposed
+trajectory synthesizer, and the results show that the relationship among
+different parameters follow the requirements while the tool scales well with
+the problem size.
+DA  - 2020///
+PY  - 2020
+J2  - arXiv
+UR  - https://app.dimensions.ai/details/publication/pub.1130339056
+AN  - pub.1130339056
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - JOUR
+TI  - Trajectory Synthesis for a UAV Swarm to Perform Resilient Requirement-Aware Surveillance: A Smart Grid-based Study
+AU  - Rahman, M. Ashiqur
+AU  - Masum, Rahat
+AU  - Anderson, Matthew
+AU  - Drager, Steven L.
+T2  - arXiv
+AB  - A smart grid is a widely distributed engineering system with overhead
+transmission lines. Physical damage to these power lines, from natural
+calamities or technical failures, will disrupt the functional integrity of the
+grid. To ensure the continuation of the grid's operational flow when those
+phenomena happen, the grid operator must immediately take steps to nullify the
+impacts and repair the problems, even if those occur in hardly-reachable remote
+areas. Emerging unmanned aerial vehicles (UAVs) show great potential to replace
+traditional human patrols for regularly monitoring critical situations
+involving the safety of the grid. The critical lines can be monitored by a
+fleet of UAVs to ensure a resilient surveillance system. The proposed approach
+considers the \textit{n}-1 contingency analysis to find the criticality of a
+transmission line. We propose a formal framework that verifies whether a given
+set of UAVs (i.e., a UAV swarm) can perform continuous surveillance of the grid
+satisfying various requirements, particularly the monitoring and resiliency
+specifications. The verification process ultimately provides a trajectory plan
+for the UAVs, including the refueling schedules. The resiliency requirement of
+inspecting a point on a line is expressed in terms of a $k-$property specifying
+that if $k$ UAVs fail or compromised still there is a UAV to collect the data
+at the point within on time. We evaluate the proposed framework on synthetic
+data based on various IEEE test bus systems.
+DA  - 2019///
+PY  - 2019
+J2  - arXiv
+UR  - https://app.dimensions.ai/details/publication/pub.1122370435
+AN  - pub.1122370435
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - JOUR
+TI  - Secure and Resilient Swarms: Autonomous Decentralized Lightweight UAVs to the Rescue
+AU  - Wolf, Shaya
+AU  - Cooley, Rafer
+AU  - Fantl, Jason
+AU  - Borowczak, Mike
+T2  - IEEE Consumer Electronics Magazine
+AB  - Distributed systems disseminate emergent behaviors across an interconnected group of lightweight agents. The SHARKS protocol (Secure, Heterogeneous, Autonomous, and Rotational Knowledge for Swarms) allows for a robotic swarm to encircle/ensphere a target. Motivated by security and resiliency, the SHARKS protocol addresses traditional vulnerabilities without creating a central point of vulnerability. The SHARKS protocol tolerates the loss of agents and continues to surround a target with as few as three individuals. Utilizing two movement algorithms, agents remain within a specified radial distance of the target while also evenly dispersing from their neighbors. SHARKS was tested in two-dimensional (2-D) and 3-D fields. In 2-D fields, the efficiency (how quickly the swarm stabilizes) and the capacity (the number of agents that can stabilize) were tested across different configurations. In 3-D fields, the stability was tested across many additional configurations based on when each swarm reached 68, 95, and 100 stability.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1109/mce.2020.2969174
+VL  - 9
+IS  - 4
+SP  - 34
+EP  - 40
+J2  - IEEE Consumer Electronics Magazine
+UR  - https://app.dimensions.ai/details/publication/pub.1128310439
+AN  - pub.1128310439
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - CONF
+TI  - Modeling and Simulation of UAV Swarm Formation Control in Response to Wind Gusts
+AU  - Findeis, Daniel E.
+AU  - Balchanos, Michael G.
+AU  - Vachtsevanos, George
+AU  - Mavris, Dimitri N.
+C3  - AIAA Scitech 2019 Forum
+DA  - 2019///
+PY  - 2019
+DO  - 10.2514/6.2019-1571
+UR  - https://app.dimensions.ai/details/publication/pub.1111231291
+AN  - pub.1111231291
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - CONF
+TI  - Counter UAS Solutions Through UAV Swarm Environments
+AU  - Pozniak, Martin
+AU  - Ranganathan, Prakash
+AB  - This work proposes a scalable unmanned aircraft system (UAS) swarm framework for autonomous detection of rogue unmanned aerial vehicles (UAVs) in a defined airspace. Data from UAV sensor systems is communicated between each swarm entity to coordinate a mission without operator or ground control intervention. The use of an autonomous UAV swarm for counter-UAS hosts many benefits over traditional ground-based units such as providing a method for active intervention with a rogue UAS with low regret mitigation methods. This work details preliminary hardware and software testbed development that can be improved upon to create commercial systems.
+C3  - 2019 IEEE International Conference on Electro Information Technology (EIT)
+DA  - 2019///
+PY  - 2019
+DO  - 10.1109/eit.2019.8834140
+SP  - 351
+EP  - 356
+UR  - https://app.dimensions.ai/details/publication/pub.1120991753
+AN  - pub.1120991753
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - CONF
+TI  - A Survey on Multi-Unmanned Aerial Vehicle Communications for Autonomous Inspections
+AU  - Shi, Liping
+AU  - Marcano, Néstor J. Hernández
+AU  - Jacobsen, Rune Hylsberg
+AB  - The system design of autonomous Unmanned Aerial Vehicles (UAVs) poses several challenges for the wireless communication concerning performance, resiliency, and scalability. The UAV system is typically restricted by flying time limitations due to energy constraints and can benefit from coordination of tasks among UAVs. It may further profit from cooperation between UAVs to share information context, maintain flying formation, extend communication range etc. In this paper, we review communication schemes for clusters of autonomous UAVs cooperation. Performance metrics for assessing those schemes are investigated. We provide a survey of candidate wireless communication technologies considering a power line inspection target application. Performance measurements and UAV related channel modeling of those candidate technologies are reviewed. We present how the requirements of the UAVs communication system are identified through the application specification.
+C3  - 2019 22nd Euromicro Conference on Digital System Design (DSD)
+DA  - 2019///
+PY  - 2019
+DO  - 10.1109/dsd.2019.00088
+SP  - 580
+EP  - 587
+UR  - https://app.dimensions.ai/details/publication/pub.1121971569
+AN  - pub.1121971569
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - CONF
+TI  - Blockchain Technology for Networked Swarms of Unmanned Aerial Vehicles (UAVs)
+AU  - Jensen, Isaac J.
+AU  - Selvaraj, Daisy Flora
+AU  - Ranganathan, Prakash
+AB  - Unmanned Aerial Vehicle (UAV) technology is quickly growing with a wide range of current and planned future applications. As the technology grows in usage, the data gathered by UAV systems as well as the UAVs themselves will become bigger targets for cyber-attacks. New cyber security technologies, such as the immutable ledger technology known as blockchain, should therefore be applied to provide a defense against the growing threat of cyber-attacks. This paper explores blockchain technology, first through a general overview of its components and characteristics, and then at what security improvements it can provide to a system. Following this exploration, the application of blockchain to a UAV swarm environment is briefly expanded on. Lastly, one such blockchain framework known as Hyperledger Fabric is explored, that could potentially be applied to a swarm of UAVs to increase its security.
+C3  - 2019 IEEE 20th International Symposium on "A World of Wireless, Mobile and Multimedia Networks" (WoWMoM)
+DA  - 2019///
+PY  - 2019
+DO  - 10.1109/wowmom.2019.8793027
+SP  - 1
+EP  - 7
+UR  - https://app.dimensions.ai/details/publication/pub.1120282496
+AN  - pub.1120282496
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - JOUR
+TI  - Combining Formal and Probabilistic Modeling in Resilient Systems Design
+AU  - Madni, Azad M.
+AU  - Sievers, Michael
+T2  - Procedia Computer Science
+AB  - Resilience is a system property that enables a system (or system-of-systems) to continue to provide useful service in the face of disruptions. Resilience is especially important for systems that have to operate for extended periods in uncertain, disruptive environments. Resilience approaches today tend to be ad hoc and do not scale. Importantly, it is difficult to assess their long-term impact. This paper presents a flexible contract (FC) approach that employs a combination of formal methods for verification and testing and flexible assertions coupled with probabilistic modeling to handle mission uncertainty. A FC is a hybrid modeling construct that facilitates system verification and testing while offering the requisite flexibility to cope with non-determinism. This paper illustrates the use of FCs for multi-UAV swarm operations in, partially observable, dynamic environments. The approach is sufficiently general for use in other domains such as self-driving vehicles.
+DA  - 2019///
+PY  - 2019
+DO  - 10.1016/j.procs.2019.05.088
+VL  - 153
+SP  - 343
+EP  - 351
+J2  - Procedia Computer Science
+UR  - https://app.dimensions.ai/details/publication/pub.1116840943
+AN  - pub.1116840943
+Y2  - 2022/01/14/
+L2  - https://doi.org/10.1016/j.procs.2019.05.088
+ER  - 
+
+TY  - CONF
+TI  - Formal Synthesis of Trajectories for Unmanned Aerial Vehicles to Perform Resilient Surveillance of Critical Power Transmission Lines
+AU  - Rahman, Mohammad Ashiqur
+AU  - Masum, Rahat
+AU  - Anderson, Matthew
+AU  - Drager, Steven L.
+AB  - A smart grid is a widely distributed engineering system with overhead transmission lines. Physical damage to these power lines, from natural calamities or technical failures, will disrupt the functional integrity of the grid. To ensure the continuation of the grid's operational flow when those phenomena happen, the grid operator must immediately take steps to nullify the impacts and repair the problems, even if those occur in hardly-reachable remote areas. Emerging unmanned aerial vehicles (UAV s) show great potential to replace traditional human patrols for regularly monitoring critical situations involving the safety of the grid. The critical lines can be monitored by a fleet of UAV s, ensuring resilient surveillance. The proposed approach considers the $n-1$ contingency analysis to find the criticality of a transmission line. We propose a formal framework that verifies whether a given set of UAV s can perform continuous surveillance of the grid satisfying various requirements, particularly the monitoring and resiliency specifications. The verification process ultimately provides a trajectory plan for the UAV s, including the refueling schedules. The resiliency requirement of inspecting a point on a line is expressed in terms of a $k$ - property specifying that if $k$ UAV s fail or are compromised, there is still a UAV to collect the data on time. We evaluate the proposed framework on synthetic data based on various IEEE test bus systems.
+C3  - 2020 25th International Conference on Engineering of Complex Computer Systems (ICECCS)
+DA  - 2020///
+PY  - 2020
+DO  - 10.1109/iceccs51672.2020.00019
+SP  - 103
+EP  - 112
+UR  - https://app.dimensions.ai/details/publication/pub.1136542389
+AN  - pub.1136542389
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - CONF
+TI  - Formal and Probabilistic Modeling in Design of Resilient Systems and System-of-Systems
+AU  - Madni, Azad M.
+AU  - Sievers, Michael
+AU  - Erwin, Daniel
+C3  - AIAA Scitech 2019 Forum
+DA  - 2019///
+PY  - 2019
+DO  - 10.2514/6.2019-0223
+UR  - https://app.dimensions.ai/details/publication/pub.1111230127
+AN  - pub.1111230127
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - CONF
+TI  - Secure Broadcast Protocol for Unmanned Aerial Vehicle Swarms
+AU  - Guo, Hongpeng
+AU  - Liu, Tianyuan
+AU  - Lui, King-Shan
+AU  - Danilov, Claudiu
+AU  - Nahrstedt, Klara
+AB  - The technology advancement has made Unmanned Aerial Vehicle (UAV) swarm a promising method to achieve complicated missions that a single UAV cannot support. Leader-followers formation is a widely used swarm management scenario where a leader drone frequently broadcasts controlling messages to all follower drones to achieve collaboratively a common mission. However, managing such a UAV swarm, especially when the member drones dynamically join and leave the swarm, introduces significant security challenges and performance overhead. In this work, we propose a Swarm Broadcast Protocol (SBP) to facilitate the security protection of leader-followers formation based UAV swarms. SBP contains a security key management scheme that manages a broadcast key among the swarm for leader to broadcast encrypted messages to followers. When swarm membership changes, the broadcast key will be updated and synchronized among the swarm to maintain both backward and forward secrecy. The overhead of SBP is small that only constant computational overhead is needed for both swarm leader and followers to achieve key synchronization when a new drone joins regardless of the current swarm size. This feature would highly reduce the overhead when there are many individual drone joining events. Through experiments on network emulator, we show that SBP achieves lowest bandwidth overhead and CPU utilization to handle multiple swarm membership changing events, comparing with two public-key-based swarm management protocol baselines.
+C3  - 2020 29th International Conference on Computer Communications and Networks (ICCCN)
+DA  - 2020///
+PY  - 2020
+DO  - 10.1109/icccn49398.2020.9209739
+SP  - 1
+EP  - 9
+UR  - https://app.dimensions.ai/details/publication/pub.1131342942
+AN  - pub.1131342942
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - CONF
+TI  - Fly-Crash-Recover: A Sensor-based Reactive Framework for Online Collision Recovery of UAVs
+AU  - Wang, Shirley
+AU  - Anselmo, Nicholas
+AU  - Garrett, Miller
+AU  - Remias, Ryan
+AU  - Trivett, Matthew
+AU  - Christoffersen, Anders
+AU  - Bezzo, Nicola
+AB  - Unmanned Aerial Vehicles (UAVs) are becoming increasingly popular thanks to the multiplicity of operations in which they can be deployed such as surveillance, search and rescue, mapping, transportation, hobby and recreational activities. Although sensors like LIDARs and cameras are often present on such systems for motion planning to avoid obstacles, collisions can still occur in very dense and unstructured environments, especially if disturbances are present. In this work, we research techniques to recover UAVs after a collision has occurred. We note that the on-board sensors, especially the inertial sensor used to stabilize the UAV, run at a high frequencies obtaining hundreds of data points every second. At run-time, this can be leveraged at the moment of a collision to quickly detect and recover the system. Our approach considers knowledge of UAV system dynamics to predict the expected behavior of the vehicle under safe flight conditions and leverage such expectations together with inertial data to detect collisions rapidly (on the order of milliseconds). We also propose a potential field-based approach to map the collision and create the correct reactive maneuver to avoid the collided object and bring the system back to a stable and safe configuration. Experiments are executed using ROS on two micro-quadrotor UAV platforms having different dynamics and performances, while colliding with poles and walls positioned in different configurations. In our results, we are able to show that the UAVs are successfully able to detect and avoid a collision, while also providing a rigorous analysis of the conditions in which the system can recover from imminent collisions.
+C3  - 2020 Systems and Information Engineering Design Symposium (SIEDS)
+DA  - 2020///
+PY  - 2020
+DO  - 10.1109/sieds49339.2020.9106654
+SP  - 1
+EP  - 6
+UR  - https://app.dimensions.ai/details/publication/pub.1128174810
+AN  - pub.1128174810
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - CONF
+TI  - Adversarial Impacts on Autonomous Decentralized Lightweight Swarms
+AU  - Wolf, Shaya
+AU  - Cooley, Rafer
+AU  - Borowczak, Mike
+AB  - The decreased size and cost of Unmanned Aerial Vehicles (UAVs) and Unmanned Ground Vehicles (UGVs) has enabled the use of swarms of unmanned autonomous vehicles to accomplish a variety of tasks. By utilizing swarming behaviors, it is possible to efficiently accomplish coordinated tasks while minimizing per-drone computational requirements. Some drones rely on decentralized protocols that exhibit emergent behavior across the swarm. While fully decentralized algorithms remove obvious attack vectors their susceptibility to external influence is less understood. This work investigates the influences that can compromise the functionality of an autonomous swarm leading to hazardous situations and cascading vulnerabilities. When a swarm is tasked with missions involving the safety or health of humans, external influences could have serious consequences. The adversarial swarm in this work utilizes an attack vector embedded within the decentralized movement algorithm of a previously defined autonomous swarm designed to create a perimeter sentry swarm. Various simulations confirm the adversarial swarm’s ability to capture significant portions (6-23%) of the perimeter.
+C3  - 2019 IEEE International Smart Cities Conference (ISC2)
+DA  - 2019///
+PY  - 2019
+DO  - 10.1109/isc246665.2019.9071763
+SP  - 160
+EP  - 166
+UR  - https://app.dimensions.ai/details/publication/pub.1126824875
+AN  - pub.1126824875
+Y2  - 2022/01/14/
+L2  - http://arxiv.org/pdf/2002.09109
+ER  - 
+
+TY  - CONF
+TI  - Moving Particle Semi-Implicit Method for Control of Swarm Robotic Systems
+AU  - Chua, Joseph Aldrin
+AU  - Lim, Laurence Gan
+AU  - Augusto, Gerardo
+AU  - Maningo, Jose Martin
+AU  - Bandala, Argel
+AU  - Vicerra, Ryan Rhay
+AU  - Dadios, Elmer
+AB  - The advancements of Multiple Robot Systems (MRS) have shown advantages over single robot systems. Generally, the motivations for the development of MRS are task flexibility, time efficiency, and single-point failure resiliency. The challenge in MRS, however, is the control and coordination of all the members in the system when performing tasks. Swarm robotics is a branch of MRS that deals with groups of homogeneous robots. The goal of swarm robotics is to produce systems that are scalable, flexible, and robust. The control of swarm robotic systems, however, looks to be one of the main challenges. These control concepts are inspired by biological swarms and, more recently, physics concepts. The success of the swarm’s control algorithm will also lead to the swarm’s ability to perform cooperative tasks. The use of homogeneous robots in swarm systems makes it advantageous to model the swarm robots as particles in a fluid. The Moving Particle Semi-Implicit (MPS) Method, a particle-based method in fluid dynamics, is proposed to be used as a control algorithm for swarm robotics.
+C3  - 2019 IEEE 11th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management ( HNICEM )
+DA  - 2019///
+PY  - 2019
+DO  - 10.1109/hnicem48295.2019.9072694
+SP  - 1
+EP  - 5
+UR  - https://app.dimensions.ai/details/publication/pub.1126915121
+AN  - pub.1126915121
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - JOUR
+TI  - Artificial intelligence and game theory controlled autonomous UAV swarms
+AU  - Kusyk, Janusz
+AU  - Uyar, M. Umit
+AU  - Ma, Kelvin
+AU  - Samoylov, Eltan
+AU  - Valdez, Ricardo
+AU  - Plishka, Joseph
+AU  - Hoque, Sagor E.
+AU  - Bertoli, Giorgio
+AU  - Boksiner, Jeffrey
+T2  - Evolutionary Intelligence
+AB  - Autonomous unmanned aerial vehicles (uavs) operating as a swarm can be deployed in austere environments, where cyber electromagnetic activities often require speedy and dynamic adjustments to swarm operations. Use of central controllers, uav synchronization mechanisms or pre-planned set of actions to control a swarm in such deployments would hinder its ability to deliver expected services. We introduce artificial intelligence and game theory based flight control algorithms to be run by each autonomous uav to determine its actions in near real-time, while relying only on local spatial, temporal and electromagnetic (em) information. Each uav using our flight control algorithms positions itself such that the swarm maintains mobile ad-hoc network (manet) connectivity and uniform asset distribution over an area of interest. Typical tasks for swarms using our algorithms include detection, localization and tracking of mobile em transmitters. We present a formal analysis showing that our algorithms can guide a swarm to maintain a connected manet, promote a uniform network spreading, while avoiding overcrowding with other swarm members. We also prove that they maintain manet connectivity and, at the same time, they can lead a swarm of autonomous uavs to follow or avoid an em transmitter. Simulation experiments in opnet modeler verify the results of formal analysis that our algorithms are capable of providing an adequate area coverage over a mobile em source and maintain manet connectivity. These algorithms are good candidates for civilian and military applications that require agile responses to the changes in dynamic environments for tasks such as detection, localization and tracking mobile em transmitters.
+DO  - 10.1007/s12065-020-00456-y
+VL  - 14
+IS  - 4
+SP  - 1775
+EP  - 1792
+J2  - Evolutionary Intelligence
+UR  - https://app.dimensions.ai/details/publication/pub.1129661642
+AN  - pub.1129661642
+Y2  - 2022/01/14/
+L2  - https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1636&context=ny_pubs
+ER  - 
+
+TY  - CONF
+TI  - Defensive Strategies for Autonomous Decentralized Lightweight Swarms
+AU  - Wolf, Shaya
+AU  - Borowczak, Mike
+AB  - The SHARKS protocol enables agents to circle a two-dimensional target or ensphere a three-dimensional target through two simple distributed algorithms that ensure that the drones are equally dispersed from each other and maintain a specified distance from a target. An attack vector was identified in previous work that corrals agents and inhibits the swarms ability to create a perimeter. This research focuses on overcoming this attack without adding extensive overhead to the drones. Three basic techniques are proposed where the legitimate agents eject from their ideal circle around the target. By breaking out of this formation and quickly returning, the agents are able to bypass the adversarial nodes. The results were measured using a security metric based on the total disruption of the adversaries. These experiments showed that the total disruption across the swarm could be less than five percent using ejection strategies that set the ejection distance or the likelihood of ejecting based on the distance between the agents.
+C3  - 2020 IEEE 10th International Conference on Consumer Electronics (ICCE-Berlin)
+DA  - 2020///
+PY  - 2020
+DO  - 10.1109/icce-berlin50680.2020.9352161
+SP  - 1
+EP  - 6
+UR  - https://app.dimensions.ai/details/publication/pub.1135442297
+AN  - pub.1135442297
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - JOUR
+TI  - Selfish Bandit-Based Cognitive Anti-Jamming Strategy for Aeronautic Swarm Network in Presence of Multiple Jammer
+AU  - Li, Haitao
+AU  - Luo, Jiawei
+AU  - Liu, Changjun
+T2  - IEEE Access
+AB  - In order to enhance the anti-jamming capability of aeronautic swarm tactical network in the complicated electromagnetic environment, we address the problem of bandit-based cognitive anti-jamming strategy for enabling reliable information transmission. We first present an adversarial multiuser multi-armed bandit model for the aeronautic swarm network employing airborne cognitive radios with the same-frequency simultaneous transmit and receive feature. Then, we utilize the improved energy detection method to perform jamming sensing and derive the closed expression of false alarm probability, false detection probability, and the optimal decision threshold in the case of single and multi-jammer. Finally, using the jamming sensing output to calculate reward and with the objective of maximizing the throughput of each airborne radio, a decentralized selfish doubling trick kl-UCB++ anti-jamming strategy is developed to allocate an optimal configuration of transmitting power and spectrum channel to each radio. This anytime bandit strategy is simultaneously minimaxed optimal and asymptotically optimal. The simulation results validate that the aggregate average throughput, cumulative regret obtained with the proposed anti-jamming strategy outperform the well-known UCB, kl-UCB++ bandit algorithm.
+DA  - 2019///
+PY  - 2019
+DO  - 10.1109/access.2019.2896709
+VL  - 7
+SP  - 30234
+EP  - 30243
+J2  - IEEE Access
+UR  - https://app.dimensions.ai/details/publication/pub.1111876872
+AN  - pub.1111876872
+Y2  - 2022/01/14/
+L2  - https://ieeexplore.ieee.org/ielx7/6287639/8600701/08632663.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Routing Protocols for Unmanned Aerial Vehicle Networks: A Survey
+AU  - Arafat, Muhammad Yeasir
+AU  - Moh, Sangman
+T2  - IEEE Access
+AB  - Unmanned aerial vehicles (UAVs) have gained popularity for diverse applications and services in both the military and civilian domains. For cooperation and collaboration among UAVs, they can be wirelessly interconnected in an ad hoc manner, resulting in a UAV network. UAV networks have unique features and characteristics that are different from mobile ad hoc networks and vehicular ad hoc networks. The dynamic behavior of rapid mobility and topology changes in UAV networks makes the design of a routing protocol quite challenging. In this paper, we review the routing protocols for UAV networks, in which the topology-based, position-based, hierarchical, deterministic, stochastic, and social-network-based routing protocols are extensively surveyed. The routing protocols are then compared qualitatively in terms of their major features, characteristics, and performance. Open issues and research challenges are also discussed in the perspective of design and implementation.
+DA  - 2019///
+PY  - 2019
+DO  - 10.1109/access.2019.2930813
+VL  - 7
+SP  - 99694
+EP  - 99720
+J2  - IEEE Access
+UR  - https://app.dimensions.ai/details/publication/pub.1119871126
+AN  - pub.1119871126
+Y2  - 2022/01/14/
+L2  - https://ieeexplore.ieee.org/ielx7/6287639/8600701/08772093.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Softwarization of UAV Networks: A Survey of Applications and Future Trends
+AU  - Oubbati, Omar Sami
+AU  - Atiquzzaman, Mohammed
+AU  - Ahanger, Tariq Ahamed
+AU  - Ibrahim, Atef
+T2  - IEEE Access
+AB  - Unmanned Aerial Vehicles (UAVs) have become increasingly important in assisting 5G and beyond 5G (B5G) mobile networks. Indeed, UAVs have all the potentials to both satisfy the ever-increasing mobile data demands of such mobile networks and provide ubiquitous connectivity to different kinds of wireless devices. However, the UAV assistance paradigm faces a set of crucial issues and challenges. For example, the network management of current UAV-assisted systems is time consuming, complicated, and carried out manually, thus causing a multitude of interoperability issues. To efficiently address all these issues, Software-Defined Network (SDN) and Network Function Virtualization (NFV) are two promising technologies to efficiently manage and improve the UAV assistance for the next generation of mobile networks. In the literature, no clear guidelines are describing the different use cases of SDN and NFV in the context of UAV assistance to terrestrial networks, including mobile networks. Motivated by this fact, in this survey, we guide the reader through a comprehensive discussion of the main characteristics of SDN and NFV technologies. Moreover, we provide a thorough analysis of the different classifications, use cases, and challenges related to UAV-assisted systems. We then discuss SDN/NFV-enabled UAV-assisted systems, along with several case studies and issues, such as the involvement of UAVs in cellular communications, monitoring, and routing, to name a few. We furthermore present a set of open research challenges, high-level insights, and future research directions related to UAV-assisted systems.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1109/access.2020.2994494
+VL  - 8
+SP  - 98073
+EP  - 98125
+J2  - IEEE Access
+UR  - https://app.dimensions.ai/details/publication/pub.1127578697
+AN  - pub.1127578697
+Y2  - 2022/01/14/
+L2  - https://ieeexplore.ieee.org/ielx7/6287639/8948470/09093033.pdf
+ER  - 
+
+TY  - CONF
+TI  - Challenges of Reliability Assessment and Enhancement in Autonomous Systems
+AU  - Jenihhin, Maksim
+AU  - Reorda, Matteo Sonza
+AU  - Balakrishnan, Aneesh
+AU  - Alexandrescu, Dan
+AB  - The gigantic complexity and heterogeneity of today's advanced cyber-physical systems and systems of systems is multiplied by the use of avant-garde computing architectures to employ artificial intelligence based autonomy in the system. Here, the overall system's reliability comes along with requirements for fail-safe, fail-operational modes specific to the target applications of the autonomous system and adopted HW architectures. The paper makes an overview of reliability challenges for intelligence implementation in autonomous systems enabled by HW backbones such as neuromorphic architectures, approximate computing architectures, GPUs, tensor processing units (TPUs) and SoC FPGAs.
+C3  - 2019 IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems (DFT)
+DA  - 2019///
+PY  - 2019
+DO  - 10.1109/dft.2019.8875379
+SP  - 1
+EP  - 6
+UR  - https://app.dimensions.ai/details/publication/pub.1121960700
+AN  - pub.1121960700
+Y2  - 2022/01/14/
+L2  - http://arxiv.org/pdf/1909.03040
+ER  - 
+
+TY  - JOUR
+TI  - Investigate and Compare Software-Defined Network Controllers for UAV Networks Management
+AU  - Al-Gboury, Hussein Ali
+AU  - Al-Talib, Sahar Abdulaziz
+T2  - IOP Conference Series Materials Science and Engineering
+AB  - Unmanned aerial vehicles that abbreviates (UAVs) are flying platforms, known as drones, which have features such as mobility, adaptive altitude and flexibility. UAVs admit numerous applications that can be used as aerial base stations to enhance coverage, capacity, and energy efficiency of wireless networks. On the other hand, UAVs can operate as flying mobile terminals within a cellular network. Such cellular-connected UAVs can enable several applications ranging from real-time video streaming to item delivery. A Software Defined Network (SDN) Controller is the application that acts as a strategic control point in a software-defined network. It is the ’brain’ of the network. Controller manages flow control to the routers/switches ‘under’ (via southbound APIs), the business logic and applications ’above’ (via northbound APIs) to deploy intelligent networks. Wireless networking with software defined (SDWN) is the use of SDN conceptions in wireless networks by using a controller in the control plane. SDWN facilitates the creation of new adaptive mechanisms according to various applications and user requirements, such as mobility, handover, security and quality of service (QoS). In this paper, simulation work has been conducted to compare and investigate four SDN controllers (Pox, Ryu, Floodlight and OpenDaylight) in order to see which one is suitable to be used. Mininet-Wifi has been selected as the simulation tool to do the experiments and Python script for programming. The results obtained reveals that Ryu controller is the best selection in terms of latency and packet loss.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1088/1757-899x/928/2/022055
+VL  - 928
+IS  - 2
+SP  - 022055
+J2  - IOP Conference Series Materials Science and Engineering
+UR  - https://app.dimensions.ai/details/publication/pub.1132744175
+AN  - pub.1132744175
+Y2  - 2022/01/14/
+L2  - https://doi.org/10.1088/1757-899x/928/2/022055
+ER  - 
+
+TY  - JOUR
+TI  - A taxonomy of blockchain-enabled softwarization for secure UAV network
+AU  - Kumari, Aparna
+AU  - Gupta, Rajesh
+AU  - Tanwar, Sudeep
+AU  - Kumar, Neeraj
+T2  - Computer Communications
+AB  - The recent advancements in unmanned aerial vehicles (UAVs) upsurges its usages in commercial and civilian applications such as surveillance, rescue, and crowdsensing. UAVs are vulnerable to being destroyed, lost, or stolen in case of security breaches of its network. The network management of UAVs is a crucial task due to its high mobility, which necessitates UAV network softwarization. Then, it becomes indispensable that allows the separation of control functions (i.e., control plane data) from hardware for smooth execution of complex operations. Further, UAV uses the Internet (an open channel) for communication in its complex system that raises a network security concern. The well-known softwarization techniques, i.e., software-defined networking (SDN) and network function virtualization (NFV) can be used to accomplish the secure network services on less expense. Conversely, these softwarization techniques may suffer from various threats like access control, user authentication, controller hijacking, and many more attack. The existing solutions are using a centralized system, which is having a single point of failure issue and vulnerable to security threats. Motivated from these facts, we present a comprehensive and systematic survey on the blockchain-based softwarization for a secure UAV network. Then, we propose a blockchain-enabled UAV softwarization architecture for secure communication and network management. It provides dynamic, flexible, and on-the-fly decision capabilities for communication services over the UAV network. Eventually, we analyzed the open research issues and challenges for future research directions in this emerging area.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1016/j.comcom.2020.07.042
+VL  - 161
+SP  - 304
+EP  - 323
+J2  - Computer Communications
+UR  - https://app.dimensions.ai/details/publication/pub.1129903378
+AN  - pub.1129903378
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - JOUR
+TI  - UAVs assessment in software-defined IoT networks: An overview
+AU  - Al-Turjman, Fadi
+AU  - Abujubbeh, Mohammad
+AU  - Malekloo, Arman
+AU  - Mostarda, Leonardo
+T2  - Computer Communications
+AB  - The technological advancements in the ubiquitous IoT era and the ever-growing desire of communities to enforce smart cities with security and safety of user data as their priority, mini Unmanned Arial Vehicles (UAVs), or drones, are perceived as a tool for raising living standards by meeting the requirements of societies. Traditionally in UAV communication links, meshed ad hoc networks were among the first options of connectivity. However, the increased demand for deploying multi-UAV networks necessitates the development of a more robust and more secure networking infrastructure. In this regard, Software-Defined Networking (SDN) paradigm has proved to be the better alternative for multi-UAV communication since it can offer flexible services for management and control owing to its unique features such as decoupling control from UAVs and network programmability. Therefore, in this paper, we provide an overview of drone applications in SDN-enabled Drone Base Stations (DBS), surveillance monitoring and emergency networks, and review the performance assessment techniques and the associated cybersecurity aspects in these applications. Moreover, future research directions, after a thorough analysis of the literature, is presented in this paper. Through the development of an innovative and multifaceted drone performance-assessment framework with the primal concerns, that are meeting user-defined requirements and the provision of secure and reliable services, it is, therefore, necessary to advance in IoT-enabled spaces. We believe the present work is a step in the right direction, and it is essential for fastening the movement towards UAV-enabled smart cities.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1016/j.comcom.2019.12.004
+VL  - 150
+SP  - 519
+EP  - 536
+J2  - Computer Communications
+UR  - https://app.dimensions.ai/details/publication/pub.1123262694
+AN  - pub.1123262694
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - JOUR
+TI  - Achieving Resiliency and Behavior Assurance in Autonomous Navigation: An Industry Perspective
+AU  - Baruah, Sanjoy
+AU  - Lee, Peter
+AU  - Sarathy, Prakash
+AU  - Wolf, Marilyn
+T2  - Proceedings of the IEEE
+AB  - In this article, we present an industry perspective on key drivers for autonomous navigation, with a particular focus on resiliency and behavior assurance. We provide a brief survey of current deployed mobile autonomous systems and their capabilities (with a primary focus on the air domain but including other domains—underwater, ground, space, and surface—as well). We discuss techniques that are currently used for achieving resiliency and assurance in autonomous navigation, pointing out some of the shortcomings of these techniques. We describe techniques under development in the industry that aims to overcome these shortcomings by combining emerging approaches to resilient behavior with assured autonomous behavior constructs to yield reliable and mission-effective systems necessary to operate successfully in dynamic and adversarial environments. We briefly discuss ongoing efforts to develop multidomain standards that are designed to be applicable across these disparate vehicle domains.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1109/jproc.2020.2978661
+VL  - 108
+IS  - 7
+SP  - 1196
+EP  - 1207
+J2  - Proceedings of the IEEE
+UR  - https://app.dimensions.ai/details/publication/pub.1126373290
+AN  - pub.1126373290
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - JOUR
+TI  - New Reliability Studies of Data-Driven Aircraft Trajectory Prediction
+AU  - Hashemi, Seyed Mohammad
+AU  - Botez, Ruxandra Mihaela
+AU  - Grigorie, Teodor Lucian
+T2  - Aerospace
+AB  - Two main factors, including regression accuracy and adversarial attack robustness, of six trajectory prediction models are measured in this paper using the traffic flow management system (TFMS) public dataset of fixed-wing aircraft trajectories in a specific route provided by the Federal Aviation Administration. Six data-driven regressors with their desired architectures, from basic conventional to advanced deep learning, are explored in terms of the accuracy and reliability of their predicted trajectories. The main contribution of the paper is that the existence of adversarial samples was characterized for an aircraft trajectory problem, which is recast as a regression task in this paper. In other words, although data-driven algorithms are currently the best regressors, it is shown that they can be attacked by adversarial samples. Adversarial samples are similar to training samples; however, they can cause finely trained regressors to make incorrect predictions, which poses a security concern for learning-based trajectory prediction algorithms. It is shown that although deep-learning-based algorithms (e.g., long short-term memory (LSTM)) have higher regression accuracy with respect to conventional classifiers (e.g., support vector regression (SVR)), they are more sensitive to crafted states, which can be carefully manipulated even to redirect their predicted states towards incorrect states. This fact poses a real security issue for aircraft as adversarial attacks can result in intentional and purposely designed collisions of built-in systems that can include any type of learning-based trajectory predictor.
+DA  - 2020///
+PY  - 2020
+DO  - 10.3390/aerospace7100145
+VL  - 7
+IS  - 10
+SP  - 145
+J2  - Aerospace
+UR  - https://app.dimensions.ai/details/publication/pub.1131589522
+AN  - pub.1131589522
+Y2  - 2022/01/14/
+L2  - https://www.mdpi.com/2226-4310/7/10/145/pdf
+ER  - 
+
+TY  - CONF
+TI  - Towards Systematic Engineering of Collaborative Heterogeneous Robotic Systems
+AU  - Gerasimou, Simos
+AU  - Matragkas, Nicholas
+AU  - Calinescu, Radu
+AB  - Collaborative heterogeneous robotic systems are distributed and interconnected multi-robot systems whose members can have different capabilities and can perform specialised tasks. Existing engineering processes and tools facilitate the development of various robotic aspects including kinematics, sensing and, architecture, through high-level design and low-level code generation. Although there are several frameworks and middleware, providing infrastructure for the development of single-robot and homogeneous multi-robot applications, there is lack of systematic methods and tools supporting the engineering of heterogeneous multi-robot systems and the analysis of collaborative intelligence. In this paper, we present our vision for a framework that supports the specification of collaborative heterogeneous robotic systems, generation of platform-specific code, and efficient exploration and exercise of collective intelligence algorithms.
+C3  - 2019 IEEE/ACM 2nd International Workshop on Robotics Software Engineering (RoSE)
+DA  - 2019///
+PY  - 2019
+DO  - 10.1109/rose.2019.00012
+SP  - 25
+EP  - 28
+UR  - https://app.dimensions.ai/details/publication/pub.1120885392
+AN  - pub.1120885392
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - JOUR
+TI  - Energy aware endurance framework for mission critical aerial networks
+AU  - Özçevik, Yusuf
+AU  - Canberk, Berk
+T2  - Ad Hoc Networks
+AB  - Recently, aerial networks have been offered as assistant communication infrastructures against some temporary operations especially in mission critical events. However, the lifetime of an aerial component is much less than the estimated operational time because of power supply capacity restrictions. Thus, there should be some replenishment processes between Aerial Base Stations (ABSs) to maintain the physical presence of the topology, i.e. the endurance. During a replenishment process, the relation between energy consumption and flight characteristic of a drone should be carefully taken in to account, because motional energy consumption is much more than the communicational and computational ones. For this purpose, we provide an energy aware endurance framework by modeling an energy consumption digraph model, representing an Aerial Pickup and Delivery Problem (APDP) for flight planning and implementing a novel algorithmic solution. Moreover, replenishment factor (γ) and flight planning cost (δ) parameters are presented to compare the evaluation of the proposed method with a simple replenishment approach. A social event in a stadium is selected as the evaluation environment, and is simulated for three scenarios using Software in the Loop (SITL) simulator with MAVLink Proxy drone controller. According to the evaluation results obtained from simulation logs, our design provides 13% more endurance per ABS (η), an average of 15% less energy consumption w.r.t. δ parameter and 11% less γ value compared to the simple replenishment strategy.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1016/j.adhoc.2019.101992
+VL  - 96
+SP  - 101992
+J2  - Ad Hoc Networks
+UR  - https://app.dimensions.ai/details/publication/pub.1120684450
+AN  - pub.1120684450
+Y2  - 2022/01/14/
+L2  - https://polen.itu.edu.tr/bitstream/11527/18485/1/607063.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Robust Positioning Performance in Indoor Environments
+AU  - Kealy, Allison
+AU  - Retscher, Guenther
+AU  - Li, Yan
+AU  - Gonzales, Thomas
+AU  - Goel, Salil
+AU  - Gabela, Jelena
+T2  - E3S Web of Conferences
+AB  - Increasingly, safety and liability critical applications require GNSS-like positioning metrics in environments where GNSS cannot work. Indoor navigation for the vision impaired and other mobility restricted individuals, emergency responders and asset tracking in buildings demand levels of positioning accuracy and integrity that cannot be satisfied by current indoor positioning technologies and techniques. This paper presents the challenges facing positioning technologies for indoor positioning and presents innovative algorithms and approaches that aim to enhance performance in these difficult environments. The overall aim is to achieve GNSS-like performance in terms of autonomous, global, infrastructure free, portable and cost efficient. Preliminary results from a real-world experimental campaign conducted as part of the joint FIG Working Group 5.5 and IAG Sub-commission 4.1 on multi-sensor systems, demonstrate performance improvements based on differential Wi-Fi (DWi-Fi) and cooperative positioning techniques. The techniques, experimental schema and initial results will be fully documented in this paper.
+DA  - 2019///
+PY  - 2019
+DO  - 10.1051/e3sconf/20199402001
+VL  - 94
+SP  - 02001
+J2  - E3S Web of Conferences
+UR  - https://app.dimensions.ai/details/publication/pub.1114058083
+AN  - pub.1114058083
+Y2  - 2022/01/14/
+L2  - https://www.e3s-conferences.org/articles/e3sconf/pdf/2019/20/e3sconf_isgnss2018_02001.pdf
+ER  - 
+
+TY  - JOUR
+TI  - DADS: Decentralized Attestation for Device Swarms
+AU  - Wedaj, Samuel
+AU  - Paul, Kolin
+AU  - Ribeiro, Vinay J.
+T2  - ACM Transactions on Privacy and Security
+AB  - We present a novel scheme called Decentralized Attestation for Device Swarms (DADS), which is, to the best of our knowledge, the first to accomplish decentralized attestation in device swarms. Device swarms are smart, mobile, and interconnected devices that operate in large numbers and are likely to be part of emerging applications in Cyber-Physical Systems (CPS) and Industrial Internet of Things (IIoTs). Swarm devices process and exchange safety, privacy, and mission-critical information. Thus, it is important to have a good code verification technique that scales to device swarms and establishes trust among collaborating devices. DADS has several advantages over current state-of-the-art swarm attestation techniques: It is decentralized, has no single point of failure, and can handle changing topologies after nodes are compromised. DADS assures system resilience to node compromise/failure while guaranteeing only devices that execute genuine code remain part of the group. We conduct performance measurements of communication, computation, memory, and energy using the TrustLite embedded systems architecture in OMNeT++ simulation environment. We show that the proposed approach can significantly reduce communication cost and is very efficient in terms of computation, memory, and energy requirements. We also analyze security and show that DADS is very effective and robust against various attacks.
+DA  - 2019///
+PY  - 2019
+DO  - 10.1145/3325822
+VL  - 22
+IS  - 3
+SP  - 19
+J2  - ACM Transactions on Privacy and Security
+UR  - https://app.dimensions.ai/details/publication/pub.1118128370
+AN  - pub.1118128370
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - CONF
+TI  - Byzantine fault tolerance for centrally coordinated missions with unmanned vehicles
+AU  - Grigoropoulos, Nasos
+AU  - Koutsoubelias, Manos
+AU  - Lalis, Spyros
+AB  - Autonomous unmanned vehicles can support a wide range of missions, which are typically coordinated by a human operator. Automating these missions through a computer program can offer great advantages, but at the same time introduces several challenges. In particular, it becomes important to tolerate failures of the mission controller, including the most general type, namely Byzantine failures. To address this challenge, we propose an active replication approach adapted to the characteristics of this particular type of system. Our solution relies on signed messages and requires N = 2 f + 1 mission controller replicas to tolerate f Byzantine failures. We describe the system model and the mechanisms that need to be in place to achieve the desired functionality, and argue about the correctness of the proposed approach in an informal way. Also, we evaluate the overheads of a prototype implementation through indicative simulation experiments.
+C3  - Proceedings of the 17th ACM International Conference on Computing Frontiers
+DA  - 2020///
+PY  - 2020
+DO  - 10.1145/3387902.3392622
+SP  - 165
+EP  - 173
+UR  - https://app.dimensions.ai/details/publication/pub.1127911580
+AN  - pub.1127911580
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - JOUR
+TI  - Predictive Formal Analysis of Resilience in Cyber-Physical Systems
+AU  - Mouelhi, Sebti
+AU  - Laarouchi, Mohamed-Emine
+AU  - Cancila, Daniela
+AU  - Chaouchi, Hakima
+T2  - IEEE Access
+AB  - The behavioral analysis of cyber-physical systems in safety-critical scenarios is a challenging task. In this paper, the endogenous and exogenous aspects of resilience are of cornerstone importance in system design and verification. Endogenous resilience is the inherent ability of the system to detect and process internal faults and malicious attacks. Exogenous resilience is the permanent capability of the system to maintain a safe operation within its ambient environment. In this paper, we present a predictive dual-sided contract-based formal methodology to address both aspects of resilience on top of a distributed object-oriented component-based software model. It is illustrated by a case study of urban drone rescue systems. We exploit the formalism of timed automat a and the toolbox UPPAAL to predict by abstraction and analyze (simulate and verify) endogenous resilience. Instead of presenting the final models of the case study, we reflect our experience with UPPAAL in generic patterns of system design and contract specification, reusable in other contexts with adaptations. The analysis of exogenous resilience is specific to the considered drone rescue system. It consists of synthesizing by iterative model-checking safe flight paths for the drones within a 3D virtual model of urban surroundings true to modern cities.
+DA  - 2019///
+PY  - 2019
+DO  - 10.1109/access.2019.2903153
+VL  - 7
+SP  - 33741
+EP  - 33758
+J2  - IEEE Access
+UR  - https://app.dimensions.ai/details/publication/pub.1112862470
+AN  - pub.1112862470
+Y2  - 2022/01/14/
+L2  - https://ieeexplore.ieee.org/ielx7/6287639/8600701/08668400.pdf
+ER  - 
+
+TY  - CONF
+TI  - Resilient Network-level Design of Leader-follower Multi-agent Systems Against DoS Attacks
+AU  - Zhang, Ting
+AU  - Li, Zhongkui
+AB  - This paper considers the cooperative synchronization problem for multi-agent systems with a directed communication graph under potential DoS (Denial-of-Service) attacks, which destruct communications and measurement channels of the agents. The resilient control method consisting of a virtual system with hidden network is proposed to maintain the stability and convergence of the cooperative systems in the presence of the attacks. In contrast to previous related works against the DoS attack, the proposed approach can ensure the synchronization of multi-agent systems with unknown attack frequency and duration.
+C3  - 2020 39th Chinese Control Conference (CCC)
+DA  - 2020///
+PY  - 2020
+DO  - 10.23919/ccc50068.2020.9189455
+SP  - 5122
+EP  - 5127
+UR  - https://app.dimensions.ai/details/publication/pub.1130743598
+AN  - pub.1130743598
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - JOUR
+TI  - Adaptive synchronization of multi-agent systems with resilience to communication link faults
+AU  - Chen, Ci
+AU  - Xie, Kan
+AU  - Lewis, Frank L.
+AU  - Xie, Shengli
+AU  - Fierro, Rafael
+T2  - Automatica
+AB  - The resilience of multi-agent systems (MAS) measures the capability of recovering the cooperative performance after experiencing faults or uncertainties. In this paper, we seek the improvement of the synchronization resilience for MAS by means of addressing unknown faults on communication links. To this end, we first transform the resilient control problem into designing distributed state observers. In addition, we show that the proposed state observers are resilient to communication link faults. Finally, we provide the main result of this paper as a synchronization protocol for MAS even in the presence of communication link faults.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1016/j.automatica.2019.108636
+VL  - 111
+SP  - 108636
+J2  - Automatica
+UR  - https://app.dimensions.ai/details/publication/pub.1122258588
+AN  - pub.1122258588
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - CONF
+TI  - Resilient Spacecraft Formation Control Under Malfunctioning Communication
+AU  - Phillips, Sean
+AU  - Petersen, Christopher D.
+AU  - Fierro, Rafael
+AB  - This paper explores a formation control design which is resilient against malfunctioning communications. The goal is to have each agent, modeled in the relative motion Hill frame, to orbit around a target point using only neighboring information. The proposed approach leverages our previous work in satellite formation control which uses a Lyapunov-based formation control solution. To mitigate the effect of malfunctioning agents communicating miss-information on the network which would cause errors in the control algorithm, each agent applies a modified weighted mean-subsequence reduced consensus algorithm to the formation control problem. This algorithm compares the communicated information on the location of the malfunctioning agents to the predefined formation cooperating agents can identify and isolate such defunct agents. Results are illustrated in a ten spacecraft simulation orbiting around a single satellite at the origin and compares the case between malfunctioning satellites and non-malfunctioning satellites.
+C3  - AIAA Scitech 2020 Forum
+DA  - 2020///
+PY  - 2020
+DO  - 10.2514/6.2020-1339
+UR  - https://app.dimensions.ai/details/publication/pub.1123825389
+AN  - pub.1123825389
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - JOUR
+TI  - Distributed Optimization for Robot Networks: From Real-Time Convex Optimization to Game-Theoretic Self-Organization
+AU  - Jaleel, Hassan
+AU  - Shamma, Jeff S.
+T2  - Proceedings of the IEEE
+AB  - Recent advances in sensing, communication, and computing technologies have enabled the use of multirobot systems for practical applications such as surveillance, area mapping, and search and rescue. For such systems, a major challenge is to design decision rules that are real-time-implementable, require local information only, and guarantee some desired global performance. Distributed optimization provides a framework for designing such local decision-making rules for multirobot systems. In this article, we present a collection of selected results for distributed optimization for robot networks. We will focus on two special classes of problems: 1) real-time path planning for multirobot systems and 2) self-organization in multirobot systems using game-theoretic approaches. For multirobot path planning, we will present some recent approaches that are based on approximately solving distributed optimization problems over continuous and discrete domains of actions. The main idea underlying these approaches is that a variety of path planning problems can be formulated as convex optimization and submodular minimization problems over continuous and discrete action spaces, respectively. To generate local update rules that are efficiently implementable in real time, these approaches rely on approximate solutions to the global problems that can still guarantee some level of desired global performance. For game-theoretic self-organization, we will present a sampling of results for area coverage and real-time target assignment. In these results, the problems are formulated as games, and online updating rules are designed to enable teams of robots to achieve the collective objective in a distributed manner.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1109/jproc.2020.3028295
+VL  - 108
+IS  - 11
+SP  - 1953
+EP  - 1967
+J2  - Proceedings of the IEEE
+UR  - https://app.dimensions.ai/details/publication/pub.1132110433
+AN  - pub.1132110433
+Y2  - 2022/01/14/
+L2  - https://repository.kaust.edu.sa/bitstream/10754/665668/1/Final%20version%20%284%29.pdf
+ER  - 
+
+TY  - JOUR
+TI  - An Energy-Efficient Clustering and Routing Framework for Disaster Relief Network
+AU  - Masaracchia, Antonino
+AU  - Nguyen, Long D.
+AU  - Duong, Trung Q.
+AU  - Nguyen, Minh-Nghia
+T2  - IEEE Access
+AB  - The lack of communication between local authorities, first aid responders, and the population that are present in a natural disaster area, represents critical aspects which can compromise relief operations in saving human lives. During natural disasters (earthquakes/tsunamis), the typical telecommunications network infrastructure in the affected area could be damaged or unfunctional. This can seriously compromise the efficiency of first aid operations. In this paper, we propose a device-to-device (D2D)-based framework which, starting from some basic information such as positions and battery level of victim’s devices, could provide communication from a disaster area towards a functional area. This framework, utilized by a base station located in a functional area, organizes users of disaster area into clusters of users and for each cluster select a gateway. This framework permits also, to evaluate the optimal transmission power for each gateway in order to maximize the energy efficiency in the area and to create a multi-hop path from the disaster area to relay node minimizing the end-to-end delay. The simulations results demonstrate that our proposed approach outperforms either random policy assignment and static policies assignment in both power allocation and routing path creations.
+DA  - 2019///
+PY  - 2019
+DO  - 10.1109/access.2019.2913909
+VL  - 7
+SP  - 56520
+EP  - 56532
+J2  - IEEE Access
+UR  - https://app.dimensions.ai/details/publication/pub.1113813414
+AN  - pub.1113813414
+Y2  - 2022/01/14/
+L2  - https://ieeexplore.ieee.org/ielx7/6287639/8600701/08701700.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Multi-objective optimization for the green vehicle routing problem: A systematic literature review and future directions
+AU  - Ferreira, Júlio César
+AU  - Steiner, Maria Teresinha Arns
+AU  - Canciglieri Junior, Osíris
+T2  - Cogent Engineering
+AB  - This article aims to present research conducted on the literature regarding multi-objective optimization for routing problems with environmental considerations, referred to here as Multi-objective Optimization for the Green Vehicle Routing Problem (MOOGVRP). A Brazilian database, CAPES (Coordination for the Improvement of Higher Education Personnel), was used to collect articles of general application, case studies and reviews in English starting from, since 2012. The terms “green vehicle routing problem” (GVRP), “pollution routing problem” (PRP), “vehicle routing problem in reverse logistics” (VRPRL) and “multi-objective” were used in the research protocol. Consequently, this study obtained 1,744 research results that, following the application of the filtering criterion, resulted in a sample of 76 articles from 38 journals, for which a bibliometric data (bibliometric review) survey was conducted. The originality of this article lies in how the research is presented, highlighting the results and details obtained through the survey, which may be considered of great academic importance in the sense of guiding the trends for future research.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1080/23311916.2020.1807082
+VL  - 7
+IS  - 1
+SP  - 1807082
+J2  - Cogent Engineering
+UR  - https://app.dimensions.ai/details/publication/pub.1130122630
+AN  - pub.1130122630
+Y2  - 2022/01/14/
+L2  - https://www.tandfonline.com/doi/pdf/10.1080/23311916.2020.1807082?needAccess=true
+ER  - 
+
+TY  - JOUR
+TI  - Securing Vehicle-to-Everything (V2X) Communication Platforms
+AU  - Hasan, Monowar
+AU  - Mohan, Sibin
+AU  - Shimizu, Takayuki
+AU  - Lu, Hongsheng
+T2  - IEEE Transactions on Intelligent Vehicles
+AB  - Modern vehicular wireless technology enables vehicles to exchange information at any time, from any place, to any networkforms the vehicle-to-everything (V2X) communication platforms. Despite benefits, V2X applications also face great challenges to security and privacya very valid concern since breaches are not uncommon in automotive communication networks and applications. In this survey, we provide an extensive overview of V2X ecosystem. We also review main security/privacy issues, current standardization activities and existing defense mechanisms proposed within the V2X domain. We then identified semantic gaps of existing security solutions and outline possible open issues.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1109/tiv.2020.2987430
+VL  - 5
+IS  - 4
+SP  - 693
+EP  - 713
+J2  - IEEE Transactions on Intelligent Vehicles
+UR  - https://app.dimensions.ai/details/publication/pub.1126710969
+AN  - pub.1126710969
+Y2  - 2022/01/14/
+L2  - http://arxiv.org/pdf/2003.07191
+ER  - 
+
+TY  - JOUR
+TI  - A Review of the Control Plane Scalability Approaches in Software Defined Networking
+AU  - Abuarqoub, Abdelrahman
+T2  - Future Internet
+AB  - Recent advances in information and communications cloud-based services hold the potential to overcome the scalability and complex maintenance limitations of traditional networks. Software Defined Networking (SDN) surfaced as a promising paradigm to mitigate such limitations while offering flexible networks management. Particularly, SDN separates the control plane from the data plane to achieve abstraction of lower-level functionality, hence, allowing more efficient network management and utilization. However, SDN suffers from various performance and scalability problems leading to significant research efforts on maximizing the scalability of the control plane. This paper aims at reviewing different SDN controller scalability, topology-based and mechanism-based approaches, as well as discussing and analyzing how they attempt to solve the scalability challenge. Furthermore, this paper elaborates on the promising research trends and challenges. Our insights are also discussed to stimulate further research efforts addressing the control plane scalability in SDN.
+DA  - 2020///
+PY  - 2020
+DO  - 10.3390/fi12030049
+VL  - 12
+IS  - 3
+SP  - 49
+J2  - Future Internet
+UR  - https://app.dimensions.ai/details/publication/pub.1125648137
+AN  - pub.1125648137
+Y2  - 2022/01/14/
+L2  - https://www.mdpi.com/1999-5903/12/3/49/pdf
+ER  - 
+
+TY  - JOUR
+TI  - Vision Paper: Grand Challenges in Resilience: Autonomous System Resilience through Design and Runtime Measures
+AU  - Bagchi, Saurabh
+AU  - Aggarwal, Vaneet
+AU  - Chaterji, Somali
+AU  - Douglis, Fred
+AU  - Gamal, Aly El
+AU  - Han, Jiawei
+AU  - Henz, Brian J.
+AU  - Hoffmann, Henry
+AU  - Jana, Suman
+AU  - Kulkarni, Milind
+AU  - Lin, Felix Xiaozhu
+AU  - Marais, Karen
+AU  - Mittal, Prateek
+AU  - Mou, Shaoshuai
+AU  - Qiu, Xiaokang
+AU  - Scutari, Gesualdo
+T2  - IEEE Open Journal of the Computer Society
+AB  - In this article, we put forward the substantial challenges in cyber resilience in the domain of autonomous systems and outline foundational solutions to address these challenges. These solutions fall into two broad themes: resilience-by-design and resilience-by-reaction. We use several application drivers from autonomous systems to motivate the challenges in cyber resilience and to demonstrate the benefit of the solutions. We focus on some autonomous systems in the near horizon (autonomous ground and aerial vehicles) and also a little more distant (autonomous rescue and relief). For resilience-by-design, we focus on design methods in software that are needed for our cyber systems to be resilient. In contrast, for resilience-by-reaction, we discuss how to make systems resilient by responding, reconfiguring, or recovering at runtime when failures happen. We also discuss the notion of adaptive execution to improve resilience, execution transparently and adaptively among available execution platforms (mobile/embedded, edge, and cloud). For each of the two themes, we survey the current state, and the desired state and ways to get there. We conclude the paper by looking at the research challenges we will have to solve in the short and the mid-term to make the vision of resilient autonomous systems a reality. This article came out of discussions that started at the NSF-sponsored Grand Challenges in Resilience Workshop held at Purdue in 2019 with the co-authors contributing to going into the depth of the issues and then this article.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1109/ojcs.2020.3006807
+VL  - 1
+SP  - 155
+EP  - 172
+J2  - IEEE Open Journal of the Computer Society
+UR  - https://app.dimensions.ai/details/publication/pub.1128980597
+AN  - pub.1128980597
+Y2  - 2022/01/14/
+L2  - https://ieeexplore.ieee.org/ielx7/8782664/8821528/09133332.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Performance evaluation of automatic object detection with post-processing schemes under enhanced measures in wide-area aerial imagery
+AU  - Gao, Xin
+T2  - Multimedia Tools and Applications
+AB  - Performance analysis of object detection combined with post-processing schemes are challenging especially that the spatial resolution of images is low in wide-area aerial imagery. In this paper, we present the quantitative results of ten object detection algorithms combined with several post-processing schemes including filtered dilation, heuristic filtering, sieving and closing, a three-stage scheme which involves thresholding with respect to area and compactness, and the proposed scheme of median filtering, opening and closing, followed by linear Gaussian filtering with nonmaximum suppression. We verified the sieving and closing as well as the three-stage scheme display better Fβ-score and PASCAL value via four vehicle detection algorithms. We evaluated combinations of ten object detection and segmentation methods with two post-processing schemes by adopting a set of recent evaluation metrics, i.e., Jaccard Index (JI), Fbw measure, the structure similarity measure (SSIM) and the enhanced alignment measure (EAM). Automatic detection outputs are compared with their ground truth in low-resolution aerial datasets. Classified detection results are established on ten algorithms each combined with the selected post-processing schemes. We take two widely used datasets (VIVID and VEDAI) for performance analysis, compare the detections and time cost of each algorithm either without or with the proposed scheme, and verified our approach via replacing either datasets or algorithms. Quantitative evaluation under a set of enhanced measures proves our test with validity, efficiency, and accuracy.
+DO  - 10.1007/s11042-020-09201-0
+VL  - 79
+IS  - 41-42
+SP  - 30357
+EP  - 30386
+J2  - Multimedia Tools and Applications
+UR  - https://app.dimensions.ai/details/publication/pub.1130139456
+AN  - pub.1130139456
+Y2  - 2022/01/14/
+ER  - 
+
+TY  - JOUR
+TI  - Resilient group consensus in the presence of Byzantine agents
+AU  - Öksüz, Halil Yiğit
+AU  - Akar, Mehmet
+T2  - International Journal of Control
+AB  - In this paper, we address the resilient group consensus of multi-agent networks in the presence of structured and unstructured Byzantine faults. In the case of structured Byzantine faults that feed different but structured values to the network, it is shown that non-faulty nodes can achieve group consensus without using any fault tolerant algorithm. Necessary and sufficient conditions on the network are derived so that the conventional consensus algorithm leads to group consensus values in the range determined by the initial values of the non-faulty nodes. In the presence of unstructured Byzantine faults, two fault tolerant algorithms are proposed to overcome the highly disruptive behaviour. Subsequently, convergence analysis of these algorithms is carried out by exploiting the robustness properties of the network. Finally, theoretical results are illustrated with several simulation examples.
+DA  - 2021///
+PY  - 2021
+DO  - 10.1080/00207179.2019.1618496
+VL  - 94
+IS  - 3
+SP  - 1
+EP  - 32
+J2  - International Journal of Control
+UR  - https://app.dimensions.ai/details/publication/pub.1114046955
+AN  - pub.1114046955
+Y2  - 2022/01/14/
+ER  - 
+
